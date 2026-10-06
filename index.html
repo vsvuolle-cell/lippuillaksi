@@ -5,7 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
 <meta name="color-scheme" content="light dark">
-<title>Lippu illaksi</title>
+<title>Lippu illaksi – teatteriliput tänään ja huomenna pääkaupunkiseudulla</title>
+<link rel="canonical" href="https://lippuillaksi.fi/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lippu illaksi">
+<meta property="og:title" content="Lippu illaksi – teatteriliput tänään ja huomenna">
+<meta property="og:description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
+<meta property="og:url" content="https://lippuillaksi.fi/">
+<meta property="og:locale" content="fi_FI">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Lippu illaksi","url":"https://lippuillaksi.fi/","inLanguage":"fi"}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
@@ -159,6 +167,8 @@ details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
 .coverage { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; padding: 0; list-style: none; }
 .coverage li { font-size: .8rem; padding: 3px 9px; border-radius: 6px; background: var(--chip); color: var(--ink); }
 .coverage li.miss { background: transparent; border: 1px dashed var(--line); color: var(--muted); }
+.browse a { color: var(--accent); font-weight: 600; }
+.coverage a { color: inherit; text-decoration: none; }
 .loading { padding: 40px 20px; text-align: center; color: var(--muted); }
 </style>
 <style>html{-webkit-text-size-adjust:100%}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
@@ -209,6 +219,7 @@ details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
 
   <footer>
     <p class="updated" id="updated"></p>
+    <p class="browse"><b>Selaa:</b> <a href="/tanaan/">Teatteri tänään</a> · <a href="/huomenna/">Teatteri huomenna</a> · <a href="/teatterit/">Kaikki teatterit</a></p>
     <p><b>Mukana olevat teatterit</b></p>
     <ul class="coverage" id="coverage"></ul>
     <p>Lipputilanne on haettu teattereiden ja lipunmyyjien sivuilta, ja se voi muuttua nopeasti. Tarkista lopullinen tilanne ja hinta lipunmyyjältä. Hinnat ovat halvimpia aikuisten lippuja ilman palvelumaksuja.</p>
@@ -233,6 +244,7 @@ const fmtDur = (m, inter) => {
 };
 const fmtPrice = p => (Math.round(p * 100) / 100).toLocaleString("fi-FI", { minimumFractionDigits: p % 1 ? 2 : 0, maximumFractionDigits: 2 });
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const slug = s => s.toLowerCase().replace(/ä/g, "a").replace(/ö/g, "o").replace(/å/g, "a").replace(/é/g, "e").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60);
 const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
 
 const today = new Date(); today.setHours(0, 0, 0, 0);
@@ -347,7 +359,7 @@ function renderFooter() {
   const u = new Date(DATA.updated);
   document.getElementById("updated").textContent = `Tiedot päivitetty ${WD[u.getDay()]} ${fmtDate(u)} klo ${u.getHours()}.${pad(u.getMinutes())}.`;
   document.getElementById("coverage").innerHTML = THEATRES.slice().sort((a, b) => (a.status !== "ok") - (b.status !== "ok") || a.name.localeCompare(b.name, "fi"))
-    .map(t => `<li class="${t.status === "ok" ? "" : "miss"}" title="${esc(t.note || "")}">${esc(t.name)}${t.status === "ok" ? "" : " – " + esc((t.note || "").toLowerCase())}</li>`).join("");
+    .map(t => `<li class="${t.status === "ok" ? "" : "miss"}" title="${esc(t.note || "")}"><a href="/teatteri/${slug(t.name)}/">${esc(t.name)}</a>${t.status === "ok" ? "" : " – " + esc((t.note || "").toLowerCase())}</li>`).join("");
 }
 function render() { renderDays(); renderList(); }
 
