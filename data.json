@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T09:49+03:00",
+"updated": "2026-10-06T13:42+03:00",
 "from": "2026-10-06",
 "to": "2026-10-12",
 "productions": {
@@ -12,7 +12,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "suomi ja englanti (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin romaaniin perustuva näytelmä kustantajasta, joka etsii kuolleen kirjailijan kadonnutta käsikirjoitusta. Arvoitus kietoutuu Euroopan 1900-luvun traumoihin."
 },
@@ -51,7 +51,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esa Leskisen dokumentaarinen näytelmä sodanjälkeisestä Suomesta Neuvostoliiton varjossa, keskiössä Urho Kekkonen. Viihdyttävä ja terävä katsaus hyvinvointivaltion rakentamiseen."
 },
@@ -81,18 +81,57 @@
 "page": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina",
 "desc": "Pinja Hahtolan humoristinen monologi Eino Leinon rakkaussuhteista, jossa lavalle astuu joukko runoilijan muusia."
 },
-"helsingin-kaupungint-club-act-one-vuorottelut": {
-"theatre": "Helsingin Kaupunginteatteri",
+"svenska-teatern-anglagard": {
+"theatre": "Svenska Teatern",
 "city": "Helsinki",
-"stage": "Studio Pasila",
-"title": "Club act!one - vuorottelut",
-"genre": "Komedia",
-"dur": 120,
-"inter": true,
-"lang": "suomi",
+"stage": "Stora scenen",
+"title": "Änglagård",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": "ruotsi",
 "subs": null,
-"page": "https://hkt.fi/esitykset/club-actone/",
-"desc": "Stand-up-komiikan ilta, jossa esiintyvät Tomi Haustola, Leo Holmström, André Wickström ja Aurora Vasama. Komiikka sekoittaa vitsailua, irrottelua ja yleisöä osallistavaa lavakokemusta."
+"page": "",
+"desc": ""
+},
+"svenska-teatern-nattland": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "AMOS-scenen",
+"title": "Nattland",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": "ruotsi",
+"subs": null,
+"page": "",
+"desc": ""
+},
+"svenska-teatern-manu-rosales": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "AMOS-scenen",
+"title": "Manu Rosales",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": "ruotsi",
+"subs": null,
+"page": "",
+"desc": ""
+},
+"svenska-teatern-sista-brevet-fran-fronten": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "NICKEN-scenen",
+"title": "Sista brevet från fronten",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": "ruotsi",
+"subs": null,
+"page": "",
+"desc": ""
 },
 "ryhmateatteri-aitisi-klytaimestra": {
 "theatre": "Ryhmäteatteri",
@@ -103,7 +142,7 @@
 "dur": null,
 "inter": null,
 "lang": "suomi",
-"subs": "Englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
+"subs": "englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Minna Lundinin Elektrasta vapaasti innoittunut psykologinen draama porvarillisen kodin keittiössä. Äidinrakkauden varjopuolista ja sukupolvelta toiselle siirtyvistä traumoista."
 },
@@ -224,45 +263,6 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/ghosts-rosegarden",
 "desc": "Elina Pirisen tanssiteos kahdeksalle tanssijalle ja viidelle muusikolle: surrealistinen satu puutarhasta ja sen oudoista rituaaleista. K18."
 },
-"teatteri-vantaa-lena-labart-claes-andersson-pimean-kirkkaus": {
-"theatre": "Teatteri Vantaa",
-"city": "Vantaa",
-"stage": "Aulateatteri",
-"title": "Lena Labart: Claes Andersson – Pimeän kirkkaus",
-"genre": "Draama",
-"dur": 50,
-"inter": false,
-"lang": "suomi",
-"subs": null,
-"page": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/",
-"desc": "Näyttelijä Lena Labart esittää Claes Anderssonin lämpimia, inhimillisiä ja terävän älykkäitä tekstejä, jotka lähestyvät maailmaa empaattisesti ja oivaltavasti."
-},
-"teatteri-vantaa-sir-elwood-duo": {
-"theatre": "Teatteri Vantaa",
-"city": "Vantaa",
-"stage": "Silkkisali",
-"title": "Sir Elwood duo",
-"genre": "Draama",
-"dur": 95,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://teatterivantaa.fi/portfolio/sir-elwood-duo-2/",
-"desc": "Juha Lehti ja Junnu Saaresaho tarjoavat musiikillisen matkan koskettavien tarinoiden, kauniiden melodioiden ja sielukkaan soitannan merkeissä yli kolmen vuosikymmenen kokemuksella."
-},
-"teatteri-vantaa-stella-polaris-maaginen-matka": {
-"theatre": "Teatteri Vantaa",
-"city": "Vantaa",
-"stage": "Silkkisali",
-"title": "Stella Polaris – Maaginen matka",
-"genre": "Lapsille",
-"dur": 45,
-"inter": false,
-"lang": "suomi",
-"subs": null,
-"page": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
-"desc": "Improvisoitu perheseikkailu, jossa lapset saavat vaikuttaa tarinan suuntaan. Yli 6-vuotiaille."
-},
 "teatteri-vantaa-pimean-kirkkaus": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
@@ -275,6 +275,32 @@
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/",
 "desc": "Lena Labartin intiimi yhden naisen esitys Claes Anderssonin teksteistä: lämmin ja humoristinen, mutta myös maailman julmuutta haastava."
+},
+"teatteri-vantaa-maaginen-matka": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Silkkisali",
+"title": "Maaginen matka",
+"genre": "Lapsille",
+"dur": 45,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
+"desc": "Koko perheen hurmaava improvisoitu seikkailu, jossa näyttelijät, muusikko ja valosuunnittelija improvisoivat lapsilta saatujen ehdotusten pohjalta."
+},
+"teatteri-vantaa-stella-polaris-maaginen-matka": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Teatteri Vantaa",
+"title": "Stella Polaris – Maaginen matka",
+"genre": "Lapsille",
+"dur": 45,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
+"desc": "Improvisoitu perheseikkailu, jossa lapset saavat vaikuttaa tarinan suuntaan. Yli 6-vuotiaille."
 }
 },
 "showings": [
@@ -312,20 +338,12 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485428/?affiliate=ADV&language=fi"
 },
 {
-"p": "teatteri-avoimet-ove-soteorpo",
-"date": "2026-10-06",
-"time": "18.30",
-"price": 42,
-"avail": "unknown",
-"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
-},
-{
 "p": "aleksanterin-teatter-pohjolan-naisen-luonto",
 "date": "2026-10-06",
 "time": "19.00",
 "price": null,
-"avail": "sold",
-"url": "https://www.aleksanterinteatteri.fi/lippuinfo/"
+"avail": "few",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2090"
 },
 {
 "p": "zodiak-uuden-tanssin-ghosts-of-rosegarden",
@@ -345,12 +363,12 @@
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485456/?affiliate=ADV&language=fi"
 },
 {
-"p": "teatteri-vantaa-lena-labart-claes-andersson-pimean-kirkkaus",
+"p": "svenska-teatern-anglagard",
 "date": "2026-10-07",
-"time": "14.00",
-"price": 27,
-"avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/"
+"time": "12.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9178/"
 },
 {
 "p": "teatteri-vantaa-pimean-kirkkaus",
@@ -358,7 +376,15 @@
 "time": "14.00",
 "price": 27,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/pimean-kirkkaus-vantaa"
+"url": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/"
+},
+{
+"p": "svenska-teatern-sista-brevet-fran-fronten",
+"date": "2026-10-07",
+"time": "18.00",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12298/9571/"
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -373,8 +399,8 @@
 "date": "2026-10-07",
 "time": "18.30",
 "price": 25,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-eino-leinon-eksat-enemman-ja-vahemman-muusina-helsinki-suomen-kansallisteatteri-21720166/?affiliate=ADV&language=fi"
 },
 {
 "p": "suomen-kansallisteat-sivuraide",
@@ -385,12 +411,28 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485429/?affiliate=ADV&language=fi"
 },
 {
+"p": "svenska-teatern-manu-rosales",
+"date": "2026-10-07",
+"time": "19.00",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12284/9446/"
+},
+{
 "p": "teatteri-jurkka-keuhkot",
 "date": "2026-10-07",
 "time": "19.00",
 "price": null,
 "avail": "sold",
 "url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "svenska-teatern-sista-brevet-fran-fronten",
+"date": "2026-10-08",
+"time": "18.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12298/9575/"
 },
 {
 "p": "aleksanterin-teatter-kuningatar-leena",
@@ -425,6 +467,14 @@
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485448/?affiliate=ADV&language=fi"
 },
 {
+"p": "svenska-teatern-anglagard",
+"date": "2026-10-08",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9179/"
+},
+{
 "p": "teatteri-jurkka-keuhkot",
 "date": "2026-10-08",
 "time": "19.00",
@@ -439,6 +489,14 @@
 "price": null,
 "avail": "unknown",
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
+},
+{
+"p": "svenska-teatern-sista-brevet-fran-fronten",
+"date": "2026-10-09",
+"time": "18.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12298/9576/"
 },
 {
 "p": "aleksanterin-teatter-kuningatar-leena",
@@ -474,6 +532,14 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485492/?affiliate=ADV&language=fi"
 },
 {
+"p": "svenska-teatern-anglagard",
+"date": "2026-10-09",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9180/"
+},
+{
 "p": "teatteri-avoimet-ove-soteorpo",
 "date": "2026-10-09",
 "time": "18.30",
@@ -482,21 +548,12 @@
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
 },
 {
-"p": "teatteri-vantaa-sir-elwood-duo",
-"date": "2026-10-09",
-"time": "18.30",
-"price": 24,
-"avail": "few",
-"url": "https://teatterivantaa.fi/portfolio/sir-elwood-duo-2/",
-"note": "K18-tilaisuus, enää muutamia lippuja jäljellä"
-},
-{
 "p": "teatteri-jurkka-keuhkot",
 "date": "2026-10-09",
 "time": "19.00",
 "price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
+"avail": "unknown",
+"url": "https://www.lippu.fi/event/keuhkot-teatteri-jurkka-21542014/?affiliate=ADV&language=fi"
 },
 {
 "p": "zodiak-uuden-tanssin-ghosts-of-rosegarden",
@@ -505,6 +562,14 @@
 "price": null,
 "avail": "unknown",
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-10",
+"time": "13.00",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
 },
 {
 "p": "suomen-kansallisteat-lopetus",
@@ -531,6 +596,14 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-viidakon-villit-naiset-suomen-kansallisteatteri-21486769/?affiliate=ADV&language=fi"
 },
 {
+"p": "svenska-teatern-anglagard",
+"date": "2026-10-10",
+"time": "13.00",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9164/"
+},
+{
 "p": "aleksanterin-teatter-kuningatar-leena",
 "date": "2026-10-10",
 "time": "14.00",
@@ -555,13 +628,20 @@
 "url": "https://www.jurkka.fi/kalenteri/"
 },
 {
+"p": "teatteri-vantaa-maaginen-matka",
+"date": "2026-10-10",
+"time": "14.00",
+"price": 17,
+"avail": "unknown",
+"url": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/"
+},
+{
 "p": "teatteri-vantaa-stella-polaris-maaginen-matka",
 "date": "2026-10-10",
 "time": "14.00",
 "price": 17,
 "avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
-"note": "Ikäsuositus alkaen 6-vuotiaille"
+"url": "https://embed.netticket.fi/stella-polaris-maaginen-matka-vantaa"
 },
 {
 "p": "zodiak-uuden-tanssin-ghosts-of-rosegarden",
@@ -570,6 +650,22 @@
 "price": null,
 "avail": "unknown",
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
+},
+{
+"p": "svenska-teatern-nattland",
+"date": "2026-10-10",
+"time": "16.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9318/"
+},
+{
+"p": "svenska-teatern-sista-brevet-fran-fronten",
+"date": "2026-10-10",
+"time": "16.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12298/9577/"
 },
 {
 "p": "aleksanterin-teatter-kuningatar-leena",
@@ -596,12 +692,12 @@
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485449/?affiliate=ADV&language=fi"
 },
 {
-"p": "helsingin-kaupungint-club-act-one-vuorottelut",
+"p": "svenska-teatern-anglagard",
 "date": "2026-10-10",
-"time": "19.00",
-"price": 29,
-"avail": "unknown",
-"url": "https://www.lippu.fi/tickets.html?affiliate=HKK&doc=erdetaila&fun=erdetail&erid=2039568"
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9163/"
 },
 {
 "p": "teatteri-avoimet-ove-soteorpo",
@@ -650,6 +746,14 @@
 "price": 42,
 "avail": "many",
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485494/?affiliate=ADV&language=fi"
+},
+{
+"p": "teatteri-jurkka-vayla",
+"date": "2026-10-12",
+"time": "19.00",
+"price": null,
+"avail": "unknown",
+"url": "https://www.lippu.fi/event/teatteri-jurkka-vayla-helsinki-teatteri-jurkka-20883157/?affiliate=ADV&language=fi"
 }
 ],
 "theatres": [
@@ -661,13 +765,13 @@
 {
 "name": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"status": "ok"
+"status": "none",
+"note": "Ei näytöksiä tai tietoja ei saatu haettua"
 },
 {
 "name": "Svenska Teatern",
 "city": "Helsinki",
-"status": "none",
-"note": "Ei näytöksiä tai ajat eivät vielä haettavissa"
+"status": "ok"
 },
 {
 "name": "Ryhmäteatteri",
