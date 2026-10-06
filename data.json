@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T13:56+03:00",
+"updated": "2026-10-06T14:11+03:00",
 "from": "2026-10-06",
 "to": "2026-10-12",
 "productions": {
@@ -12,7 +12,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja suomeksi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin romaaniin perustuva näytelmä kustantajasta, joka etsii kuolleen kirjailijan kadonnutta käsikirjoitusta. Arvoitus kietoutuu Euroopan 1900-luvun traumoihin."
 },
@@ -51,7 +51,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "Englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esa Leskisen dokumentaarinen näytelmä sodanjälkeisestä Suomesta Neuvostoliiton varjossa, keskiössä Urho Kekkonen. Viihdyttävä ja terävä katsaus hyvinvointivaltion rakentamiseen."
 },
@@ -80,6 +80,136 @@
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina",
 "desc": "Pinja Hahtolan humoristinen monologi Eino Leinon rakkaussuhteista, jossa lavalle astuu joukko runoilijan muusia."
+},
+"helsingin-kaupungint-seniorisoppa": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Suuri näyttämö LÄMPIÖ",
+"title": "Seniorisoppa",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-fretti-mercury-etsii-onnea": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Studio Pasila",
+"title": "Fretti Mercury etsii onnea",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-de-obehoriga": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Lilla Teatern",
+"title": "De obehöriga",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-kurtturuusut": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Helsingin Kaupunginteatteri, Pieni näyttämö",
+"title": "Kurtturuusut",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-amp-julia": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Helsingin Kaupunginteatteri, Suuri näyttämö",
+"title": "&amp; Julia",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-kotijoukot": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö, Hämeentie 2",
+"title": "Kotijoukot",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-nauravan-kulkurin-tarina": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Helsingin Kaupunginteatteri, Suuri näyttämö",
+"title": "Nauravan kulkurin tarina",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-elolliset": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Helsingin Kaupunginteatteri, Pieni näyttämö",
+"title": "Elolliset",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-club-act-one": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Studio Pasila",
+"title": "Club act!one",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
+},
+"helsingin-kaupungint-kivia-taskussa": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö, Hämeentie 2",
+"title": "Kiviä taskussa",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "",
+"desc": ""
 },
 "svenska-teatern-anglagard": {
 "theatre": "Svenska Teatern",
@@ -292,6 +422,47 @@
 },
 "showings": [
 {
+"p": "helsingin-kaupungint-seniorisoppa",
+"date": "2026-10-06",
+"time": "11.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/seniorisoppa-helsinki-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21614130/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-06",
+"time": "18.00",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462280/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-amp-julia",
+"date": "2026-10-06",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985479/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-10-06",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462630/?affiliate=HKK&language=fi",
+"seats": 78
+},
+{
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-10-06",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296649/?affiliate=HKK&language=fi"
+},
+{
 "p": "kom-teatteri-poiskatsojat",
 "date": "2026-10-06",
 "time": "18.30",
@@ -342,6 +513,14 @@
 "note": "Ensi-ilta"
 },
 {
+"p": "helsingin-kaupungint-seniorisoppa",
+"date": "2026-10-07",
+"time": "11.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/seniorisoppa-helsinki-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21614131/?affiliate=HKK&language=fi"
+},
+{
 "p": "suomen-kansallisteat-toinen-tasavalta",
 "date": "2026-10-07",
 "time": "12.00",
@@ -358,6 +537,15 @@
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9178/"
 },
 {
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-10-07",
+"time": "13.00",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296650/?affiliate=HKK&language=fi",
+"seats": 10
+},
+{
 "p": "teatteri-vantaa-pimean-kirkkaus",
 "date": "2026-10-07",
 "time": "14.00",
@@ -366,12 +554,46 @@
 "url": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/"
 },
 {
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-07",
+"time": "18.00",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462281/?affiliate=HKK&language=fi"
+},
+{
 "p": "svenska-teatern-sista-brevet-fran-fronten",
 "date": "2026-10-07",
 "time": "18.00",
 "price": null,
 "avail": "few",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12298/9571/"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-10-07",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462631/?affiliate=HKK&language=fi",
+"seats": 110
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-10-07",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462578/?affiliate=HKK&language=fi",
+"seats": 93
+},
+{
+"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
+"date": "2026-10-07",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426646/?affiliate=HKK&language=fi"
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -430,6 +652,31 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2196"
 },
 {
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-10-08",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462192/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-10-08",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462579/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
+"date": "2026-10-08",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426647/?affiliate=HKK&language=fi",
+"seats": 121
+},
+{
 "p": "kom-teatteri-mysterio-buffo",
 "date": "2026-10-08",
 "time": "18.30",
@@ -478,6 +725,15 @@
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
 },
 {
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-09",
+"time": "18.00",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462294/?affiliate=HKK&language=fi",
+"seats": 120
+},
+{
 "p": "svenska-teatern-sista-brevet-fran-fronten",
 "date": "2026-10-09",
 "time": "18.00",
@@ -492,6 +748,30 @@
 "price": null,
 "avail": "unknown",
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2177"
+},
+{
+"p": "helsingin-kaupungint-amp-julia",
+"date": "2026-10-09",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985522/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-10-09",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462645/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-10-09",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462204/?affiliate=HKK&language=fi"
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -535,6 +815,15 @@
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
 },
 {
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-10-09",
+"time": "19.00",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462602/?affiliate=HKK&language=fi",
+"seats": 43
+},
+{
 "p": "teatteri-jurkka-keuhkot",
 "date": "2026-10-09",
 "time": "19.00",
@@ -549,6 +838,46 @@
 "price": null,
 "avail": "unknown",
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
+},
+{
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-10-10",
+"time": "12.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462205/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-amp-julia",
+"date": "2026-10-10",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985524/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-10-10",
+"time": "13.00",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462646/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-10",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462295/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-10-10",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462603/?affiliate=HKK&language=fi"
 },
 {
 "p": "suomen-kansallisteat-lopetus",
@@ -647,6 +976,23 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2179"
 },
 {
+"p": "helsingin-kaupungint-amp-julia",
+"date": "2026-10-10",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985523/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-10-10",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296666/?affiliate=HKK&language=fi",
+"seats": 29
+},
+{
 "p": "kom-teatteri-poiskatsojat",
 "date": "2026-10-10",
 "time": "18.30",
@@ -669,6 +1015,14 @@
 "price": null,
 "avail": "few",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9163/"
+},
+{
+"p": "helsingin-kaupungint-club-act-one",
+"date": "2026-10-10",
+"time": "19.00",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21462267/?affiliate=HKK&language=fi"
 },
 {
 "p": "teatteri-avoimet-ove-soteorpo",
@@ -695,12 +1049,12 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2129"
 },
 {
-"p": "kom-teatteri-poiskatsojat",
+"p": "helsingin-kaupungint-kivia-taskussa",
 "date": "2026-10-12",
-"time": "13.00",
-"price": 46,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865012/?affiliate=HKK&language=fi"
 },
 {
 "p": "kom-teatteri-mysterio-buffo",
@@ -736,8 +1090,7 @@
 {
 "name": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"status": "none",
-"note": "Ei näytöksiä tai tietoja ei saatu haettua"
+"status": "ok"
 },
 {
 "name": "Svenska Teatern",
