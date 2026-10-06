@@ -122,8 +122,10 @@ def parse_minutes(txt):
 
 
 def parse_price(txt):
-    m = re.search(r"(\d+(?:[,.]\d+)?)\s*€", str(txt or ""))
-    return float(m.group(1).replace(",", ".")) if m else None
+    txt = html_lib.unescape(str(txt or ""))
+    nums = [float(n.replace(",", ".")) for n in re.findall(r"\d+(?:[,.]\d+)?", txt)]
+    nums = [n for n in nums if 5 <= n <= 300]
+    return min(nums) if nums else None
 
 
 def hkt_title(d):
@@ -133,7 +135,8 @@ def hkt_title(d):
         if isinstance(v, dict):
             v = v.get("rendered") or v.get("fi")
         if isinstance(v, str) and v.strip():
-            return html_lib.unescape(v.strip()).title() if k == "title_caps" else html_lib.unescape(v.strip())
+            v = html_lib.unescape(html_lib.unescape(v.strip()))
+            return v.title() if k == "title_caps" else v
     for sub in d.values():
         if isinstance(sub, dict):
             t = hkt_title(sub) if "timestamp" not in sub else None
@@ -168,6 +171,14 @@ def api_hkt(days):
         for d in walk(data):
             if "timestamp" in d and ("url" in d or "lippu_event" in d or "time" in d):
                 d = dict(d)
+                wp = d.get("wordpress")
+                if isinstance(wp, str):
+                    try:
+                        wp = json.loads(wp)
+                    except json.JSONDecodeError:
+                        wp = None
+                if isinstance(wp, dict) and wp.get("url"):
+                    d.setdefault("link", wp["url"])
                 d["title"] = hkt_title(d)
                 if d["title"]:
                     items[d.get("id") or (d["title"], d["timestamp"])] = d
@@ -190,8 +201,14 @@ def api_hkt(days):
             avail = "many"
         else:
             avail = "unknown"
-        seats = int(d["seats_avail"]) if str(d.get("seats_avail", "")).isdigit() and avail == "few" else None
-        venue = str(d.get("venue") or "").replace("LÄMPIÓ", "lämpiö").strip()
+        seats = int(d["seats_avail"]) if str(d.get("seats_avail", "")).isdigit() else None
+        if seats is not None and seats == 0 and avail != "sold":
+            avail = "sold"
+        seats = seats if (seats and avail == "few" and seats <= 20) else None
+        venue = html_lib.unescape(str(d.get("venue") or "")).strip()
+        venue = re.sub(r"^Helsingin Kaupunginteatteri,\s*", "", venue)
+        venue = re.sub(r",\s*[^,]*\d[^,]*$", "", venue)          # pois katuosoite
+        venue = re.sub(r"\s+L[ÄA]MPI[ÖO]$", " (lämpiö)", venue, flags=re.I)
         if "lilla" in venue.lower() or d.get("language") == "sv":
             venue = venue or "Lilla Teatern"
         dur_txt = d.get("duration") or ""
@@ -214,24 +231,28 @@ def api_svenska(days):
         data = fetch_json(f"https://svenskateatern.fi/wp-json/wp/v2/shows?per_page=100&page={page}")
         if not data:
             break
-        links = {item.get("id"): item.get("link") for item in data if isinstance(item, dict)}
-        perfs = [d for d in walk(data) if "performance_id" in d]
-        strings = []
-        stack = [data]
-        while stack:
-            x = stack.pop()
-            if isinstance(x, dict):
-                stack.extend(x.values())
-            elif isinstance(x, list):
-                stack.extend(x)
-            elif isinstance(x, str) and "performance_id" in x:
-                strings.append(html_lib.unescape(x))
-        for txt in strings:
-            for m in re.finditer(r'\{[^{}]*"performance_id"[^{}]*\}', txt):
-                try:
-                    perfs.append(json.loads(m.group(0)))
-                except json.JSONDecodeError:
-                    pass
+        perfs = []
+        for item in data if isinstance(data, list) else []:
+            if not isinstance(item, dict):
+                continue
+            link = item.get("link")
+            found = [d for d in walk(item) if "performance_id" in d]
+            stack = [item]
+            while stack:
+                x = stack.pop()
+                if isinstance(x, dict):
+                    stack.extend(x.values())
+                elif isinstance(x, list):
+                    stack.extend(x)
+                elif isinstance(x, str) and "performance_id" in x:
+                    for m in re.finditer(r'\{[^{}]*"performance_id"[^{}]*\}', html_lib.unescape(x)):
+                        try:
+                            found.append(json.loads(m.group(0)))
+                        except json.JSONDecodeError:
+                            pass
+            for f in found:
+                f["_page"] = link
+            perfs.extend(found)
         for p in perfs:
             if p.get("date") not in days_iso or p.get("ticket_status") == 3:
                 continue
@@ -239,7 +260,7 @@ def api_svenska(days):
             rows.append({"title": str(p.get("title", "")).strip(), "stage": p.get("venue"), "date": p["date"],
                          "time": f"{t[:2]}.{t[2:]}", "avail": status.get(p.get("ticket_status"), "unknown"),
                          "url": p.get("tickets_link"), "lang": "ruotsi",
-                         "page": links.get(p.get("production_id"))})
+                         "page": p.get("_page")})
         if len(data) < 100:
             break
     return rows
@@ -254,6 +275,8 @@ DESCRIBE = """Alla on tietoa esityksestä "{title}" ({theatre}). Palauta VAIN JS
 
 
 def describe(client, theatre, title, text):
+    if not (text or "").strip():
+        text = f"Esitys: {title}. Teatteri: {theatre}."
     prompt = DESCRIBE.format(title=title, theatre=theatre, genres=", ".join(f'"{g}"' for g in GENRES))
     try:
         msg = client.messages.create(model=MODEL, max_tokens=800, messages=[
@@ -372,10 +395,10 @@ def main():
                 pid = slug(th["name"])[:20] + "-" + slug(s["title"])
                 if pid not in productions:
                     prev = old_prods.get((th["name"], s["title"]))
-                    if prev:
+                    if prev and prev.get("desc") and prev.get("genre"):
                         meta = dict(prev)
                     else:
-                        text = s.get("context") or ""
+                        text = (s.get("context") or "").strip()
                         if s.get("page"):
                             if s["page"] not in page_cache:
                                 h = fetch(s["page"])
