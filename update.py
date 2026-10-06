@@ -126,6 +126,37 @@ def parse_price(txt):
     return float(m.group(1).replace(",", ".")) if m else None
 
 
+def hkt_title(d):
+    """Esityksen nimi HKT:n tapahtumasta – kenttä vaihtelee, joten kokeillaan useita."""
+    for k in ("title", "show_title", "name", "title_caps"):
+        v = d.get(k)
+        if isinstance(v, dict):
+            v = v.get("rendered") or v.get("fi")
+        if isinstance(v, str) and v.strip():
+            return html_lib.unescape(v.strip()).title() if k == "title_caps" else html_lib.unescape(v.strip())
+    for sub in d.values():
+        if isinstance(sub, dict):
+            t = hkt_title(sub) if "timestamp" not in sub else None
+            if t:
+                return t
+    wp = d.get("wordpress")
+    if isinstance(wp, str):
+        try:
+            wp = json.loads(wp)
+        except json.JSONDecodeError:
+            wp = None
+    if isinstance(wp, dict):
+        if wp.get("title"):
+            return str(wp["title"]).strip()
+        if wp.get("url"):
+            d.setdefault("link", wp["url"])
+    url = str(d.get("url") or "")
+    m = re.search(r"/event/([a-z0-9-]+?)(?:-helsinki)?-helsingin-kaupunginteatteri", url)
+    if m:
+        return m.group(1).replace("-", " ").capitalize()
+    return None
+
+
 def api_hkt(days):
     """HKT:n oma rajapinta: näytökset, saatavuus ja paikkamäärä."""
     start = days[0].isoformat()
@@ -135,9 +166,12 @@ def api_hkt(days):
         data = fetch_json(url)
         n = 0
         for d in walk(data):
-            if "timestamp" in d and d.get("title"):
-                items[d.get("id") or (d["title"], d["timestamp"])] = d
-                n += 1
+            if "timestamp" in d and ("url" in d or "lippu_event" in d or "time" in d):
+                d = dict(d)
+                d["title"] = hkt_title(d)
+                if d["title"]:
+                    items[d.get("id") or (d["title"], d["timestamp"])] = d
+                    n += 1
         print(f"  {url} -> {n} tapahtumaa" + ("" if n else f" | vastaus: {json.dumps(data, ensure_ascii=False)[:300]}"))
     rows = []
     for d in items.values():
