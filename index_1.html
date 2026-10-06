@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
+<meta name="color-scheme" content="light dark">
+<title>Lippu illaksi – teatteriliput tänään ja huomenna pääkaupunkiseudulla</title>
+<link rel="canonical" href="https://lippuillaksi.fi/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Lippu illaksi">
+<meta property="og:title" content="Lippu illaksi – teatteriliput tänään ja huomenna">
+<meta property="og:description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
+<meta property="og:url" content="https://lippuillaksi.fi/">
+<meta property="og:locale" content="fi_FI">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Lippu illaksi","url":"https://lippuillaksi.fi/","inLanguage":"fi"}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
+<style>
+/* Layout (Illaksi teatteriin): one calm column — date strip, filters, then a time-ordered list of showings (like a cinema listing). */
+:root {
+  --bg: #F5F4F7;
+  --surface: #FFFFFF;
+  --ink: #1C1726;
+  --muted: #625B70;
+  --line: #E3E0EA;
+  --chip: #EEEBF3;
+  --accent: #A3123A;
+  --accent-ink: #FFFFFF;
+  --accent-soft: #F8E6EB;
+  --ok: #1F7A4D;
+  --ok-soft: #E3F3EA;
+  --warn: #A55300;
+  --warn-soft: #FBEEDD;
+  --sold: #857F90;
+  --sold-soft: #EEEDF1;
+  --shadow: 0 1px 2px rgba(28, 23, 38, .05);
+  --f-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131018; --surface: #1D1924; --ink: #F1EEF6; --muted: #A69FB3; --line: #2F2A39; --chip: #2A2533;
+    --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A25;
+    --ok: #4CC38A; --ok-soft: #173326; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #7C7688; --sold-soft: #26222D;
+    --shadow: none; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #131018; --surface: #1D1924; --ink: #F1EEF6; --muted: #A69FB3; --line: #2F2A39; --chip: #2A2533;
+  --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A25;
+  --ok: #4CC38A; --ok-soft: #173326; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #7C7688; --sold-soft: #26222D;
+  --shadow: none; color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 16px; line-height: 1.5; }
+.wrap { max-width: 920px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 56px; display: flex; flex-direction: column; gap: 22px; }
+button, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* Header */
+header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 10px 20px; }
+.brand { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.logo { font-family: var(--f-display); font-weight: 800; font-size: clamp(2rem, 6vw, 2.75rem); line-height: 1; letter-spacing: -0.02em; margin: 0; }
+.logo span { color: var(--accent); }
+.tagline { margin: 0; color: var(--muted); font-size: 1.02rem; text-wrap: balance; }
+.proto { font-size: .75rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--warn); background: var(--warn-soft); padding: 5px 10px; border-radius: 999px; white-space: nowrap; }
+
+/* Date strip */
+.days { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+.day { flex: 0 0 auto; min-width: 104px; display: flex; flex-direction: column; align-items: flex-start; gap: 2px; padding: 10px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; text-align: left; box-shadow: var(--shadow); }
+.day:hover { border-color: var(--muted); }
+.day .dname { font-weight: 700; font-size: .98rem; }
+.day .ddate { color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.day .dcount { font-size: .78rem; color: var(--ok); font-weight: 600; }
+.day[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.day[aria-pressed="true"] .ddate { color: var(--bg); opacity: .75; }
+.day[aria-pressed="true"] .dcount { color: var(--bg); }
+
+/* Filters */
+.filters { display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: center; }
+.field { display: flex; align-items: center; gap: 8px; }
+.field label { font-size: .85rem; color: var(--muted); font-weight: 600; }
+select { padding: 8px 34px 8px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 17px) 55%, calc(100% - 12px) 55%; background-size: 5px 5px; background-repeat: no-repeat; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { padding: 7px 13px; border-radius: 999px; border: 1px solid transparent; background: var(--chip); cursor: pointer; font-size: .9rem; font-weight: 500; }
+.chip:hover { border-color: var(--line); }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); }
+.toggle { display: flex; align-items: center; gap: 8px; font-size: .9rem; color: var(--muted); cursor: pointer; }
+.toggle input { width: 18px; height: 18px; accent-color: var(--accent); margin: 0; }
+
+.summary { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 16px; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+.summary h2 { font-family: var(--f-display); font-weight: 600; font-size: 1.35rem; margin: 0; text-wrap: balance; }
+.summary p { margin: 0; color: var(--muted); font-size: .9rem; }
+
+/* Showing list */
+.list { display: flex; flex-direction: column; gap: 10px; }
+.show { display: grid; grid-template-columns: 5.25rem minmax(0, 1fr) auto; gap: 8px 20px; align-items: start; padding: 18px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.time { display: flex; flex-direction: column; gap: 4px; }
+.time strong { font-family: var(--f-display); font-weight: 800; font-size: 1.7rem; line-height: 1; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }
+.soon { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); }
+.info { min-width: 0; display: flex; flex-direction: column; gap: 6px; }
+.info h3 { margin: 0; font-size: 1.18rem; font-weight: 700; line-height: 1.25; text-wrap: balance; }
+.venue { margin: 0; color: var(--muted); font-size: .95rem; }
+.venue b { color: var(--ink); font-weight: 600; }
+.meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+.tag { font-size: .8rem; padding: 3px 9px; border-radius: 6px; background: var(--chip); color: var(--ink); }
+.tag.genre { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+details { font-size: .93rem; color: var(--muted); }
+details summary { cursor: pointer; color: var(--ink); font-weight: 600; font-size: .88rem; width: fit-content; }
+details p { margin: 6px 0 0; max-width: 62ch; }
+
+.buy { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; text-align: right; }
+.avail { display: inline-flex; align-items: center; gap: 6px; font-size: .82rem; font-weight: 700; padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+.avail::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: currentColor; }
+.avail.many { color: var(--ok); background: var(--ok-soft); }
+.avail.few { color: var(--warn); background: var(--warn-soft); }
+.avail.sold { color: var(--sold); background: var(--sold-soft); }
+.price { font-size: .95rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.price b { color: var(--ink); font-size: 1.15rem; }
+.btn { border: 0; border-radius: 10px; padding: 10px 18px; font-weight: 700; background: var(--accent); color: var(--accent-ink); cursor: pointer; white-space: nowrap; }
+.btn:hover { filter: brightness(1.08); }
+.btn:disabled { background: var(--sold-soft); color: var(--sold); cursor: not-allowed; filter: none; }
+.show.is-sold { opacity: .72; }
+.show.is-sold h3 { color: var(--muted); }
+
+.empty { text-align: center; padding: 48px 20px; border: 1px dashed var(--line); border-radius: 14px; color: var(--muted); }
+.empty strong { display: block; color: var(--ink); font-size: 1.1rem; margin-bottom: 4px; }
+.note { font-size: .88rem; color: var(--muted); background: var(--chip); padding: 10px 14px; border-radius: 10px; margin: 0; }
+
+footer { color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); padding-top: 16px; }
+footer p { margin: 0 0 6px; max-width: 70ch; }
+
+/* Modal */
+.overlay { position: fixed; inset: 0; background: rgba(10, 8, 14, .55); display: flex; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
+.modal { background: var(--surface); color: var(--ink); border-radius: 16px; max-width: 440px; width: 100%; padding: 24px; display: flex; flex-direction: column; gap: 12px; border: 1px solid var(--line); }
+.modal h4 { margin: 0; font-family: var(--f-display); font-size: 1.35rem; font-weight: 600; }
+.modal p { margin: 0; color: var(--muted); }
+.modal dl { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; margin: 4px 0; font-size: .95rem; }
+.modal dt { color: var(--muted); }
+.modal dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+.modal .row { display: flex; justify-content: flex-end; gap: 8px; margin-top: 6px; }
+.btn.ghost { background: var(--chip); color: var(--ink); }
+
+@media (max-width: 640px) {
+  .show { grid-template-columns: 3.9rem minmax(0, 1fr); padding: 16px; gap: 8px 14px; }
+  .time strong { font-size: 1.35rem; }
+  .buy { grid-column: 1 / -1; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: space-between; text-align: left; border-top: 1px solid var(--line); padding-top: 12px; margin-top: 4px; }
+  .buy .btn { margin-left: auto; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .show { animation: rise .25s ease both; }
+  @keyframes rise { from { transform: translateY(4px); } to { transform: none; } }
+}
+
+.avail.unknown { color: var(--muted); background: var(--chip); }
+.avail.unknown::before { background: transparent; border: 1.5px solid currentColor; width: 6px; height: 6px; }
+a.btn { text-decoration: none; display: inline-block; }
+.btn.off { background: var(--sold-soft); color: var(--sold); cursor: default; }
+.flag { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--warn); }
+details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
+.updated { font-size: .85rem; color: var(--muted); margin: 0; font-variant-numeric: tabular-nums; }
+.coverage { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; padding: 0; list-style: none; }
+.coverage li { font-size: .8rem; padding: 3px 9px; border-radius: 6px; background: var(--chip); color: var(--ink); }
+.coverage li.miss { background: transparent; border: 1px dashed var(--line); color: var(--muted); }
+.browse a { color: var(--accent); font-weight: 600; }
+.coverage a { color: inherit; text-decoration: none; }
+.loading { padding: 40px 20px; text-align: center; color: var(--muted); }
+</style>
+<style>html{-webkit-text-size-adjust:100%}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1 class="logo">Lippu <span>illaksi</span></h1>
+      <p class="tagline">Lähipäivien näytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.</p>
+    </div>
+    <span class="proto" title="Pilottiversio: mukana osa pääkaupunkiseudun teattereista">Pilotti · pääkaupunkiseutu</span>
+  </header>
+
+  <nav class="days" id="days" aria-label="Valitse päivä"></nav>
+
+  <section class="filters" aria-label="Rajaa näytöksiä">
+    <div class="field">
+      <label for="city">Kaupunki</label>
+      <select id="city"></select>
+    </div>
+    <div class="field">
+      <label for="theatre">Teatteri</label>
+      <select id="theatre"></select>
+    </div>
+    <div class="chips" id="genres" role="group" aria-label="Lajityyppi"></div>
+    <div class="field">
+      <label for="sort">Järjestys</label>
+      <select id="sort">
+        <option value="known">Varmistetut paikat ensin</option>
+        <option value="time">Kellonaika</option>
+        <option value="price">Halvin ensin</option>
+      </select>
+    </div>
+    <label class="toggle" for="onlyKnown"><input type="checkbox" id="onlyKnown"> Vain varmistetut paikat</label>
+    <label class="toggle" for="showSold"><input type="checkbox" id="showSold"> Näytä myös loppuunmyydyt</label>
+  </section>
+
+  <div class="summary">
+    <h2 id="sumTitle">Haetaan näytöksiä…</h2>
+    <p id="sumText"></p>
+  </div>
+
+  <p class="note" id="dayNote" hidden></p>
+
+  <div class="list" id="list" aria-live="polite"><div class="loading">Haetaan lähipäivien näytöksiä…</div></div>
+
+  <footer>
+    <p class="updated" id="updated"></p>
+    <p class="browse"><b>Selaa:</b> <a href="/tanaan/">Teatteri tänään</a> · <a href="/huomenna/">Teatteri huomenna</a> · <a href="/teatterit/">Kaikki teatterit</a></p>
+    <p><b>Mukana olevat teatterit</b></p>
+    <ul class="coverage" id="coverage"></ul>
+    <p>Lipputilanne on haettu teattereiden ja lipunmyyjien sivuilta, ja se voi muuttua nopeasti. Tarkista lopullinen tilanne ja hinta lipunmyyjältä. Hinnat ovat halvimpia aikuisten lippuja ilman palvelumaksuja.</p>
+    <p>Varmistetut paikat näytetään ensin. "Tarkista saatavuus" tarkoittaa, että lipunmyyjä ei näytä lipputilannetta julkisesti. Lippuja on silloin yleensä myynnissä, mutta määrää ei tiedetä.</p>
+  </footer>
+</div>
+
+<script>
+const GENRES = ["Draama", "Komedia", "Musikaali", "Ooppera ja tanssi", "Lapsille"];
+const WD = ["su", "ma", "ti", "ke", "to", "pe", "la"];
+const WD_LONG = ["sunnuntai", "maanantai", "tiistai", "keskiviikko", "torstai", "perjantai", "lauantai"];
+const pad = n => String(n).padStart(2, "0");
+const isoOf = d => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+const fmtDate = d => `${d.getDate()}.${d.getMonth() + 1}.`;
+const toMin = t => { const [h, m] = t.split(".").map(Number); return h * 60 + m; };
+const fmtDur = (m, inter) => {
+  if (!m) return null;
+  const h = Math.floor(m / 60), r = m % 60;
+  let s = `${h ? h + " t" : ""}${h && r ? " " : ""}${r ? r + " min" : ""}`;
+  if (inter === true) s += ", sis. väliajan"; else if (inter === false) s += ", ei väliaikaa";
+  return s;
+};
+const fmtPrice = p => (Math.round(p * 100) / 100).toLocaleString("fi-FI", { minimumFractionDigits: p % 1 ? 2 : 0, maximumFractionDigits: 2 });
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const slug = s => s.toLowerCase().replace(/ä/g, "a").replace(/ö/g, "o").replace(/å/g, "a").replace(/é/g, "e").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 60);
+const cap = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const DAYS = Array.from({ length: 7 }, (_, i) => { const d = new Date(today); d.setDate(d.getDate() + i); return d; });
+let DATA = null, ROWS = [], THEATRES = [];
+const state = { day: 0, city: "", theatre: "", genre: "", sort: "known", showSold: false, onlyKnown: false };
+try { const c = localStorage.getItem("it-city"); if (c) state.city = c; } catch (e) {}
+
+function dayLabel(i) { return i === 0 ? "Tänään" : i === 1 ? "Huomenna" : i === 2 ? "Ylihuomenna" : cap(WD_LONG[DAYS[i].getDay()]); }
+function inRange(i) { const k = isoOf(DAYS[i]); return DATA && k >= DATA.from && k <= DATA.to; }
+
+function showingsFor(i) {
+  const key = isoOf(DAYS[i]);
+  let rows = ROWS.filter(r => r.date === key);
+  if (i === 0) {
+    const now = new Date(), nowMin = now.getHours() * 60 + now.getMinutes();
+    rows = rows.filter(r => r.mins > nowMin).map(r => ({ ...r, soon: r.mins - nowMin <= 120 }));
+  }
+  return rows;
+}
+const matches = s => (!state.city || s.city === state.city) && (!state.theatre || s.theatre === state.theatre) && (!state.genre || s.genre === state.genre);
+
+function renderDays() {
+  document.getElementById("days").innerHTML = DAYS.map((d, i) => {
+    const n = showingsFor(i).filter(s => matches(s) && s.avail !== "sold").length;
+    const sub = !inRange(i) ? "ei tietoja vielä" : n ? `${n} näytöstä` : "ei vapaita";
+    return `<button class="day" type="button" data-i="${i}" aria-pressed="${i === state.day}">
+      <span class="dname">${dayLabel(i)}</span>
+      <span class="ddate">${WD[d.getDay()]} ${fmtDate(d)}</span>
+      <span class="dcount"${n ? "" : ' style="color:var(--muted)"'}>${sub}</span>
+    </button>`;
+  }).join("");
+}
+
+function availHtml(s) {
+  if (s.avail === "sold") return `<span class="avail sold">Loppuunmyyty</span>`;
+  if (s.avail === "few") return `<span class="avail few">${s.seats ? "Vain " + s.seats + " paikkaa" : "Vähän jäljellä"}</span>`;
+  if (s.avail === "many") return `<span class="avail many">Hyvin tilaa</span>`;
+  return `<span class="avail unknown">Tarkista saatavuus</span>`;
+}
+
+function renderList() {
+  const all = showingsFor(state.day).filter(matches);
+  const free = all.filter(s => s.avail !== "sold");
+  const known = s => s.avail === "many" || s.avail === "few" ? 0 : 1;
+  const byTime = (a, b) => a.mins - b.mins || a.title.localeCompare(b.title, "fi");
+  const rows = (state.showSold ? all : free).filter(s => !state.onlyKnown || s.avail !== "unknown").sort(
+    state.sort === "price" ? (a, b) => (a.price ?? 999) - (b.price ?? 999) || a.mins - b.mins
+    : state.sort === "known" ? (a, b) => known(a) - known(b) || byTime(a, b)
+    : byTime);
+  const d = DAYS[state.day];
+  document.getElementById("sumTitle").textContent = `${dayLabel(state.day)} ${WD[d.getDay()]} ${fmtDate(d)} · ${state.theatre || state.city || "Pääkaupunkiseutu"}`;
+  const soldN = all.length - free.length;
+  document.getElementById("sumText").textContent = `${free.length} näytöstä, joihin voi vielä saada lippuja${soldN ? ` · ${soldN} loppuunmyyty` : ""}`;
+
+  const note = document.getElementById("dayNote");
+  note.hidden = true;
+  if (!inRange(state.day)) { note.textContent = "Tämän päivän näytöksiä ei ole vielä haettu. Tiedot päivittyvät joka aamu."; note.hidden = false; }
+  else if (d.getDay() === 1) { note.textContent = "Maanantaisin useimmat teatterit ovat kiinni, joten näytöksiä on tavallista vähemmän."; note.hidden = false; }
+  else if (d.getDay() === 0) { note.textContent = "Sunnuntaisin monella teatterilla ei ole näytöksiä."; note.hidden = false; }
+
+  const list = document.getElementById("list");
+  if (!rows.length) {
+    list.innerHTML = `<div class="empty"><strong>${inRange(state.day) ? "Ei vapaita näytöksiä näillä valinnoilla" : "Tietoja ei ole vielä"}</strong>Kokeile toista päivää, teatteria tai lajityyppiä.</div>`;
+    return;
+  }
+  list.innerHTML = rows.map(s => {
+    const dur = fmtDur(s.dur, s.inter);
+    const sold = s.avail === "sold";
+    return `
+    <article class="show${sold ? " is-sold" : ""}">
+      <div class="time"><strong>${s.time}</strong>${s.soon ? `<span class="soon">Alkaa pian</span>` : ""}${s.note ? `<span class="flag">${esc(s.note)}</span>` : ""}</div>
+      <div class="info">
+        <h3>${esc(s.title)}</h3>
+        <p class="venue"><b>${esc(s.theatre)}</b> · ${esc(s.stage)}${s.stage === s.theatre ? "" : ""} · ${esc(s.city)}</p>
+        <div class="meta">
+          <span class="tag genre">${esc(s.genre)}</span>
+          ${dur ? `<span class="tag">${dur}</span>` : ""}
+          ${s.lang ? `<span class="tag">${s.lang === "ei puhetta" ? "Ei puhetta" : "Kieli: " + esc(s.lang)}</span>` : ""}
+          ${s.subs ? `<span class="tag">${esc(cap(s.subs))}</span>` : ""}
+        </div>
+        <details><summary>Lue kuvaus</summary><p>${esc(s.desc)}</p><p><a href="${esc(s.page)}" target="_blank" rel="noopener">Esityksen sivu teatterin sivustolla ↗</a></p></details>
+      </div>
+      <div class="buy">
+        ${availHtml(s)}
+        ${s.price ? `<span class="price">alk. <b>${fmtPrice(s.price)} €</b></span>` : ""}
+        ${sold ? `<span class="btn off">Ei lippuja</span>` : `<a class="btn${s.avail === "unknown" ? " ghost" : ""}" href="${esc(s.url)}" target="_blank" rel="noopener">${s.avail === "unknown" ? "Katso paikat ↗" : "Osta liput ↗"}</a>`}
+      </div>
+    </article>`;
+  }).join("");
+}
+
+const citySel = document.getElementById("city"), theatreSel = document.getElementById("theatre"), gEl = document.getElementById("genres");
+function cities() { return [...new Set(THEATRES.map(t => t.city))].sort((a, b) => a.localeCompare(b, "fi")); }
+function theatresIn(c) { return THEATRES.filter(t => !c || t.city === c).map(t => t.name).sort((a, b) => a.localeCompare(b, "fi")); }
+function renderCities() {
+  if (state.city && !cities().includes(state.city)) state.city = "";
+  citySel.innerHTML = `<option value="">Koko pääkaupunkiseutu</option>` + cities().map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("");
+  citySel.value = state.city;
+}
+function renderTheatres() {
+  if (state.theatre && !theatresIn(state.city).includes(state.theatre)) state.theatre = "";
+  const opt = t => { const th = THEATRES.find(x => x.name === t); return `<option value="${esc(t)}">${esc(t)}${th.status === "ok" ? "" : " (ei tietoja)"}</option>`; };
+  theatreSel.innerHTML = `<option value="">Kaikki teatterit</option>` + (state.city ? theatresIn(state.city).map(opt).join("")
+    : cities().map(c => `<optgroup label="${esc(c)}">${theatresIn(c).map(opt).join("")}</optgroup>`).join(""));
+  theatreSel.value = state.theatre;
+}
+function renderGenres() {
+  gEl.innerHTML = ["", ...GENRES].map(g => `<button class="chip" type="button" data-g="${g}" aria-pressed="${state.genre === g}">${g || "Kaikki"}</button>`).join("");
+}
+function renderFooter() {
+  const u = new Date(DATA.updated);
+  document.getElementById("updated").textContent = `Tiedot päivitetty ${WD[u.getDay()]} ${fmtDate(u)} klo ${u.getHours()}.${pad(u.getMinutes())}.`;
+  document.getElementById("coverage").innerHTML = THEATRES.slice().sort((a, b) => (a.status !== "ok") - (b.status !== "ok") || a.name.localeCompare(b.name, "fi"))
+    .map(t => `<li class="${t.status === "ok" ? "" : "miss"}" title="${esc(t.note || "")}"><a href="/teatteri/${slug(t.name)}/">${esc(t.name)}</a>${t.status === "ok" ? "" : " – " + esc((t.note || "").toLowerCase())}</li>`).join("");
+}
+function render() { renderDays(); renderList(); }
+
+citySel.addEventListener("change", e => { state.city = e.target.value; try { localStorage.setItem("it-city", state.city); } catch (err) {} renderTheatres(); render(); });
+theatreSel.addEventListener("change", e => {
+  state.theatre = e.target.value;
+  if (state.theatre && !state.city) { state.city = THEATRES.find(t => t.name === state.theatre).city; citySel.value = state.city; renderTheatres(); }
+  render();
+});
+gEl.addEventListener("click", e => { const b = e.target.closest(".chip"); if (!b) return; state.genre = b.dataset.g; renderGenres(); render(); });
+document.getElementById("days").addEventListener("click", e => { const b = e.target.closest(".day"); if (!b) return; state.day = +b.dataset.i; render(); });
+document.getElementById("sort").addEventListener("change", e => { state.sort = e.target.value; renderList(); });
+document.getElementById("onlyKnown").addEventListener("change", e => { state.onlyKnown = e.target.checked; renderList(); });
+document.getElementById("showSold").addEventListener("change", e => { state.showSold = e.target.checked; renderList(); });
+
+function start(data) {
+  DATA = data; THEATRES = data.theatres;
+  ROWS = data.showings.map(s => {
+    const p = data.productions[s.p];
+    return { ...p, ...s, subs: s.subs !== undefined ? s.subs : p.subs, mins: toMin(s.time) };
+  });
+  if (!showingsFor(0).some(s => s.avail !== "sold")) state.day = 1;
+  renderCities(); renderTheatres(); renderGenres(); renderFooter(); render();
+}
+fetch("data.json", { cache: "no-store" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(start)
+  .catch(() => {
+    document.getElementById("sumTitle").textContent = "Näytöksiä ei saatu ladattua";
+    document.getElementById("list").innerHTML = `<div class="empty"><strong>Näytöstietoja ei saatu ladattua</strong>Lataa sivu uudelleen hetken kuluttua.</div>`;
+  });
+</script>
+
+</body>
+</html>
