@@ -19,6 +19,9 @@ import requests
 from bs4 import BeautifulSoup
 
 MODEL = os.environ.get("MODEL", "claude-haiku-4-5")
+DESC_MODEL = os.environ.get("DESC_MODEL", "claude-sonnet-4-5")   # kuvaukset: tehdään vain kerran per esitys
+DESC_VERSION = 2
+EXCLUDE_TITLES = {"seniorisoppa"}   # ei esityksiä (konsertit tms.)
 DAYS_AHEAD = 7
 MAX_FOLLOW = 30          # montako esityssivua per teatteri enintään
 MAX_CHARS = 18000        # sivutekstin enimmäispituus Claudelle
@@ -274,13 +277,24 @@ DESCRIBE = """Alla on tietoa esityksestä "{title}" ({theatre}). Palauta VAIN JS
 Älä keksi tietoja, joita tekstissä ei ole (käytä null)."""
 
 
-def describe(client, theatre, title, text):
+def clean_title(t):
+    t = str(t or "").strip()
+    for _ in range(3):
+        t = html_lib.unescape(t)
+    return re.sub(r"\s+", " ", t)
+
+
+def describe(client, theatre, title, text, model=None):
     if not (text or "").strip():
         text = f"Esitys: {title}. Teatteri: {theatre}."
     prompt = DESCRIBE.format(title=title, theatre=theatre, genres=", ".join(f'"{g}"' for g in GENRES))
     try:
-        msg = client.messages.create(model=MODEL, max_tokens=800, messages=[
-            {"role": "user", "content": prompt + "\n\n--- TEKSTI ---\n" + (text or title)[:8000]}])
+        try:
+            msg = client.messages.create(model=model or MODEL, max_tokens=800, messages=[
+                {"role": "user", "content": prompt + "\n\n--- TEKSTI ---\n" + (text or title)[:8000]}])
+        except anthropic.NotFoundError:   # malli ei saatavilla -> perusmalli
+            msg = client.messages.create(model=MODEL, max_tokens=800, messages=[
+                {"role": "user", "content": prompt + "\n\n--- TEKSTI ---\n" + (text or title)[:8000]}])
         out = "".join(b.text for b in msg.content if getattr(b, "type", "") == "text")
         m = re.search(r"\{.*\}", out, re.S)
         return json.loads(m.group(0)) if m else {}
@@ -363,7 +377,10 @@ def slug(s):
 
 
 def valid(s, days_iso):
-    return (isinstance(s, dict) and s.get("title") and s.get("date") in days_iso
+    if isinstance(s, dict) and s.get("title"):
+        s["title"] = clean_title(s["title"])
+    return (isinstance(s, dict) and s.get("title") and s["title"].lower() not in EXCLUDE_TITLES
+            and s.get("date") in days_iso
             and re.fullmatch(r"\d{1,2}[.:]\d{2}", str(s.get("time", ""))))
 
 
@@ -484,6 +501,35 @@ def main():
 
     # poista tuplat
     productions = {k: {kk: vv for kk, vv in v.items() if kk != "_price"} for k, v in productions.items() if v}
+
+    # kuvaukset: paremmalla mallilla kerran per esitys, sen jälkeen käytetään tallennettua
+    used_now = {r["p"] for r in showings}
+    page_cache = {}
+    for pid, prod in productions.items():
+        if pid not in used_now or prod.get("dv") == DESC_VERSION:
+            continue
+        prev = old_prods.get((prod["theatre"], prod["title"]))
+        if prev and prev.get("dv") == DESC_VERSION and prev.get("desc"):
+            prod.update(desc=prev["desc"], genre=prev.get("genre", prod["genre"]), dv=DESC_VERSION)
+            continue
+        url = prod.get("page")
+        if url and url not in page_cache:
+            h = fetch(url)
+            page_cache[url] = page_text(h, url)[0] if h else ""
+        text = page_cache.get(url, "") if url else ""
+        if not text.strip():
+            continue
+        meta = describe(client, prod["theatre"], prod["title"], text, model=DESC_MODEL)
+        if meta.get("is_performance") is False:
+            print(f"  - ohitetaan (ei esitys): {prod['title']}")
+            prod["_drop"] = True
+            continue
+        if meta.get("desc"):
+            prod["desc"] = meta["desc"]
+            if meta.get("genre") in GENRES:
+                prod["genre"] = meta["genre"]
+            prod["dv"] = DESC_VERSION
+    productions = {k: v for k, v in productions.items() if not v.get("_drop")}
     seen, uniq = set(), []
     for r in sorted(showings, key=lambda r: (r["date"], r["time"], r["p"])):
         if r["p"] not in productions:
