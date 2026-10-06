@@ -133,12 +133,16 @@ def api_hkt(days):
     for url in (f"https://hkt.fi/wp-json/tickets/date/{start}/{len(days)}",
                 f"https://hkt.fi/wp-json/tickets/lillan-date/{start}/{len(days)}"):
         data = fetch_json(url)
+        n = 0
         for d in walk(data):
             if "timestamp" in d and d.get("title"):
                 items[d.get("id") or (d["title"], d["timestamp"])] = d
+                n += 1
+        print(f"  {url} -> {n} tapahtumaa" + ("" if n else f" | vastaus: {json.dumps(data, ensure_ascii=False)[:300]}"))
     rows = []
     for d in items.values():
-        when = dt.datetime.fromtimestamp(int(d["timestamp"]), TZ)
+        # aikaleima on paikallista aikaa UTC-muodossa
+        when = dt.datetime.fromtimestamp(int(d["timestamp"]), dt.timezone.utc).replace(tzinfo=None)
         dm = re.fullmatch(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", str(d.get("date", "")).strip())
         tm = re.fullmatch(r"(\d{1,2})[:.](\d{2})", str(d.get("time", "")).strip())
         if dm and tm:  # sivuston omat päivä- ja aikakentät ovat luotettavampia kuin aikaleima
