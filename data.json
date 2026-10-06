@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T13:42+03:00",
+"updated": "2026-10-06T13:56+03:00",
 "from": "2026-10-06",
 "to": "2026-10-12",
 "productions": {
@@ -12,7 +12,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "suomi ja englanti (Subtitle Mobile)",
+"subs": "Englanniksi ja suomeksi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin romaaniin perustuva näytelmä kustantajasta, joka etsii kuolleen kirjailijan kadonnutta käsikirjoitusta. Arvoitus kietoutuu Euroopan 1900-luvun traumoihin."
 },
@@ -276,23 +276,10 @@
 "page": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/",
 "desc": "Lena Labartin intiimi yhden naisen esitys Claes Anderssonin teksteistä: lämmin ja humoristinen, mutta myös maailman julmuutta haastava."
 },
-"teatteri-vantaa-maaginen-matka": {
-"theatre": "Teatteri Vantaa",
-"city": "Vantaa",
-"stage": "Silkkisali",
-"title": "Maaginen matka",
-"genre": "Lapsille",
-"dur": 45,
-"inter": false,
-"lang": "suomi",
-"subs": null,
-"page": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
-"desc": "Koko perheen hurmaava improvisoitu seikkailu, jossa näyttelijät, muusikko ja valosuunnittelija improvisoivat lapsilta saatujen ehdotusten pohjalta."
-},
 "teatteri-vantaa-stella-polaris-maaginen-matka": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Teatteri Vantaa",
+"stage": "Silkkisali",
 "title": "Stella Polaris – Maaginen matka",
 "genre": "Lapsille",
 "dur": 45,
@@ -564,14 +551,6 @@
 "url": "https://tix.zodiak.fi/fi/tanzo/buyingflow/tickets/15645/"
 },
 {
-"p": "kom-teatteri-poiskatsojat",
-"date": "2026-10-10",
-"time": "13.00",
-"price": 46,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
-},
-{
 "p": "suomen-kansallisteat-lopetus",
 "date": "2026-10-10",
 "time": "13.00",
@@ -628,20 +607,12 @@
 "url": "https://www.jurkka.fi/kalenteri/"
 },
 {
-"p": "teatteri-vantaa-maaginen-matka",
-"date": "2026-10-10",
-"time": "14.00",
-"price": 17,
-"avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/"
-},
-{
 "p": "teatteri-vantaa-stella-polaris-maaginen-matka",
 "date": "2026-10-10",
 "time": "14.00",
-"price": 17,
+"price": 22,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/stella-polaris-maaginen-matka-vantaa"
+"url": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/"
 },
 {
 "p": "zodiak-uuden-tanssin-ghosts-of-rosegarden",
@@ -724,6 +695,14 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2129"
 },
 {
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-12",
+"time": "13.00",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
 "p": "kom-teatteri-mysterio-buffo",
 "date": "2026-10-12",
 "time": "18.30",
@@ -746,14 +725,6 @@
 "price": 42,
 "avail": "many",
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485494/?affiliate=ADV&language=fi"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-12",
-"time": "19.00",
-"price": null,
-"avail": "unknown",
-"url": "https://www.lippu.fi/event/teatteri-jurkka-vayla-helsinki-teatteri-jurkka-20883157/?affiliate=ADV&language=fi"
 }
 ],
 "theatres": [
