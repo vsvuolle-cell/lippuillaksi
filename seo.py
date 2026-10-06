@@ -132,7 +132,7 @@ def page(path, title, desc, body, nav="", jsonld=None, noindex=False):
 <meta property="og:description" content="{e(desc[:300])}">
 <meta property="og:url" content="{e(canon)}">
 <meta property="og:locale" content="fi_FI">
-<link rel="icon" href="/logo.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <meta property="og:image" content="https://lippuillaksi.fi/logo-512.png">
