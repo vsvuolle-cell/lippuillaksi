@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-06T14:11+03:00",
+"updated": "2026-10-06T14:31+03:00",
 "from": "2026-10-06",
 "to": "2026-10-12",
 "productions": {
@@ -51,7 +51,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esa Leskisen dokumentaarinen näytelmä sodanjälkeisestä Suomesta Neuvostoliiton varjossa, keskiössä Urho Kekkonen. Viihdyttävä ja terävä katsaus hyvinvointivaltion rakentamiseen."
 },
@@ -73,7 +73,7 @@
 "city": "Helsinki",
 "stage": "Lavaklubi",
 "title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
-"genre": "Draama",
+"genre": "Komedia",
 "dur": 85,
 "inter": true,
 "lang": "suomi",
@@ -272,7 +272,7 @@
 "dur": null,
 "inter": null,
 "lang": "suomi",
-"subs": "englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
+"subs": "englanti ja selkeä suomi ke ja pe",
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Minna Lundinin Elektrasta vapaasti innoittunut psykologinen draama porvarillisen kodin keittiössä. Äidinrakkauden varjopuolista ja sukupolvelta toiselle siirtyvistä traumoista."
 },
@@ -878,6 +878,14 @@
 "price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462603/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-10",
+"time": "13.00",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
 },
 {
 "p": "suomen-kansallisteat-lopetus",
