@@ -8,6 +8,7 @@ a{color:var(--accent)}
 .top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 20px}
 .logo{font-family:var(--f-display);font-weight:800;font-size:1.6rem;line-height:1;letter-spacing:-.02em;color:var(--ink);text-decoration:none}
 .logo span{color:var(--accent)}
+.logo img{height:1.9em;width:auto;vertical-align:-.6em;margin-right:.2em}
 .nav{display:flex;flex-wrap:wrap;gap:6px}
 .nav a{padding:6px 12px;border-radius:999px;background:var(--chip);color:var(--ink);text-decoration:none;font-size:.9rem;font-weight:500}
 .nav a[aria-current]{background:var(--ink);color:var(--bg)}

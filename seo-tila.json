@@ -10,7 +10,8 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin romaaniin perustuva näytelmä kustantajasta, joka etsii kuolleen kirjailijan kadonnutta käsikirjoitusta. Arvoitus kietoutuu Euroopan 1900-luvun traumoihin.",
+"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja Keserű lähtee jäljittämään kuolleen kirjailijan B kadonneita papereita ja salaperäistä romaania. Esitys tutkii muistia, traumaa ja Euroopan viime vuosisadan katastrofeja monitasoisesti.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
@@ -24,7 +25,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
-"desc": "Lyle Kesslerin musta näytelmä kahdesta köyhyydessä elävästä veljeksestä, jotka kaappaavat panttivangin ja saavat tältä yllättävän tarjouksen. Aiheina hylätyksi tuleminen, veljeys ja mahdollisuus muuttua.",
+"desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
+"dv": 2,
 "last": "2026-10-12"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
@@ -38,7 +40,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
-"desc": "Juha Itkosen näytelmässä kaksi entistä rakastavaista kohtaa sattumalta junassa kahdenkymmenen vuoden jälkeen. Haikea ja intiimi tarina elämättä jääneistä elämistä.",
+"desc": "Sivuraide kertoo kahden entisen nuoruudenrakastajan yllätyskohtaamisesta junassa parinkymmenen vuoden jälkeen. Esitys käsittelee entisiä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
+"dv": 2,
 "last": "2026-10-07"
 },
 "/teatteri/suomen-kansallisteatteri/toinen-tasavalta/": {
@@ -50,9 +53,10 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
-"desc": "Esa Leskisen dokumentaarinen näytelmä sodanjälkeisestä Suomesta Neuvostoliiton varjossa, keskiössä Urho Kekkonen. Viihdyttävä ja terävä katsaus hyvinvointivaltion rakentamiseen.",
+"desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
@@ -60,13 +64,14 @@
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
 "title": "Viidakon villit naiset",
-"genre": "Komedia",
+"genre": "Draama",
 "dur": 165,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Smedsin anarkistinen komedia kuudesta suomalaisnaisesta tosi-tv:n selviytymisohjelmassa viidakossa. Absurdia huumoria viihdeteollisuuden ylilyönneistä.",
+"desc": "Kristian Smedsin ohjaustyö, joka on varattu vain viattomille. Esitys käsittelee naisia ja heidän tarinoitaan.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
@@ -80,7 +85,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina",
-"desc": "Pinja Hahtolan humoristinen monologi Eino Leinon rakkaussuhteista, jossa lavalle astuu joukko runoilijan muusia.",
+"desc": "Näyttelijä Pinja Hahtolan käsikirjoittama monologinäytelmä, jossa Eino Leinon entisiä rakastajia ja muusoja, kuten L. Onerva ja Aino Kallasta, purkavat tuntojaan terapiaistunnossa. Esitys sekoittaa terävää huumoria, kulttuurihistoriaa ja klassisen runoilijan elämää.",
+"dv": 2,
 "last": "2026-10-12"
 },
 "/teatteri/helsingin-kaupunginteatteri/seniorisoppa/": {
@@ -108,7 +114,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
-"desc": "Kaksi parasta ystävää lähteävät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monia onnellisia otuksia. Musikaalissa yhdistyvät kekseliäs musiikki ja Miika Nousiaisen omaperäinen kielellinen ilottelu.",
+"desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
@@ -122,7 +129,8 @@
 "lang": "ruotsi",
 "subs": "Tekstitys suomeksi ja ruotsiksi Subtitle Mobile -sovelluksen kautta",
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
-"desc": "Töölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyvistä asiattomista henkilöistä, mikä herättää vanhoja naapuriristiriitoja ja johtaa kasvaviin pelkoihin, epäluuloon ja ahdistukseen. Esitys tutkii, kuinka helposti turvallisuuden tunne voi horjua ja miten \"me\" voi nopeasti muuttua \"he:ksi\".",
+"desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyvistä asiattomista henkilöistä. Kun pelot kasvavat, nousevat esille epäluulo, ahdistus ja vanhat naapurikonfliktit, joissa tutkitaan totuuden ja kuvitelmien välistä rajaa.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
@@ -136,7 +144,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
-"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtee rohkeasti etsimään rakkautta elämäänsään. Esitys on lämminhenkinen komedia ystävyydestä, rakkaudesta ja ikääntymisestä.",
+"desc": "Neljä seitsemänkymppistä leskinaista nauttivat elämästään yhdessä ja lähtenevät rohkeasti etsimään rakkautta. Esityksessä syntyy draamaa ja komiikkaa, kun naiset tapaavat erilaisia miehiä ja jakavat elämänsä ilot sekä haasteet.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
@@ -148,9 +157,10 @@
 "dur": 160,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksella älypuhelimen näytöllä",
+"subs": "Suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksella (englanniksi lauletut laulut ei tekstitetty tekijänoikeussyistä)",
 "page": "https://hkt.fi/esitykset/julia/",
-"desc": "Uudelleen kertaisttu versio Shakespearen Romeoista ja Juliasta, jossa päähenkilö Julia ottaa elämänsä omiin käsiinsä. Musikaali yhdistää klassisen rakkaustarinan 90- ja 2000-luvun alun suurimpiin hittikappaleihin.",
+"desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
@@ -164,7 +174,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kotijoukot/",
-"desc": "Parisuhdekomedia kertoo Annasta ja Mikosta, joiden avioliitto on juuttunut rutiiniin. Naapurit järjestävät heille joukkokoulutusleirin pelastamaan liittonsa, mikä johtaa sekaviin ja naurettaviin tilanteisiin.",
+"desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
@@ -178,7 +189,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
-"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo, kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Veskulle tärkeitä rooleja ja kuullaan hänen esittämiään musiikkikappaleita.",
+"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hän tuli koko Suomen kansan rakastamaksi taiteilijaksi. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, joka käsittelee Loirin tunnetuimpia rooleja ja hänen tärkeittään musiikin kappaleita sekä sitä hintaa, jonka hän maksoi rehellisyydestään ja intohimostaan.",
+"dv": 2,
 "last": "2026-10-08"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
@@ -192,7 +204,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/elolliset/",
-"desc": "Näytelmä sukupuuton käsitteen syntyhistoriasta, joka kulkee katsojan kanssa tutkimusmatkalla museon vitriinien kautta ja tarkastelee ihmisen kykyä pyyhkiä eläinlajeja olemassaolosta. Esitys pohtii, mitä käsityksiä nykyaika pitää varmoina, mutta jotka tulevaisuus vielä saattaa kumota.",
+"desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
@@ -206,7 +219,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/club-actone/",
-"desc": "Club act!one on stand up -klubi, jossa Suomen johtavat koomikot esiintyvät stand up -komiikan parissa. Yli kahden vuosikymmenen ajan lavalle ovat nousseet maan eturivin koomikot irrottelun, vedätyksen ja nopeasti muuttuvien tilanteisiin reagoimisen kautta.",
+"desc": "Club act!one on stand-up-komiikan klubi, jossa Suomen johtavat koomikot esiintyvät säännöllisesti. Esityksessä on irrottelua, vedätystä ja itsensä alttiiksi panemista.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/kivia-taskussa/": {
@@ -220,7 +234,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
-"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake, loukkaavat kahta näyttelijää, jotka esittävät yhteensä 15 erilaista roolia. Traaginen komedia seurailee heidän seikkailuaan amerikkalaisen elokuvan kuvauksilla.",
+"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat läpi monen miehen elämän. Traagisen komedian tarinassa he menevät avustajiksi amerikkalaisen elokuvan kuvauksiin ja joutuvat tekemään aivan odottamatonta.",
+"dv": 2,
 "last": "2026-10-12"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
@@ -234,7 +249,8 @@
 "lang": "ruotsi",
 "subs": null,
 "page": "https://svenskateatern.fi/repertoar/sista-brevet-fran-fronten/",
-"desc": "Isä ja tytär löytävät vanhan laatikon täynnä sodanaikaisia kirjeitä ja lukevat niitä yhdessä, mikä avaa isän pitkään salassa pitämiä muistoja ja tunteita. Esitys käsittelee sodassa olemisen ja kodin pihalla odottamisen inhimillistä kokemusta.",
+"desc": "Isä ja tytär löytävät vanhan laatikon täynnä isän kirjoittamia kirjeitä sotarintamalta. He lukevat ne yhdessä ensimmäistä kertaa ja jakavat muistoja sekä tunteita, jotka isä on pitänyt sisällään koko aikuisiän.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/svenska-teatern/nattland/": {
@@ -248,7 +264,8 @@
 "lang": "ruotsi",
 "subs": "Suomi, englanti, ruotsi",
 "page": "https://svenskateatern.fi/repertoar/nattland/",
-"desc": "Kaksi sisarusta löytää isänsä talosta vanhan maalauksen 1920-luvun Wienistä, jonka allekirjoituksessa saattaa lukea A. Hitler. Tämä löytö johtaa absurdiin taisteluun perinnöstä, rahasta ja prestiisistä.",
+"desc": "Kaksi sisarusta löytävät isänsä talosta vanhan maalauksen Wienistä, jonka allekirjoitus saattaa kuulua Adolf Hitlerille. Tämä löytö johtaa absurdiin kamppailuun perinnöstä, rahasta ja kunniasta.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/svenska-teatern/anglagard/": {
@@ -262,7 +279,8 @@
 "lang": "ruotsi",
 "subs": "Tekstitys ruotsiksi, suomeksi ja englanniksi",
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
-"desc": "Musikaali kertoo kahden maailmankokemuksen radioparin saapumisesta pienelle suomalaiselle maalaiskylään, mikä sekoittaa kylän rauhallisen elämän. Esityksessä risteilevät perintö ja vapaus, ja syntyy odottamattomia ystävyyksiä ja salaisuuksia.",
+"desc": "Musikaali kertoo radarparin Fanny ja Zacin odottamattomasta saapumisesta pieneen suomalaiseen maalaiskylään, missä heidän glamoröösi elämäntyylinsä järkyttää perinteisten arvojen omaavaa paikkakunnan asukkaita. Tarinan keskelle syntyy odottamattomia ystävyyksiä ja salaisuuksia.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
@@ -276,7 +294,8 @@
 "lang": "suomi",
 "subs": "englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
-"desc": "Minna Lundinin Elektrasta vapaasti innoittunut psykologinen draama porvarillisen kodin keittiössä. Äidinrakkauden varjopuolista ja sukupolvelta toiselle siirtyvistä traumoista.",
+"desc": "Esitys sijoittuu täydelliseen keittiöön, jossa äiti elää ikuisesti. Näytelmä tutkii äitiyden myyttiä, perhedynamiikkaa ja sukupolvelta toiselle siirtyneitä odotuksia, vapaaasti inspiroituna antiikin kreikkalaisesta tragedioista.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
@@ -290,7 +309,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
-"desc": "Faktapohjainen dokumenttiteatteriesitys suomalaispoliitikkojen ratkaisuista Gazan humanitaarisen kriisin edessä. Mustaa huumoria ja satiiria siitä, miksi länsi katsoo pois.",
+"desc": "Esitys käsittelee suomalisten poliitikkojen ja länsimaiden suhtautumista Gazan tragedian äärellä. Dokumentaarisesti ja mustalla huumorilla toteutettu teos tutkii, miksi maailma katsoo pois kriisien äärellä.",
+"dv": 2,
 "last": "2026-10-12"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
@@ -304,7 +324,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
-"desc": "Pyry Äikään yhden näyttelijän esitys Dario Fon teksteistä: fyysistä komiikkaa ja keskiaikaisen kansanteatterin monologeja, jotka peilaavat nykyajan populismia.",
+"desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
+"dv": 2,
 "last": "2026-10-12"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
@@ -346,7 +367,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.avoimetovet.fi/soteorpo",
-"desc": "Mustan huumorin satiiri siitä, miten Alzheimer-diagnoosi muuttaa avioliiton ja arjen hoitojärjestelmän rattaissa. K18.",
+"desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
@@ -360,7 +382,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Sanna Stellanin ja Krisse Salmisen komedia unohdetun poplaulajan elämänvalinnoista vuosikymmenten halki. Nopeita roolinvaihtoja, naurua ja haikeutta.",
+"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetun iskelmäkuningattaren Leenan elämästä täynnä iloja, suruja ja rakkauksia. Esitys on vauhdikkaiden roolien vaihtojen ja suurten tunteiden täyttämä kertomus elämänvalinnoista ja omasta vaikutuksesta omaan kohtaloon.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/aleksanterin-teatteri/luolamies/": {
@@ -374,7 +397,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
-"desc": "Martti Suosalon pitkäikäinen monologi parisuhteista ja miesten ja naisten tunnemaailmojen eroista.",
+"desc": "Martti Suosalon stand up -komiikka tutkii parisuhteen dynamiikkaa ja miesten sekä naisten sielunmaisemaa humoristisella ja hellyttävällä tavalla. Esitys on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
+"dv": 2,
 "last": "2026-10-11"
 },
 "/teatteri/aleksanterin-teatteri/pohjolan-naisen-luonto/": {
@@ -388,7 +412,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/pohjolan-naisen-luonto/",
-"desc": "Neljän tekijän esitys naisen matkasta ahtaista rooleista kohti elinvoimaa ja siitä, miten historia ja yhteiskunta muovaavat mieltä. K16.",
+"desc": "Performanssitaideteos, joka tutkii naisen psykologista matkaa kohti täyttä elinvoimaa ja ilmaisua yhteiskunnallisten rakenteiden ja historian vaikutuksesta. Esitys käsittelee naisen kasvutarinaa kiellettyjen tunteiden ja vaikuttavuuden omistamisen kautta.",
+"dv": 2,
 "last": "2026-10-06"
 },
 "/teatteri/zodiak-uuden-tanssin-keskus/ghosts-of-rosegarden/": {
@@ -402,13 +427,14 @@
 "lang": null,
 "subs": null,
 "page": "https://www.zodiak.fi/fi/ohjelmisto/ghosts-rosegarden",
-"desc": "Elina Pirisen tanssiteos kahdeksalle tanssijalle ja viidelle muusikolle: surrealistinen satu puutarhasta ja sen oudoista rituaaleista. K18.",
+"desc": "Elina Pirisen koreografiatyö kahdeksalle tanssijalle ja viidelle muusikolle, joka kuvaa ekspressiivistä satua libidinaarisen puutarhan asukkailta, joissa tanssi, musiikki ja visuaalisuus yhdistyvät ritualistiseksi ja mystiseksi näyttämöteokseksi.",
+"dv": 2,
 "last": "2026-10-10"
 },
 "/teatteri/teatteri-vantaa/pimean-kirkkaus/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Aulateatteri",
+"stage": "Aulateatterissa",
 "title": "Pimeän kirkkaus",
 "genre": "Draama",
 "dur": 50,
@@ -416,7 +442,8 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/",
-"desc": "Lena Labartin intiimi yhden naisen esitys Claes Anderssonin teksteistä: lämmin ja humoristinen, mutta myös maailman julmuutta haastava.",
+"desc": "Intiimi esitys Claes Anderssonin teksteistä, jotka ovat lämpimiä, humoristisia ja terävän älykkäitä, lähestyen maailmaa empaattisesti mutta rohkeasti kyseenalaistaen julmuutta ja mielettömyyttä.",
+"dv": 2,
 "last": "2026-10-07"
 },
 "/teatteri/teatteri-vantaa/stella-polaris-maaginen-matka/": {
@@ -430,7 +457,23 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/stella-polaris-maaginen-matka/",
-"desc": "Improvisoitu perheseikkailu, jossa lapset saavat vaikuttaa tarinan suuntaan. Yli 6-vuotiaille.",
+"desc": "Koko perheen improvisoitu seikkailu, jossa lapset vaikuttavat esityksen kulkuun. Näyttelijät, muusikko ja valosuunnittelija luovat tarinan ja roolihahmot reaaliajassa lasten ehdotusten pohjalta.",
+"dv": 2,
 "last": "2026-10-10"
+},
+"/teatteri/teatteri-vantaa/lena-labart-claes-andersson-pimean-kirkkaus/": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Aulateatteri",
+"title": "Lena Labart: Claes Andersson – Pimeän kirkkaus",
+"genre": "Draama",
+"dur": 50,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/pimean-kirkkaus/",
+"desc": "Intiimiä esitystä, jossa näyttelijä Lena Labart esittää Claes Anderssonin lämpimiä, inhimillisiä ja älykkäitä tekstejä, jotka lähestyvät maailmaa empaattisesti ja rohkeasti kyseenalaistaen.",
+"dv": 2,
+"last": "2026-10-07"
 }
 }
