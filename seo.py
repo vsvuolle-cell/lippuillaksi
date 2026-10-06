@@ -68,6 +68,7 @@ a{color:var(--accent)}
 .top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 20px}
 .logo{font-family:var(--f-display);font-weight:800;font-size:1.6rem;line-height:1;letter-spacing:-.02em;color:var(--ink);text-decoration:none}
 .logo span{color:var(--accent)}
+.logo img{height:1.9em;width:auto;vertical-align:-.6em;margin-right:.2em}
 .nav{display:flex;flex-wrap:wrap;gap:6px}
 .nav a{padding:6px 12px;border-radius:999px;background:var(--chip);color:var(--ink);text-decoration:none;font-size:.9rem;font-weight:500}
 .nav a[aria-current]{background:var(--ink);color:var(--bg)}
@@ -131,6 +132,10 @@ def page(path, title, desc, body, nav="", jsonld=None, noindex=False):
 <meta property="og:description" content="{e(desc[:300])}">
 <meta property="og:url" content="{e(canon)}">
 <meta property="og:locale" content="fi_FI">
+<link rel="icon" href="/logo.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://lippuillaksi.fi/logo-512.png">
 <meta name="color-scheme" content="light dark">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -139,7 +144,7 @@ def page(path, title, desc, body, nav="", jsonld=None, noindex=False):
 {ld}</head>
 <body>
 <div class="wrap">
-<header class="top"><a class="logo" href="/">Lippu <span>illaksi</span></a><nav class="nav" aria-label="Päävalikko">{nav_html}</nav></header>
+<header class="top"><a class="logo" href="/"><img src="/logo.svg" alt="" width="42" height="40">Lippu <span>illaksi</span></a><nav class="nav" aria-label="Päävalikko">{nav_html}</nav></header>
 <main class="main">
 {body}
 </main>

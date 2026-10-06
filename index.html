@@ -13,6 +13,10 @@
 <meta property="og:description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
 <meta property="og:url" content="https://lippuillaksi.fi/">
 <meta property="og:locale" content="fi_FI">
+<link rel="icon" href="/logo.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta property="og:image" content="https://lippuillaksi.fi/logo-512.png">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Lippu illaksi","url":"https://lippuillaksi.fi/","inLanguage":"fi"}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,6 +69,7 @@ header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content:
 .brand { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .logo { font-family: var(--f-display); font-weight: 800; font-size: clamp(2rem, 6vw, 2.75rem); line-height: 1; letter-spacing: -0.02em; margin: 0; }
 .logo span { color: var(--accent); }
+.logo img { height: 1.9em; width: auto; vertical-align: -0.6em; margin-right: .2em; }
 .tagline { margin: 0; color: var(--muted); font-size: 1.02rem; text-wrap: balance; }
 .proto { font-size: .75rem; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--warn); background: var(--warn-soft); padding: 5px 10px; border-radius: 999px; white-space: nowrap; }
 
@@ -178,7 +183,7 @@ details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
 <div class="wrap">
   <header>
     <div class="brand">
-      <h1 class="logo">Lippu <span>illaksi</span></h1>
+      <h1 class="logo"><img src="/logo.svg" alt="" width="63" height="60">Lippu <span>illaksi</span></h1>
       <p class="tagline">Lähipäivien näytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.</p>
     </div>
     <span class="proto" title="Pilottiversio: mukana osa pääkaupunkiseudun teattereista">Pilotti · pääkaupunkiseutu</span>
