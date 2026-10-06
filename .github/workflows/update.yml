@@ -1,0 +1,34 @@
+name: Päivitä näytökset
+
+on:
+  schedule:
+    - cron: "40 3 * * *"   # klo 6.40 Suomen kesäaikaa, 5.40 talviaikaa
+  workflow_dispatch:        # käsin: Actions → Päivitä näytökset → Run workflow
+
+permissions:
+  contents: write
+
+concurrency:
+  group: paivitys
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic requests beautifulsoup4
+      - name: Hae näytökset
+        run: python update.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Tallenna data.json
+        run: |
+          git config user.name "lippuillaksi-paivitys"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || (git commit -m "Näytökset päivitetty $(date -u +%F)" && git push)
