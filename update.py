@@ -37,9 +37,10 @@ THEATRES = [
      "hint": "Saatavuus: 'Paikkoja vapaana'=many, 'Muutama jäljellä'=few, 'Loppuunmyyty'=sold."},
     {"name": "Helsingin Kaupunginteatteri", "city": "Helsinki", "api": "hkt"},
     {"name": "Svenska Teatern", "city": "Helsinki", "api": "svenska"},
-    {"name": "Ryhmäteatteri", "city": "Helsinki",
+    # Ryhmäteatteri antoi 9.10.2026 luvan lukea lipputilanteen esityssivuiltaan (Tiketistä tuleva tieto).
+    {"name": "Ryhmäteatteri", "city": "Helsinki", "api": "tiketti_feed",
      "start": ["https://www.ryhmateatteri.fi/ohjelmisto-liput/"],
-     "follow": r"^https://www\.ryhmateatteri\.fi/ohjelma/[^/?#]+/?$", "hint": ""},
+     "follow": r"^https://www\.ryhmateatteri\.fi/ohjelma/[^/?#]+/?$"},
     {"name": "KOM-teatteri", "city": "Helsinki",
      "start": ["https://kom-teatteri.fi/ohjelmisto/"],
      "follow": r"^https://kom-teatteri\.fi/ohjelmisto/[^/?#]+/?$", "hint": ""},
@@ -269,6 +270,55 @@ def api_svenska(days):
     return rows
 
 
+TIKETTI_AVAIL = {"green": "many", "yellow": "few", "orange": "few", "red": "sold", "black": "sold", "grey": "sold", "gray": "sold"}
+
+
+def api_tiketti_feed(th, days):
+    """Teatterin WordPress-sivuilla oleva Tiketti-syöte (<script class="calendar-data">).
+
+    Sivulla on JSON, jossa jokaisella näytöksellä on päivä, kellonaika, Tiketin ostolinkki
+    ja tickets_indicator (green = hyvin tilaa, yellow = vähän, red/black = loppuunmyyty).
+    """
+    days_iso = {d.isoformat() for d in days}
+    start = fetch(th["start"][0])
+    if not start:
+        return None
+    _, links = page_text(start, th["start"][0])
+    follow = re.compile(th["follow"])
+    rows = []
+    for link in list(dict.fromkeys(l for l in links if follow.match(l)))[:MAX_FOLLOW]:
+        html = fetch(link)
+        time.sleep(0.5)
+        if not html:
+            continue
+        soup = BeautifulSoup(html, "html.parser")
+        for sc in soup.find_all("script", class_="calendar-data"):
+            try:
+                data = json.loads(sc.string or sc.get_text())
+            except json.JSONDecodeError:
+                continue
+            for sh in data.get("shows", []) if isinstance(data, dict) else []:
+                if str(sh.get("public", "1")) != "1":
+                    continue
+                ym = re.fullmatch(r"(\d{4})-(\d{1,2})", str(sh.get("year_month", "")))
+                tm = re.fullmatch(r"(\d{1,2})[.:](\d{2})", str(sh.get("time", "")).strip())
+                if not (ym and tm and str(sh.get("day", "")).isdigit()):
+                    continue
+                date = dt.date(int(ym.group(1)), int(ym.group(2)), int(sh["day"])).isoformat()
+                if date not in days_iso:
+                    continue
+                status = str(sh.get("status", "")).lower()
+                if status in ("cancelled", "canceled", "postponed"):
+                    continue
+                avail = "sold" if status == "sold_out" else TIKETTI_AVAIL.get(str(sh.get("tickets_indicator", "")).lower(), "unknown")
+                rows.append({"title": clean_title(sh.get("name")), "stage": sh.get("location_name") or None,
+                             "date": date, "time": f"{int(tm.group(1)):02d}.{tm.group(2)}", "avail": avail,
+                             "url": sh.get("link"), "page": link,
+                             "note": clean_title(sh.get("subevent_name")) or None})
+        print(f"  - {link}")
+    return rows
+
+
 DESCRIBE = """Alla on tietoa esityksestä "{title}" ({theatre}). Palauta VAIN JSON-objekti:
 {{"genre": yksi näistä {genres}, "desc": 1–2 virkettä suomeksi OMIN SANOIN siitä, mistä esityksessä on kyse,
  "dur": kesto minuutteina väliaikoineen tai null, "inter": true/false/null, "lang": esityskieli suomeksi tai null,
@@ -404,9 +454,9 @@ def main():
     for th in THEATRES:
         print(f"\n== {th['name']}")
         if th.get("api"):
-            rows = api_hkt(days) if th["api"] == "hkt" else api_svenska(days)
+            rows = {"hkt": api_hkt, "svenska": api_svenska, "tiketti_feed": lambda d: api_tiketti_feed(th, d)}[th["api"]](days)
             found, page_cache = 0, {}
-            for s in rows:
+            for s in rows or []:
                 if not valid(s, days_iso):
                     continue
                 pid = slug(th["name"])[:20] + "-" + slug(s["title"])
@@ -441,6 +491,8 @@ def main():
                        "avail": s.get("avail", "unknown"), "url": s.get("url") or productions[pid]["page"]}
                 if s.get("seats"):
                     row["seats"] = s["seats"]
+                if s.get("note"):
+                    row["note"] = s["note"]
                 showings.append(row)
                 found += 1
             status = "ok" if found else ("none" if rows is not None else "fail")
