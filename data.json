@@ -1,8 +1,22 @@
 {
-"updated": "2026-10-09T09:15+03:00",
+"updated": "2026-10-09T11:45+03:00",
 "from": "2026-10-09",
 "to": "2026-10-15",
 "productions": {
+"suomen-kansallisteat-jos-meilta-kysytaan": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "jos meiltä kysytään",
+"genre": "Draama",
+"dur": 75,
+"inter": false,
+"lang": "suomi",
+"subs": "suomi, englanti",
+"page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
+"desc": "Nuorten ryhmä kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat erilaisia utopioita ja dystopioita pohtien, mitä yhdessäolo vaatii ja haluavatko he sitä.",
+"dv": 2
+},
 "suomen-kansallisteat-lady-t": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
@@ -12,7 +26,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava uutuusdraama Margaret Thatcherin ja hotellityöntekijän Linda Elliotin kohtaamisesta jouluna 2012 Lontoon hotellissa. Esitys käsittelee poliittisten päätösten seurauksia yksittäisille ihmisille sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2
@@ -26,7 +40,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja Keserű lähtee jäljittämään kuolleen kirjailijan B kadonneita papereita ja salaperäistä romaania. Esitys tutkii muistia, traumaa ja Euroopan viime vuosisadan katastrofeja monitasoisesti.",
 "dv": 2
@@ -483,10 +497,9 @@
 "p": "ryhmateatteri-aitisi-klytaimestra",
 "date": "2026-10-09",
 "time": "18.30",
-"price": 52,
-"avail": "unknown",
-"url": "https://www.tiketti.fi/tapahtuma/118062",
-"note": "Maksa mitä maksat -näytös"
+"price": null,
+"avail": "few",
+"url": "https://www.tiketti.fi/tapahtuma/118062"
 },
 {
 "p": "suomen-kansallisteat-lopetus",
@@ -636,8 +649,8 @@
 "p": "ryhmateatteri-aitisi-klytaimestra",
 "date": "2026-10-10",
 "time": "14.00",
-"price": 52,
-"avail": "unknown",
+"price": null,
+"avail": "many",
 "url": "https://www.tiketti.fi/tapahtuma/118083"
 },
 {
@@ -703,7 +716,7 @@
 "price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296666/?affiliate=HKK&language=fi",
-"seats": 11
+"seats": 14
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -861,7 +874,7 @@
 "p": "suomen-kansallisteat-huojuu-elaman-puu",
 "date": "2026-10-13",
 "time": "18.30",
-"price": 25,
+"price": 15,
 "avail": "unknown",
 "url": "https://www.kansallisteatteri.fi/esitys/huojuu-elaman-puu"
 },
@@ -912,6 +925,15 @@
 "price": 46,
 "avail": "unknown",
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-jos-meilta-kysytaan",
+"date": "2026-10-14",
+"time": "18.30",
+"price": 36,
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-jos-meilta-kysytaan-suomen-kansallisteatteri-21645943/?affiliate=ADV&language=fi",
+"note": "Ensi-ilta"
 },
 {
 "p": "suomen-kansallisteat-orvot",
