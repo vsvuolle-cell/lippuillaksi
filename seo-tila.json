@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja Keserű lähtee jäljittämään kuolleen kirjailijan B kadonneita papereita ja salaperäistä romaania. Esitys tutkii muistia, traumaa ja Euroopan viime vuosisadan katastrofeja monitasoisesti.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-15"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaustyö, joka on varattu vain viattomille. Esitys käsittelee naisia ja heidän tarinoitaan.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-15"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -206,7 +206,7 @@
 "page": "https://hkt.fi/esitykset/elolliset/",
 "desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-15"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -221,7 +221,7 @@
 "page": "https://hkt.fi/esitykset/club-actone/",
 "desc": "Club act!one on stand-up-komiikan klubi, jossa Suomen johtavat koomikot esiintyvät säännöllisesti. Esityksessä on irrottelua, vedätystä ja itsensä alttiiksi panemista.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-15"
 },
 "/teatteri/helsingin-kaupunginteatteri/kivia-taskussa/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -266,7 +266,7 @@
 "page": "https://svenskateatern.fi/repertoar/nattland/",
 "desc": "Kaksi sisarusta löytävät isänsä talosta vanhan maalauksen Wienistä, jonka allekirjoitus saattaa kuulua Adolf Hitlerille. Tämä löytö johtaa absurdiin kamppailuun perinnöstä, rahasta ja kunniasta.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-15"
 },
 "/teatteri/svenska-teatern/anglagard/": {
 "theatre": "Svenska Teatern",
@@ -281,7 +281,7 @@
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
 "desc": "Musikaali kertoo radarparin Fanny ja Zacin odottamattomasta saapumisesta pieneen suomalaiseen maalaiskylään, missä heidän glamoröösi elämäntyylinsä järkyttää perinteisten arvojen omaavaa paikkakunnan asukkaita. Tarinan keskelle syntyy odottamattomia ystävyyksiä ja salaisuuksia.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
 "theatre": "Ryhmäteatteri",
@@ -292,7 +292,7 @@
 "dur": 130,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja selkeällä suomen kielellä keskiviikkoisin ja perjantaisin",
+"subs": "englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys sijoittuu täydelliseen keittiöön, jossa äiti elää ikuisesti. Näytelmä tutkii äitiyden myyttiä, perhedynamiikkaa ja sukupolvelta toiselle siirtyneitä odotuksia, vapaaasti inspiroituna antiikin kreikkalaisesta tragedioista.",
 "dv": 2,
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalisten poliitikkojen ja länsimaiden suhtautumista Gazan tragedian äärellä. Dokumentaarisesti ja mustalla huumorilla toteutettu teos tutkii, miksi maailma katsoo pois kriisien äärellä.",
 "dv": 2,
-"last": "2026-10-13"
+"last": "2026-10-14"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-14"
+"last": "2026-10-15"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -505,5 +505,50 @@
 "desc": "Nuorten näyttelijöiden ryhmä tutkii yhdessäoloa, eroja ja etäisyyksiä toisiinsa nähden keskustelun ja liikkeen kautta. He rakentavat ja purkavat erilaisia utopioita ja dystopioita pohtiessaan, mitä yhdessäolo todella vaatii.",
 "dv": 2,
 "last": "2026-10-14"
+},
+"/teatteri/suomen-kansallisteatteri/lady-t/": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "Lady T",
+"genre": "Draama",
+"dur": 125,
+"inter": true,
+"lang": "suomi",
+"subs": "Englanti ja suomi (Subtitle Mobile)",
+"page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
+"desc": "Vaikuttava uutuusdraama Margaret Thatcherin ja hotellityöntekijän Linda Elliotin kohtaamisesta jouluna 2012 Lontoon hotellissa. Esitys käsittelee poliittisten päätösten seurauksia yksittäisille ihmisille sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
+"dv": 2,
+"last": "2026-10-10"
+},
+"/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Kreivitär Amalien draamakierros",
+"genre": "Draama",
+"dur": 75,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
+"desc": "Kreivitär Amalie kierrättää yleisöä teatterikierroksella kertoen Aleksanterin teatterin historiasta ja omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulua.",
+"dv": 2,
+"last": "2026-10-11"
+},
+"/teatteri/aleksanterin-teatteri/greta-tuotanto-sorkka-svengaa/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Greta Tuotanto: Sörkka svengaa",
+"genre": "Musikaali",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-sorkka-svengaa/",
+"desc": "Musiikkinäytelmä 1920-luvun Helsingin kieltolain ajasta, jossa tapahtumapaikka on Sörkassa sijaitseva ravintola Paratiisi. Esityksessä kohtaavat salakuljettajat, modernit jatsitytöt ja nuori Mika Waltari.",
+"dv": 2,
+"last": "2026-10-15"
 }
 }
