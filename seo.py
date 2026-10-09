@@ -58,8 +58,8 @@ def fdur(m, inter):
     return s + (", sis. väliajan" if inter is True else ", ei väliaikaa" if inter is False else "")
 
 
-CSS = """:root{--bg:#F5F4F7;--surface:#FFF;--ink:#1C1726;--muted:#625B70;--line:#E3E0EA;--chip:#EEEBF3;--accent:#A3123A;--accent-ink:#FFF;--accent-soft:#F8E6EB;--ok:#1F7A4D;--ok-soft:#E3F3EA;--warn:#A55300;--warn-soft:#FBEEDD;--sold:#857F90;--sold-soft:#EEEDF1;--f-display:"Bricolage Grotesque","Avenir Next","Segoe UI",system-ui,sans-serif;--f-body:"Figtree","Segoe UI",system-ui,-apple-system,sans-serif}
-@media (prefers-color-scheme:dark){:root{--bg:#131018;--surface:#1D1924;--ink:#F1EEF6;--muted:#A69FB3;--line:#2F2A39;--chip:#2A2533;--accent:#F0567A;--accent-ink:#1A0710;--accent-soft:#3A1A25;--ok:#4CC38A;--ok-soft:#173326;--warn:#F0A243;--warn-soft:#3A2A14;--sold:#7C7688;--sold-soft:#26222D;color-scheme:dark}}
+CSS = """:root{--bg:#F6F1E7;--surface:#FFFCF6;--ink:#221C17;--muted:#6B5F55;--line:#E3D9C9;--chip:#EEE6D8;--accent:#A3123A;--accent-ink:#FFF;--accent-soft:#F3E0E0;--ok:#1F7A4D;--ok-soft:#E2F0E4;--warn:#A55300;--warn-soft:#F8E8D2;--sold:#6F645A;--sold-soft:#EDE7DD;--f-display:"Schibsted Grotesk","Helvetica Neue","Segoe UI",system-ui,sans-serif;--f-body:"Schibsted Grotesk","Helvetica Neue","Segoe UI",system-ui,-apple-system,sans-serif}
+@media (prefers-color-scheme:dark){:root{--bg:#16120E;--surface:#201A15;--ink:#F3ECE2;--muted:#B3A696;--line:#3A3128;--chip:#2C251E;--accent:#F0567A;--accent-ink:#1A0710;--accent-soft:#3A1A22;--ok:#4CC38A;--ok-soft:#17301F;--warn:#F0A243;--warn-soft:#3A2A14;--sold:#968A7D;--sold-soft:#27211B;color-scheme:dark}}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5}
 a{color:var(--accent)}
@@ -78,7 +78,7 @@ h1{font-family:var(--f-display);font-weight:800;font-size:clamp(1.7rem,5vw,2.4re
 h2{font-family:var(--f-display);font-weight:600;font-size:1.25rem;margin:10px 0 0;padding-bottom:8px;border-bottom:1px solid var(--line)}
 .list{display:flex;flex-direction:column;gap:10px}
 .show{display:grid;grid-template-columns:5rem minmax(0,1fr) auto;gap:6px 18px;align-items:start;padding:16px 18px;background:var(--surface);border:1px solid var(--line);border-radius:14px}
-.time{font-family:var(--f-display);font-weight:800;font-size:1.5rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.time{font-family:var(--f-display);font-weight:800;font-size:1.5rem;line-height:1.1;font-variant-numeric:lining-nums}
 .time small{display:block;font-family:var(--f-body);font-size:.75rem;font-weight:600;color:var(--muted)}
 .info{min-width:0;display:flex;flex-direction:column;gap:4px}
 .info h3{margin:0;font-size:1.12rem;line-height:1.25}.info h3 a{color:var(--ink);text-decoration:none}.info h3 a:hover{text-decoration:underline}
@@ -132,19 +132,19 @@ def page(path, title, desc, body, nav="", jsonld=None, noindex=False):
 <meta property="og:description" content="{e(desc[:300])}">
 <meta property="og:url" content="{e(canon)}">
 <meta property="og:locale" content="fi_FI">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico?v=6" sizes="48x48">
+<link rel="icon" href="/favicon.svg?v=6" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=6">
 <meta property="og:image" content="https://lippuillaksi.fi/logo-512.png">
 <meta name="color-scheme" content="light dark">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
 <link rel="stylesheet" href="/tyyli.css">
 {ld}</head>
 <body>
 <div class="wrap">
-<header class="top"><a class="logo" href="/"><img src="/logo.svg" alt="" width="42" height="40">Lippu <span>illaksi</span></a><nav class="nav" aria-label="Päävalikko">{nav_html}</nav></header>
+<header class="top"><a class="logo" href="/"><img src="/logo.svg?v=6" alt="" width="28" height="40">Lippu <span>illaksi</span></a><nav class="nav" aria-label="Päävalikko">{nav_html}</nav></header>
 <main class="main">
 {body}
 </main>

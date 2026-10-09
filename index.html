@@ -13,48 +13,48 @@
 <meta property="og:description" content="Lähipäivien teatterinäytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.">
 <meta property="og:url" content="https://lippuillaksi.fi/">
 <meta property="og:locale" content="fi_FI">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="icon" href="/favicon.png" type="image/png" sizes="32x32">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="icon" href="/favicon.ico?v=6" sizes="48x48">
+<link rel="icon" href="/favicon.svg?v=6" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=6">
 <meta property="og:image" content="https://lippuillaksi.fi/logo-512.png">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Lippu illaksi","url":"https://lippuillaksi.fi/","inLanguage":"fi"}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&display=swap">
 <style>
 /* Layout (Illaksi teatteriin): one calm column — date strip, filters, then a time-ordered list of showings (like a cinema listing). */
 :root {
-  --bg: #F5F4F7;
-  --surface: #FFFFFF;
-  --ink: #1C1726;
-  --muted: #625B70;
-  --line: #E3E0EA;
-  --chip: #EEEBF3;
+  --bg: #F6F1E7;
+  --surface: #FFFCF6;
+  --ink: #221C17;
+  --muted: #6B5F55;
+  --line: #E3D9C9;
+  --chip: #EEE6D8;
   --accent: #A3123A;
   --accent-ink: #FFFFFF;
-  --accent-soft: #F8E6EB;
+  --accent-soft: #F3E0E0;
   --ok: #1F7A4D;
-  --ok-soft: #E3F3EA;
+  --ok-soft: #E2F0E4;
   --warn: #A55300;
-  --warn-soft: #FBEEDD;
-  --sold: #857F90;
-  --sold-soft: #EEEDF1;
-  --shadow: 0 1px 2px rgba(28, 23, 38, .05);
-  --f-display: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
-  --f-body: "Figtree", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --warn-soft: #F8E8D2;
+  --sold: #6F645A;
+  --sold-soft: #EDE7DD;
+  --shadow: 0 1px 2px rgba(34, 28, 23, .05);
+  --f-display: "Schibsted Grotesk", "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
+  --f-body: "Schibsted Grotesk", "Helvetica Neue", "Segoe UI", system-ui, -apple-system, sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #131018; --surface: #1D1924; --ink: #F1EEF6; --muted: #A69FB3; --line: #2F2A39; --chip: #2A2533;
-    --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A25;
-    --ok: #4CC38A; --ok-soft: #173326; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #7C7688; --sold-soft: #26222D;
+    --bg: #16120E; --surface: #201A15; --ink: #F3ECE2; --muted: #B3A696; --line: #3A3128; --chip: #2C251E;
+    --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A22;
+    --ok: #4CC38A; --ok-soft: #17301F; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #968A7D; --sold-soft: #27211B;
     --shadow: none; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #131018; --surface: #1D1924; --ink: #F1EEF6; --muted: #A69FB3; --line: #2F2A39; --chip: #2A2533;
-  --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A25;
-  --ok: #4CC38A; --ok-soft: #173326; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #7C7688; --sold-soft: #26222D;
+  --bg: #16120E; --surface: #201A15; --ink: #F3ECE2; --muted: #B3A696; --line: #3A3128; --chip: #2C251E;
+  --accent: #F0567A; --accent-ink: #1A0710; --accent-soft: #3A1A22;
+  --ok: #4CC38A; --ok-soft: #17301F; --warn: #F0A243; --warn-soft: #3A2A14; --sold: #968A7D; --sold-soft: #27211B;
   --shadow: none; color-scheme: dark;
 }
 
@@ -67,7 +67,7 @@ button, select { font: inherit; color: inherit; }
 /* Header */
 header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 10px 20px; }
 .brand { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
-.logo { font-family: var(--f-display); font-weight: 800; font-size: clamp(2rem, 6vw, 2.75rem); line-height: 1; letter-spacing: -0.02em; margin: 0; }
+.logo { font-family: var(--f-display); font-weight: 800; font-size: clamp(2rem, 6vw, 2.75rem); line-height: 1; letter-spacing: -0.025em; margin: 0; }
 .logo span { color: var(--accent); }
 .logo img { height: 1.9em; width: auto; vertical-align: -0.6em; margin-right: .2em; }
 .tagline { margin: 0; color: var(--muted); font-size: 1.02rem; text-wrap: balance; }
@@ -78,7 +78,7 @@ header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content:
 .day { flex: 0 0 auto; min-width: 104px; display: flex; flex-direction: column; align-items: flex-start; gap: 2px; padding: 10px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; text-align: left; box-shadow: var(--shadow); }
 .day:hover { border-color: var(--muted); }
 .day .dname { font-weight: 700; font-size: .98rem; }
-.day .ddate { color: var(--muted); font-size: .85rem; font-variant-numeric: tabular-nums; }
+.day .ddate { color: var(--muted); font-size: .85rem; font-variant-numeric: lining-nums; }
 .day .dcount { font-size: .78rem; color: var(--ok); font-weight: 600; }
 .day[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
 .day[aria-pressed="true"] .ddate { color: var(--bg); opacity: .75; }
@@ -106,7 +106,7 @@ select { padding: 8px 34px 8px 12px; border-radius: 10px; border: 1px solid var(
 .list { display: flex; flex-direction: column; gap: 10px; }
 .show { display: grid; grid-template-columns: 5.25rem minmax(0, 1fr) auto; gap: 8px 20px; align-items: start; padding: 18px 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
 .time { display: flex; flex-direction: column; gap: 4px; }
-.time strong { font-family: var(--f-display); font-weight: 800; font-size: 1.7rem; line-height: 1; font-variant-numeric: tabular-nums; letter-spacing: -0.01em; }
+.time strong { font-family: var(--f-display); font-weight: 800; font-size: 1.7rem; line-height: 1; font-variant-numeric: lining-nums; letter-spacing: -0.01em; }
 .soon { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--accent); }
 .info { min-width: 0; display: flex; flex-direction: column; gap: 6px; }
 .info h3 { margin: 0; font-size: 1.18rem; font-weight: 700; line-height: 1.25; text-wrap: balance; }
@@ -125,7 +125,7 @@ details p { margin: 6px 0 0; max-width: 62ch; }
 .avail.many { color: var(--ok); background: var(--ok-soft); }
 .avail.few { color: var(--warn); background: var(--warn-soft); }
 .avail.sold { color: var(--sold); background: var(--sold-soft); }
-.price { font-size: .95rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.price { font-size: .95rem; color: var(--muted); font-variant-numeric: lining-nums; }
 .price b { color: var(--ink); font-size: 1.15rem; }
 .btn { border: 0; border-radius: 10px; padding: 10px 18px; font-weight: 700; background: var(--accent); color: var(--accent-ink); cursor: pointer; white-space: nowrap; }
 .btn:hover { filter: brightness(1.08); }
@@ -141,13 +141,13 @@ footer { color: var(--muted); font-size: .85rem; border-top: 1px solid var(--lin
 footer p { margin: 0 0 6px; max-width: 70ch; }
 
 /* Modal */
-.overlay { position: fixed; inset: 0; background: rgba(10, 8, 14, .55); display: flex; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
+.overlay { position: fixed; inset: 0; background: rgba(14, 10, 6, .55); display: flex; align-items: center; justify-content: center; padding: 16px; z-index: 10; }
 .modal { background: var(--surface); color: var(--ink); border-radius: 16px; max-width: 440px; width: 100%; padding: 24px; display: flex; flex-direction: column; gap: 12px; border: 1px solid var(--line); }
 .modal h4 { margin: 0; font-family: var(--f-display); font-size: 1.35rem; font-weight: 600; }
 .modal p { margin: 0; color: var(--muted); }
 .modal dl { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; margin: 4px 0; font-size: .95rem; }
 .modal dt { color: var(--muted); }
-.modal dd { margin: 0; font-weight: 600; font-variant-numeric: tabular-nums; }
+.modal dd { margin: 0; font-weight: 600; font-variant-numeric: lining-nums; }
 .modal .row { display: flex; justify-content: flex-end; gap: 8px; margin-top: 6px; }
 .btn.ghost { background: var(--chip); color: var(--ink); }
 
@@ -168,7 +168,7 @@ a.btn { text-decoration: none; display: inline-block; }
 .btn.off { background: var(--sold-soft); color: var(--sold); cursor: default; }
 .flag { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; color: var(--warn); }
 details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
-.updated { font-size: .85rem; color: var(--muted); margin: 0; font-variant-numeric: tabular-nums; }
+.updated { font-size: .85rem; color: var(--muted); margin: 0; font-variant-numeric: lining-nums; }
 .coverage { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; padding: 0; list-style: none; }
 .coverage li { font-size: .8rem; padding: 3px 9px; border-radius: 6px; background: var(--chip); color: var(--ink); }
 .coverage li.miss { background: transparent; border: 1px dashed var(--line); color: var(--muted); }
@@ -176,14 +176,14 @@ details a { color: var(--accent); font-weight: 600; font-size: .88rem; }
 .coverage a { color: inherit; text-decoration: none; }
 .loading { padding: 40px 20px; text-align: center; color: var(--muted); }
 </style>
-<style>html{-webkit-text-size-adjust:100%}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<style>html{-webkit-text-size-adjust:100%}body{margin:0}img{max-width:100%}[hidden]{display:none!important}.field{max-width:100%;min-width:0}.field select{flex:1 1 auto;min-width:0;max-width:100%;text-overflow:ellipsis}</style>
 </head>
 <body>
 
 <div class="wrap">
   <header>
     <div class="brand">
-      <h1 class="logo"><img src="/logo.svg" alt="" width="63" height="60">Lippu <span>illaksi</span></h1>
+      <h1 class="logo"><img src="/logo.svg?v=6" alt="" width="42" height="60">Lippu <span>illaksi</span></h1>
       <p class="tagline">Lähipäivien näytökset, joihin saat vielä lippuja. Pääkaupunkiseudun teatterit yhdellä sivulla.</p>
     </div>
     <span class="proto" title="Pilottiversio: mukana osa pääkaupunkiseudun teattereista">Pilotti · pääkaupunkiseutu</span>
