@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-09T06:54+03:00",
+"updated": "2026-10-09T09:15+03:00",
 "from": "2026-10-09",
 "to": "2026-10-15",
 "productions": {
@@ -12,7 +12,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava uutuusdraama Margaret Thatcherin ja hotellityöntekijän Linda Elliotin kohtaamisesta jouluna 2012 Lontoon hotellissa. Esitys käsittelee poliittisten päätösten seurauksia yksittäisille ihmisille sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2
@@ -26,7 +26,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja Keserű lähtee jäljittämään kuolleen kirjailijan B kadonneita papereita ja salaperäistä romaania. Esitys tutkii muistia, traumaa ja Euroopan viime vuosisadan katastrofeja monitasoisesti.",
 "dv": 2
@@ -264,7 +264,7 @@
 "dur": 130,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja selkeä suomi keskiviikkoisin ja perjantaisin",
+"subs": "Englanniksi ja selkeällä suomen kielellä",
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys sijoittuu täydelliseen keittiöön, jossa äiti elää ikuisesti. Näytelmä tutkii äitiyden myyttiä, perhedynamiikkaa ja sukupolvelta toiselle siirtyneitä odotuksia, vapaaasti inspiroituna antiikin kreikkalaisesta tragedioista.",
 "dv": 2
@@ -861,7 +861,7 @@
 "p": "suomen-kansallisteat-huojuu-elaman-puu",
 "date": "2026-10-13",
 "time": "18.30",
-"price": 15,
+"price": 25,
 "avail": "unknown",
 "url": "https://www.kansallisteatteri.fi/esitys/huojuu-elaman-puu"
 },
