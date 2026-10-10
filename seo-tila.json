@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja Keserű lähtee jäljittämään kuolleen kirjailijan B kadonneita papereita ja salaperäistä romaania. Esitys tutkii muistia, traumaa ja Euroopan viime vuosisadan katastrofeja monitasoisesti.",
 "dv": 2,
@@ -57,7 +57,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-16"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -116,7 +116,7 @@
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
 "desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-16"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -131,7 +131,7 @@
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
 "desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyvistä asiattomista henkilöistä. Kun pelot kasvavat, nousevat esille epäluulo, ahdistus ja vanhat naapurikonfliktit, joissa tutkitaan totuuden ja kuvitelmien välistä rajaa.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-16"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-16"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -189,9 +189,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
-"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hän tuli koko Suomen kansan rakastamaksi taiteilijaksi. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, joka käsittelee Loirin tunnetuimpia rooleja ja hänen tärkeittään musiikin kappaleita sekä sitä hintaa, jonka hän maksoi rehellisyydestään ja intohimostaan.",
+"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
 "dv": 2,
-"last": "2026-10-08"
+"last": "2026-10-16"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -206,7 +206,7 @@
 "page": "https://hkt.fi/esitykset/elolliset/",
 "desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-16"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -266,7 +266,7 @@
 "page": "https://svenskateatern.fi/repertoar/nattland/",
 "desc": "Kaksi sisarusta löytävät isänsä talosta vanhan maalauksen Wienistä, jonka allekirjoitus saattaa kuulua Adolf Hitlerille. Tämä löytö johtaa absurdiin kamppailuun perinnöstä, rahasta ja kunniasta.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-16"
 },
 "/teatteri/svenska-teatern/anglagard/": {
 "theatre": "Svenska Teatern",
@@ -281,7 +281,7 @@
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
 "desc": "Musikaali kertoo radarparin Fanny ja Zacin odottamattomasta saapumisesta pieneen suomalaiseen maalaiskylään, missä heidän glamoröösi elämäntyylinsä järkyttää perinteisten arvojen omaavaa paikkakunnan asukkaita. Tarinan keskelle syntyy odottamattomia ystävyyksiä ja salaisuuksia.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-16"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
 "theatre": "Ryhmäteatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalisten poliitikkojen ja länsimaiden suhtautumista Gazan tragedian äärellä. Dokumentaarisesti ja mustalla huumorilla toteutettu teos tutkii, miksi maailma katsoo pois kriisien äärellä.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-16"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-15"
+"last": "2026-10-16"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -500,11 +500,11 @@
 "dur": 75,
 "inter": false,
 "lang": "suomi",
-"subs": "suomi, englanti",
+"subs": "suomen- ja englanninkielinen tekstitys",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Nuorten ryhmä kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat erilaisia utopioita ja dystopioita pohtien, mitä yhdessäolo vaatii ja haluavatko he sitä.",
 "dv": 2,
-"last": "2026-10-14"
+"last": "2026-10-16"
 },
 "/teatteri/suomen-kansallisteatteri/lady-t/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -515,7 +515,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava uutuusdraama Margaret Thatcherin ja hotellityöntekijän Linda Elliotin kohtaamisesta jouluna 2012 Lontoon hotellissa. Esitys käsittelee poliittisten päätösten seurauksia yksittäisille ihmisille sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
@@ -549,6 +549,36 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-sorkka-svengaa/",
 "desc": "Musiikkinäytelmä 1920-luvun Helsingin kieltolain ajasta, jossa tapahtumapaikka on Sörkassa sijaitseva ravintola Paratiisi. Esityksessä kohtaavat salakuljettajat, modernit jatsitytöt ja nuori Mika Waltari.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-16"
+},
+"/teatteri/svenska-teatern/mim-6-nya-dramatiker-6-nya-pjaser/": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "NICKEN-scenen",
+"title": "MiM - 6 nya dramatiker - 6 nya pjäser",
+"genre": "Draama",
+"dur": 180,
+"inter": null,
+"lang": "ruotsi",
+"subs": null,
+"page": "https://svenskateatern.fi/repertoar/6-nya-dramatiker-6-nya-pjaser/",
+"desc": "Kuuden nuoren dramatistin kirjoittamia uusia näytelmiä esitetään scenisina luennoina, joissa ammattilaiset näyttelijät esittävät uusimman finlandsruotsalaisen dramaattisen kirjoituksen ääniä.",
+"dv": 2,
+"last": "2026-10-16"
+},
+"/teatteri/teatteri-avoimet-ovet/ilta-rivieralla-olavi-paavolaisen-kanssa/": {
+"theatre": "Teatteri Avoimet Ovet",
+"city": "Helsinki",
+"stage": "Teatteri Avoimet Ovet",
+"title": "Ilta Rivieralla Olavi Paavolaisen kanssa",
+"genre": "Draama",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "https://www.avoimetovet.fi/ilta-rivieralla/",
+"desc": "Esitys vie katsojat Välimeren lämpöön yhdistäen runoutta, musiikkia ja draamaa kirjailija Olavi Paavolaisen Rivieran-matkojen kautta. Kertoja johdattaa yleisön tarinaan, jossa Paavolaisen lennokkaat kirjeet ja runot elävöityvät draamallisten kohtauksien ja ranskalaisen musiikin avulla.",
+"dv": 2,
+"last": "2026-10-16"
 }
 }
