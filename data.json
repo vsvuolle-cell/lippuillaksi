@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-11T06:53+03:00",
-"from": "2026-10-11",
-"to": "2026-10-17",
+"updated": "2026-10-12T06:57+03:00",
+"from": "2026-10-12",
+"to": "2026-10-18",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -29,20 +29,6 @@
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
-"dv": 2
-},
-"suomen-kansallisteat-sivuraide": {
-"theatre": "Suomen Kansallisteatteri",
-"city": "Helsinki",
-"stage": "Pieni näyttämö",
-"title": "Sivuraide",
-"genre": "Draama",
-"dur": 135,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
-"desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päätyy keskustelemaan elämästään. Esitys käsittelee entisiä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
 "dv": 2
 },
 "suomen-kansallisteat-toinen-tasavalta": {
@@ -297,32 +283,6 @@
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2
 },
-"teatteri-jurkka-vayla": {
-"theatre": "Teatteri Jurkka",
-"city": "Helsinki",
-"stage": "Väylä",
-"title": "Väylä",
-"genre": "Draama",
-"dur": null,
-"inter": null,
-"lang": null,
-"subs": null,
-"page": "https://www.jurkka.fi/kalenteri/",
-"desc": ""
-},
-"teatteri-jurkka-keuhkot": {
-"theatre": "Teatteri Jurkka",
-"city": "Helsinki",
-"stage": "Keuhkot",
-"title": "Keuhkot",
-"genre": "Draama",
-"dur": null,
-"inter": null,
-"lang": null,
-"subs": null,
-"page": "https://www.jurkka.fi/kalenteri/",
-"desc": ""
-},
 "teatteri-avoimet-ove-soteorpo": {
 "theatre": "Teatteri Avoimet Ovet",
 "city": "Helsinki",
@@ -351,34 +311,6 @@
 "desc": "Esitys vie katsojat Välimeren lämpöön yhdistäen runoutta, musiikkia ja draamaa kirjailija Olavi Paavolaisen Rivieran-matkojen kautta. Kertoja johdattaa yleisön tarinaan, jossa Paavolaisen lennokkaat kirjeet ja runot elävöityvät draamallisten kohtauksien ja ranskalaisen musiikin avulla.",
 "dv": 2
 },
-"aleksanterin-teatter-kreivitar-amalien-draamakierros": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Kreivitär Amalien draamakierros",
-"genre": "Draama",
-"dur": 75,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä teatterikierroksella kertoen Aleksanterin teatterin historiasta ja omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulua.",
-"dv": 2
-},
-"aleksanterin-teatter-luolamies": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Luolamies",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
-"desc": "Martti Suosalon stand up -komedia miehestä ja naisesta sekä parisuhteen sielunmaisemasta. Esitys herättää oivalluksia tyypillisistä parisuhteista ja on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
-"dv": 2
-},
 "aleksanterin-teatter-greta-tuotanto-sorkka-svengaa": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
@@ -392,47 +324,9 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-sorkka-svengaa/",
 "desc": "Musiikkinäytelmä 1920-luvun Helsingin kieltolain ajasta, jossa tapahtumapaikka on Sörkassa sijaitseva ravintola Paratiisi. Esityksessä kohtaavat salakuljettajat, modernit jatsitytöt ja nuori Mika Waltari.",
 "dv": 2
-},
-"aleksanterin-teatter-pyha-kolminaiseus-stand-up-show-k-18": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Pyhä Kolminaiseus – stand up -show, K-18",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/pyha-kolminaiseus-stand-up-show-k-18/",
-"desc": "Kolmen naisen stand-up show, jossa kolme koomiikkoa eri sukupolvilta esittävät komiikkaa naisten näkökulmasta. Esityksessä käsitellään sukupolvirooleja, naiseutta ja sukupuolten välisiä suhteita.",
-"dv": 2
 }
 },
 "showings": [
-{
-"p": "aleksanterin-teatter-kreivitar-amalien-draamakierros",
-"date": "2026-10-11",
-"time": "12.00",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2156"
-},
-{
-"p": "aleksanterin-teatter-luolamies",
-"date": "2026-10-11",
-"time": "16.00",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2129"
-},
-{
-"p": "kom-teatteri-poiskatsojat",
-"date": "2026-10-11",
-"time": "18.30",
-"price": 46,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
-},
 {
 "p": "helsingin-kaupungint-kivia-taskussa",
 "date": "2026-10-12",
@@ -506,6 +400,14 @@
 "url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296651/?affiliate=HKK&language=fi"
 },
 {
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-13",
+"time": "18.30",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
 "p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
 "date": "2026-10-14",
 "time": "18.00",
@@ -575,7 +477,7 @@
 "date": "2026-10-14",
 "time": "18.30",
 "price": null,
-"avail": "many",
+"avail": "few",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9181/"
 },
 {
@@ -585,14 +487,6 @@
 "price": 42,
 "avail": "unknown",
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-14",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
 },
 {
 "p": "aleksanterin-teatter-greta-tuotanto-sorkka-svengaa",
@@ -665,14 +559,6 @@
 "price": null,
 "avail": "many",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9319/"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-15",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
 },
 {
 "p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
@@ -768,7 +654,8 @@
 "time": "19.00",
 "price": null,
 "avail": "few",
-"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462604/?affiliate=HKK&language=fi"
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462604/?affiliate=HKK&language=fi",
+"seats": 17
 },
 {
 "p": "svenska-teatern-nattland",
@@ -777,14 +664,6 @@
 "price": null,
 "avail": "many",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9320/"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-16",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -827,14 +706,6 @@
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
 },
 {
-"p": "suomen-kansallisteat-sivuraide",
-"date": "2026-10-17",
-"time": "13.00",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485430/?affiliate=ADV&language=fi"
-},
-{
 "p": "suomen-kansallisteat-toinen-tasavalta",
 "date": "2026-10-17",
 "time": "13.00",
@@ -851,14 +722,6 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2111"
 },
 {
-"p": "teatteri-jurkka-keuhkot",
-"date": "2026-10-17",
-"time": "14.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
-},
-{
 "p": "svenska-teatern-niklas-stromstedt",
 "date": "2026-10-17",
 "time": "15.00",
@@ -872,7 +735,8 @@
 "time": "17.00",
 "price": null,
 "avail": "few",
-"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462297/?affiliate=HKK&language=fi"
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462297/?affiliate=HKK&language=fi",
+"seats": 11
 },
 {
 "p": "svenska-teatern-mim-6-nya-dramatiker-6-nya-pjaser",
@@ -915,18 +779,10 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485497/?affiliate=ADV&language=fi"
 },
 {
-"p": "aleksanterin-teatter-pyha-kolminaiseus-stand-up-show-k-18",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2118"
-},
-{
 "p": "helsingin-kaupungint-andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte",
 "date": "2026-10-17",
 "time": "19.00",
-"price": 35,
+"price": null,
 "avail": "many",
 "url": "https://www.lippu.fi/event/andre-wickstrom-30-vuotta-lavalla-helsingin-kaupunginteatteri-lilla-teatern-22039813/?affiliate=HKK&language=fi"
 },
@@ -947,12 +803,20 @@
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12270/9228/"
 },
 {
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
+"p": "teatteri-avoimet-ove-soteorpo",
+"date": "2026-10-18",
+"time": "14.00",
+"price": 42,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+},
+{
+"p": "kom-teatteri-mysterio-buffo",
+"date": "2026-10-18",
+"time": "18.30",
+"price": 38,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
 }
 ],
 "theatres": [
@@ -974,7 +838,7 @@
 {
 "name": "Ryhmäteatteri",
 "city": "Helsinki",
-"status": "fail",
+"status": "none",
 "note": "Ei näytöksiä tai tietoja ei saatu haettua"
 },
 {
@@ -991,7 +855,8 @@
 {
 "name": "Teatteri Jurkka",
 "city": "Helsinki",
-"status": "ok"
+"status": "none",
+"note": "Ei näytöksiä tai ajat eivät vielä haettavissa"
 },
 {
 "name": "Teatteri Avoimet Ovet",
