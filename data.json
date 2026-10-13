@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-12T06:57+03:00",
-"from": "2026-10-12",
-"to": "2026-10-18",
+"updated": "2026-10-13T06:56+03:00",
+"from": "2026-10-13",
+"to": "2026-10-19",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -12,7 +12,7 @@
 "dur": 75,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Nuorten ryhmä kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat erilaisia utopioita ja dystopioita pohtien, mitä yhdessäolo vaatii ja haluavatko he sitä.",
 "dv": 2
@@ -31,6 +31,20 @@
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2
 },
+"suomen-kansallisteat-sivuraide": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "Sivuraide",
+"genre": "Draama",
+"dur": 135,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
+"desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päättävät selvittää, mitä toisensa elämään on kuulunut. Esitys kertoo haikean ja hauskan tarinan entisistä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
+"dv": 2
+},
 "suomen-kansallisteat-toinen-tasavalta": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
@@ -45,32 +59,18 @@
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2
 },
-"suomen-kansallisteat-eino-leinon-eksat-enemman-ja-vahemman-muusina": {
+"suomen-kansallisteat-huojuu-elaman-puu": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Lavaklubi",
-"title": "Eino Leinon Eksät – enemmän ja vähemmän muusina",
-"genre": "Komedia",
-"dur": 85,
+"title": "Huojuu elämän puu",
+"genre": "Draama",
+"dur": 110,
 "inter": true,
 "lang": "suomi",
 "subs": null,
-"page": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina",
-"desc": "Näyttelijä Pinja Hahtolan käsikirjoittama monologinäytelmä, jossa Eino Leinon entisiä rakastajia ja muusoja, kuten L. Onerva ja Aino Kallasta, purkavat tuntojaan terapiaistunnossa. Esitys sekoittaa terävää huumoria, kulttuurihistoriaa ja klassisen runoilijan elämää.",
-"dv": 2
-},
-"helsingin-kaupungint-kivia-taskussa": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Arena-näyttämö",
-"title": "Kiviä taskussa",
-"genre": "Komedia",
-"dur": 135,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/kivia-taskussa/",
-"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat läpi monen miehen elämän. Traagisen komedian tarinassa he menevät avustajiksi amerikkalaisen elokuvan kuvauksiin ja joutuvat tekemään aivan odottamatonta.",
+"page": "https://www.kansallisteatteri.fi/esitys/huojuu-elaman-puu",
+"desc": "Esitys tuo näyttämölle suomalaisia sota- ja rauhanrunoja 1940-luvulta nykypäivään, näyttäen kuinka suomalaiset ovat käsitelleet pelkojaan ja tulevaisuudenuskoaan runouden keinoin eri historiallisissa hetkissä. Runo- ja musiikkiesitys sisältää kahdenkymmenen runoilijan tuotantoa ja sisältää lauluja sekä runoja.",
 "dv": 2
 },
 "helsingin-kaupungint-fretti-mercury-etsii-onnea": {
@@ -127,6 +127,20 @@
 "subs": "Suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksella (englanniksi lauletut laulut ei tekstitetty tekijänoikeussyistä)",
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
+"dv": 2
+},
+"helsingin-kaupungint-kivia-taskussa": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö",
+"title": "Kiviä taskussa",
+"genre": "Komedia",
+"dur": 135,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/kivia-taskussa/",
+"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat läpi monen miehen elämän. Traagisen komedian tarinassa he menevät avustajiksi amerikkalaisen elokuvan kuvauksiin ja joutuvat tekemään aivan odottamatonta.",
 "dv": 2
 },
 "helsingin-kaupungint-kotijoukot": {
@@ -324,41 +338,23 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-sorkka-svengaa/",
 "desc": "Musiikkinäytelmä 1920-luvun Helsingin kieltolain ajasta, jossa tapahtumapaikka on Sörkassa sijaitseva ravintola Paratiisi. Esityksessä kohtaavat salakuljettajat, modernit jatsitytöt ja nuori Mika Waltari.",
 "dv": 2
+},
+"aleksanterin-teatter-clifters-pirun-kaunis-clifters": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Clifters: Pirun kaunis Clifters",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/clifters-pirun-kaunis-clifters/",
+"desc": "Legendaarisen Clifters-yhtyeen uudelleen aktivoitunut esitys, jossa soivat yhtyeen tunnetut kappaleet 60-luvun musiikin vaikutteilla. Nostalginen ilta täydellä Aleksanterin teatterin ohjelmistolla.",
+"dv": 2
 }
 },
 "showings": [
-{
-"p": "helsingin-kaupungint-kivia-taskussa",
-"date": "2026-10-12",
-"time": "18.30",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865012/?affiliate=HKK&language=fi"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-12",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
-"p": "suomen-kansallisteat-eino-leinon-eksat-enemman-ja-vahemman-muusina",
-"date": "2026-10-12",
-"time": "18.30",
-"price": 25,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/eino-leinon-eksat-enemman-ja-vahemman-muusina"
-},
-{
-"p": "suomen-kansallisteat-orvot",
-"date": "2026-10-12",
-"time": "18.30",
-"price": 42,
-"avail": "many",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485494/?affiliate=ADV&language=fi"
-},
 {
 "p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
 "date": "2026-10-13",
@@ -406,6 +402,14 @@
 "price": 46,
 "avail": "unknown",
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-huojuu-elaman-puu",
+"date": "2026-10-13",
+"time": "18.30",
+"price": 25,
+"avail": "unknown",
+"url": "https://www.kansallisteatteri.fi/esitys/huojuu-elaman-puu"
 },
 {
 "p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
@@ -477,7 +481,7 @@
 "date": "2026-10-14",
 "time": "18.30",
 "price": null,
-"avail": "few",
+"avail": "many",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9181/"
 },
 {
@@ -653,9 +657,8 @@
 "date": "2026-10-16",
 "time": "19.00",
 "price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462604/?affiliate=HKK&language=fi",
-"seats": 17
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462604/?affiliate=HKK&language=fi"
 },
 {
 "p": "svenska-teatern-nattland",
@@ -678,8 +681,9 @@
 "date": "2026-10-17",
 "time": "13.00",
 "price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462298/?affiliate=HKK&language=fi"
+"avail": "few",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462298/?affiliate=HKK&language=fi",
+"seats": 10
 },
 {
 "p": "helsingin-kaupungint-kotijoukot",
@@ -704,6 +708,14 @@
 "price": 46,
 "avail": "unknown",
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-sivuraide",
+"date": "2026-10-17",
+"time": "13.00",
+"price": 49,
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485430/?affiliate=ADV&language=fi"
 },
 {
 "p": "suomen-kansallisteat-toinen-tasavalta",
@@ -734,9 +746,8 @@
 "date": "2026-10-17",
 "time": "17.00",
 "price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462297/?affiliate=HKK&language=fi",
-"seats": 11
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462297/?affiliate=HKK&language=fi"
 },
 {
 "p": "svenska-teatern-mim-6-nya-dramatiker-6-nya-pjaser",
@@ -783,7 +794,7 @@
 "date": "2026-10-17",
 "time": "19.00",
 "price": null,
-"avail": "many",
+"avail": "few",
 "url": "https://www.lippu.fi/event/andre-wickstrom-30-vuotta-lavalla-helsingin-kaupunginteatteri-lilla-teatern-22039813/?affiliate=HKK&language=fi"
 },
 {
@@ -803,20 +814,36 @@
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12270/9228/"
 },
 {
-"p": "teatteri-avoimet-ove-soteorpo",
+"p": "kom-teatteri-poiskatsojat",
 "date": "2026-10-18",
-"time": "14.00",
-"price": 42,
+"time": "18.30",
+"price": 46,
 "avail": "unknown",
-"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "aleksanterin-teatter-clifters-pirun-kaunis-clifters",
+"date": "2026-10-19",
+"time": "18.30",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2060"
 },
 {
 "p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-18",
+"date": "2026-10-19",
 "time": "18.30",
 "price": 38,
 "avail": "unknown",
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
+},
+{
+"p": "suomen-kansallisteat-orvot",
+"date": "2026-10-19",
+"time": "18.30",
+"price": 42,
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485498/?affiliate=ADV&language=fi"
 }
 ],
 "theatres": [

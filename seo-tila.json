@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-17"
+"last": "2026-10-19"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -40,7 +40,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
-"desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päätyy keskustelemaan elämästään. Esitys käsittelee entisiä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
+"desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päättävät selvittää, mitä toisensa elämään on kuulunut. Esitys kertoo haikean ja hauskan tarinan entisistä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
 "dv": 2,
 "last": "2026-10-17"
 },
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalisten poliitikkojen ja länsimaiden suhtautumista Gazan tragedian äärellä. Dokumentaarisesti ja mustalla huumorilla toteutettu teos tutkii, miksi maailma katsoo pois kriisien äärellä.",
 "dv": 2,
-"last": "2026-10-17"
+"last": "2026-10-18"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-18"
+"last": "2026-10-19"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-10-18"
+"last": "2026-10-14"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -487,7 +487,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/huojuu-elaman-puu",
-"desc": "Esitys tuo näyttämölle suomalaiset sodan ja rauhan runot 1940-luvulta nykypäivään, näyttäen miten suomalaiset ovat käsitelleet pelkojaan ja tulevaisuudenuskoaan runouden keinoin erilaisissa historiallisissa hetkissä. Runo- ja musiikkiesityksessä kuullaan kahdenkymmenen runoilijan tuotantoa.",
+"desc": "Esitys tuo näyttämölle suomalaisia sota- ja rauhanrunoja 1940-luvulta nykypäivään, näyttäen kuinka suomalaiset ovat käsitelleet pelkojaan ja tulevaisuudenuskoaan runouden keinoin eri historiallisissa hetkissä. Runo- ja musiikkiesitys sisältää kahdenkymmenen runoilijan tuotantoa ja sisältää lauluja sekä runoja.",
 "dv": 2,
 "last": "2026-10-13"
 },
@@ -500,7 +500,7 @@
 "dur": 75,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Nuorten ryhmä kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat erilaisia utopioita ja dystopioita pohtien, mitä yhdessäolo vaatii ja haluavatko he sitä.",
 "dv": 2,
@@ -625,5 +625,20 @@
 "desc": "Kolmen naisen stand-up show, jossa kolme koomiikkoa eri sukupolvilta esittävät komiikkaa naisten näkökulmasta. Esityksessä käsitellään sukupolvirooleja, naiseutta ja sukupuolten välisiä suhteita.",
 "dv": 2,
 "last": "2026-10-17"
+},
+"/teatteri/aleksanterin-teatteri/clifters-pirun-kaunis-clifters/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Clifters: Pirun kaunis Clifters",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/clifters-pirun-kaunis-clifters/",
+"desc": "Legendaarisen Clifters-yhtyeen uudelleen aktivoitunut esitys, jossa soivat yhtyeen tunnetut kappaleet 60-luvun musiikin vaikutteilla. Nostalginen ilta täydellä Aleksanterin teatterin ohjelmistolla.",
+"dv": 2,
+"last": "2026-10-19"
 }
 }
