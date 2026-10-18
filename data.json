@@ -1,20 +1,20 @@
 {
-"updated": "2026-10-17T07:05+03:00",
-"from": "2026-10-17",
-"to": "2026-10-23",
+"updated": "2026-10-18T07:06+03:00",
+"from": "2026-10-18",
+"to": "2026-10-24",
 "productions": {
-"suomen-kansallisteat-lady-t": {
+"suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Pieni näyttämö",
-"title": "Lady T",
+"title": "jos meiltä kysytään",
 "genre": "Draama",
-"dur": 125,
-"inter": true,
+"dur": 60,
+"inter": false,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
-"page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
-"desc": "Vaikuttava draama Margaret Thatcherin ja hotellityöläisen Lindan kohtaamisesta Lontoon hotellissa, jossa muistisairaan entisen pääministerin ja köyhästä kaivoskaupungista kotoisin olevan naisen välille syntyy poliittisten päätösten seurauksista kertova tarina.",
+"subs": "suomi ja englanti",
+"page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
+"desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2
 },
 "suomen-kansallisteat-orvot": {
@@ -68,37 +68,9 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": null,
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
-"dv": 2
-},
-"suomen-kansallisteat-viidakon-villit-naiset": {
-"theatre": "Suomen Kansallisteatteri",
-"city": "Helsinki",
-"stage": "Suuri näyttämö",
-"title": "Viidakon villit naiset",
-"genre": "Komedia",
-"dur": 165,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Smedsin ohjaama esitys, jossa kuusi suomalaista naista osallistuu tosi-tv-tuotantoon. Luvassa on anarkistista komediaa ja teatterillinen viidakkojen seikkailu.",
-"dv": 2
-},
-"helsingin-kaupungint-fretti-mercury-etsii-onnea": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Studio Pasila",
-"title": "Fretti Mercury etsii onnea",
-"genre": "Musikaali",
-"dur": 120,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
-"desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
 "dv": 2
 },
 "helsingin-kaupungint-kotijoukot": {
@@ -113,34 +85,6 @@
 "subs": null,
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
-"dv": 2
-},
-"helsingin-kaupungint-de-obehoriga": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Lilla Teatern",
-"title": "De obehöriga",
-"genre": "Draama",
-"dur": 145,
-"inter": true,
-"lang": "ruotsi",
-"subs": "Tekstitys suomeksi ja ruotsiksi Subtitle Mobile -sovelluksen kautta",
-"page": "https://hkt.fi/esitykset/de-obehoriga/",
-"desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyvistä asiattomista henkilöistä. Kun pelot kasvavat, nousevat esille epäluulo, ahdistus ja vanhat naapurikonfliktit, joissa tutkitaan totuuden ja kuvitelmien välistä rajaa.",
-"dv": 2
-},
-"helsingin-kaupungint-nauravan-kulkurin-tarina": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Suuri näyttämö",
-"title": "Nauravan kulkurin tarina",
-"genre": "Musikaali",
-"dur": 180,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
-"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
 "dv": 2
 },
 "helsingin-kaupungint-elolliset": {
@@ -171,18 +115,46 @@
 "desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
 "dv": 2
 },
-"helsingin-kaupungint-andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte": {
+"helsingin-kaupungint-fretti-mercury-etsii-onnea": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Studio Pasila",
+"title": "Fretti Mercury etsii onnea",
+"genre": "Musikaali",
+"dur": 120,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
+"desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
+"dv": 2
+},
+"helsingin-kaupungint-de-obehoriga": {
 "theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
 "stage": "Lilla Teatern",
-"title": "André Wickström – 30 år på scen och inget slut i sikte!",
-"genre": "Komedia",
-"dur": 120,
+"title": "De obehöriga",
+"genre": "Draama",
+"dur": 145,
+"inter": true,
+"lang": "ruotsi",
+"subs": "Tekstitys suomeksi ja ruotsiksi Subtitle Mobile -sovelluksen kautta",
+"page": "https://hkt.fi/esitykset/de-obehoriga/",
+"desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyvistä asiattomista henkilöistä. Kun pelot kasvavat, nousevat esille epäluulo, ahdistus ja vanhat naapurikonfliktit, joissa tutkitaan totuuden ja kuvitelmien välistä rajaa.",
+"dv": 2
+},
+"helsingin-kaupungint-nauravan-kulkurin-tarina": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Suuri näyttämö",
+"title": "Nauravan kulkurin tarina",
+"genre": "Musikaali",
+"dur": 180,
 "inter": null,
-"lang": "ruotsi ja suomi",
+"lang": "suomi",
 "subs": null,
-"page": "https://hkt.fi/esitykset/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/",
-"desc": "André Wickström esittelee stand up -huumorishow'nsa 30-vuotisjuhlanäytöksessä, jossa hän yhdistää kolmen vuosikymmenen parhaita hetkiä uuteen materiaaliin. Show on täynnä nostalgiaa, yllätyksiä ja ennen kaikkea naurua.",
+"page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
+"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
 "dv": 2
 },
 "helsingin-kaupungint-kivia-taskussa": {
@@ -213,18 +185,18 @@
 "desc": "Club act!one on stand up -komiikan klubi, jossa Suomen johtavat stand up -koomikot esiintyvät irrottelulla, vedätyksellä ja nopealla improvisoinnilla. Klubi on toiminut yli kaksi vuosikymmentä ja tarjoaa naurua täynnä olevia illaksi.",
 "dv": 2
 },
-"svenska-teatern-mim-6-nya-dramatiker-6-nya-pjaser": {
-"theatre": "Svenska Teatern",
+"helsingin-kaupungint-kurtturuusut": {
+"theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"stage": "NICKEN-scenen",
-"title": "MiM - 6 nya dramatiker - 6 nya pjäser",
-"genre": "Draama",
-"dur": 180,
+"stage": "Pieni näyttämö",
+"title": "Kurtturuusut",
+"genre": "Komedia",
+"dur": 155,
 "inter": null,
-"lang": "ruotsi",
+"lang": "suomi",
 "subs": null,
-"page": "https://svenskateatern.fi/repertoar/6-nya-dramatiker-6-nya-pjaser/",
-"desc": "Kuuden nuoren dramatistin kirjoittamia uusia näytelmiä esitetään scenisina luennoina, joissa ammattilaiset näyttelijät esittävät uusimman finlandsruotsalaisen dramaattisen kirjoituksen ääniä.",
+"page": "https://hkt.fi/esitykset/kurtturuusut/",
+"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2
 },
 "svenska-teatern-sista-paret-ut": {
@@ -253,20 +225,6 @@
 "subs": "Suomi, englanti, ruotsi",
 "page": "https://svenskateatern.fi/repertoar/nattland/",
 "desc": "Kaksi sisarusta löytävät isänsä talosta vanhan maalauksen Wienistä, jonka allekirjoitus saattaa kuulua Adolf Hitlerille. Tämä löytö johtaa absurdiin kamppailuun perinnöstä, rahasta ja kunniasta.",
-"dv": 2
-},
-"svenska-teatern-niklas-stromstedt": {
-"theatre": "Svenska Teatern",
-"city": "Helsinki",
-"stage": "Stora scenen",
-"title": "Niklas Strömstedt",
-"genre": "Komedia",
-"dur": 100,
-"inter": false,
-"lang": "ruotsi",
-"subs": null,
-"page": "https://svenskateatern.fi/repertoar/niklas-stromstedt-tyck-om-mig/",
-"desc": "Niklas Strömstedt esittelee itseään lauluin, totuuksineen ja juoruineen pohjautuen omakotiseen elämäänsä ja uraaansa. Esitys on enemmän kuin pelkkä konsertti, sillä se sisältää henkilökohtaisia tarinoita ja reflektioita elämän suurista kysymyksistä.",
 "dv": 2
 },
 "svenska-teatern-anglagard": {
@@ -325,6 +283,20 @@
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2
 },
+"kom-teatteri-kuinka-tulla-tapio-rautavaaraksi": {
+"theatre": "KOM-teatteri",
+"city": "Helsinki",
+"stage": "Vuotalo",
+"title": "Kuinka tulla Tapio Rautavaaraksi",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://kom-teatteri.fi/ohjelmisto/kuinka-tulla-tapio-rautavaaraksi/",
+"desc": "Musiikillinen tragikomedia, jossa syyrialaistaustainen nuori saapuu pakolaisena Suomeen ja ihailee Tapio Rautavaaraa. Esitys kertoo hänen matkaansa pyrkiessään täyttämään suomalaisesta kiiltokuvamiehistä luomansa ihanteensa.",
+"dv": 2
+},
 "teatteri-jurkka-keuhkot": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
@@ -365,32 +337,18 @@
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2
 },
-"aleksanterin-teatter-greta-tuotanto-sorkka-svengaa": {
+"aleksanterin-teatter-greta-tuotanto-kabaree-berlin": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "Greta Tuotanto: Sörkka svengaa",
+"title": "Greta tuotanto: Kabaree Berlin",
 "genre": "Musikaali",
 "dur": null,
 "inter": null,
 "lang": "suomi",
 "subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-sorkka-svengaa/",
-"desc": "Musiikkinäytelmä 1920-luvun Helsingin kieltolain ajasta, jossa tapahtumapaikka on Sörkassa sijaitseva ravintola Paratiisi. Esityksessä kohtaavat salakuljettajat, modernit jatsitytöt ja nuori Mika Waltari.",
-"dv": 2
-},
-"aleksanterin-teatter-pyha-kolminaiseus-stand-up-show": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Pyhä Kolminaiseus – stand up -show",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/pyha-kolminaiseus-stand-up-show-k-18/",
-"desc": "Kolmen naisen stand up -show, jossa kolmen eri sukupolven komiikot tulevat lavalle jakamaan naisen näkökulmaa huumorilla. Esityksessä käsitellään sukupolvirooleja, naisten solidaarisuutta ja yhteisiä kokemuksia eri ikäryhmien välillä.",
+"page": "https://www.aleksanterinteatteri.fi/naytelma/greta-tuotanto-kabaree-berlin/",
+"desc": "Weimarin ajan tyyliin rakennettu kabaree, joka esittelee Kurt Weillin ja Friedrich Holländerin säveltämiä schlagereita sekä elokuvasävelmiä. Esitys lainaa Bertolt Brechtin ajatuksia teatterista ja rakkaudesta, ja vie katsojat 1920-luvun Berliinin tunnelmiin.",
 "dv": 2
 },
 "aleksanterin-teatter-clifters-pirun-kaunis-clifters": {
@@ -429,7 +387,7 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": "ei puhetta",
+"lang": null,
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stockmann-yard-kaubamaja-kurikaelad/",
 "desc": "Kriminaalikomedia, joka sijoittuu legendaarisen varustalon kulisseihin. Esityksessä sekoittuvat rikkaat asiakkaat, ovela myyjät ja rohkeat varkaat, kun taloudellisuuden tarkastaja saapuu järjestämään kaaoksen.",
@@ -439,14 +397,28 @@
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "LAVA-AMMUNTAA VIII - After Eight -komiikkaa",
+"title": "Lava-ammuntaa VIII - After Eight -komiikkaa",
 "genre": "Komedia",
 "dur": null,
 "inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/lava-ammuntaa-viii-after-eight-komiikkaa/",
-"desc": "Ulla Tapanisen monologisarjan kahdeksas osa, joka käsittelee ajankohtaisia ilmiöitä terävällä ja suorasanaisella huumorilla. Esitys viettää sarjan 30-vuotispäivää sekä näyttelijä Ulla Tapanisen 50-vuotispäivää näyttämöllä.",
+"desc": "Ulla Tapanisen ja Raila Leppäkosken kirjoittama monologisarja, joka käsittelee ajankohtaisia asioita ja ilmiöitä terävällä, suorasanaisella huumorilla. Esitys juhlii sarjan 30-vuotista historiaa sekä Ulla Tapanisen näyttelijänuraaa ja elämää.",
+"dv": 2
+},
+"aleksanterin-teatter-best-of-saikkua-kiitos": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Best of Saikkua, kiitos!",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/best-of-saikkua-kiitos-k-18/",
+"desc": "Esityksessä esitetään suositun Saikkua kiitos -trilogian parhaat kohdat yhden illan aikana, täydennettynä Ismo Leikolan parhailla lauluilla. Naurutykitystä täynnä oleva kokoelma kolmen osan huippuhetkistä.",
 "dv": 2
 },
 "zodiak-uuden-tanssin-lampi-2": {
@@ -461,6 +433,20 @@
 "subs": null,
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
+"dv": 2
+},
+"teatteri-vantaa-metsan-arvoitus": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Teatteri Vantaa",
+"title": "Metsän arvoitus?",
+"genre": "Lapsille",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/",
+"desc": "Musiikkipitoinen nukketeatteri-esitys, jossa päähenkilö seikkailuun metsään, jossa kohtaa erilaisia hahmoja ja ratkaisee mysteerisen arvoituksen elävän musiikin säestyksellä.",
 "dv": 2
 },
 "teatteri-vantaa-ikitahti-annikki-tahden-tarina": {
@@ -480,189 +466,12 @@
 },
 "showings": [
 {
-"p": "helsingin-kaupungint-de-obehoriga",
-"date": "2026-10-17",
-"time": "13.00",
-"price": null,
-"avail": "many",
-"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462648/?affiliate=HKK&language=fi"
-},
-{
-"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
-"date": "2026-10-17",
-"time": "13.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462298/?affiliate=HKK&language=fi"
-},
-{
-"p": "helsingin-kaupungint-kotijoukot",
-"date": "2026-10-17",
-"time": "13.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462606/?affiliate=HKK&language=fi"
-},
-{
-"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
-"date": "2026-10-17",
-"time": "13.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426660/?affiliate=HKK&language=fi"
-},
-{
-"p": "suomen-kansallisteat-sivuraide",
-"date": "2026-10-17",
-"time": "13.00",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485430/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-toinen-tasavalta",
-"date": "2026-10-17",
-"time": "13.00",
-"price": 52,
-"avail": "few",
-"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485451/?affiliate=ADV&language=fi"
-},
-{
-"p": "aleksanterin-teatter-greta-tuotanto-sorkka-svengaa",
-"date": "2026-10-17",
-"time": "14.00",
+"p": "aleksanterin-teatter-greta-tuotanto-kabaree-berlin",
+"date": "2026-10-18",
+"time": "16.00",
 "price": null,
 "avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2111"
-},
-{
-"p": "teatteri-jurkka-keuhkot",
-"date": "2026-10-17",
-"time": "14.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
-},
-{
-"p": "svenska-teatern-niklas-stromstedt",
-"date": "2026-10-17",
-"time": "15.00",
-"price": null,
-"avail": "many",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12270/9421/"
-},
-{
-"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
-"date": "2026-10-17",
-"time": "17.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462297/?affiliate=HKK&language=fi"
-},
-{
-"p": "svenska-teatern-mim-6-nya-dramatiker-6-nya-pjaser",
-"date": "2026-10-17",
-"time": "18.00",
-"price": null,
-"avail": "few",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12300/9598/"
-},
-{
-"p": "helsingin-kaupungint-elolliset",
-"date": "2026-10-17",
-"time": "18.30",
-"price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462207/?affiliate=HKK&language=fi",
-"seats": 10
-},
-{
-"p": "helsingin-kaupungint-julia",
-"date": "2026-10-17",
-"time": "18.30",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985525/?affiliate=HKK&language=fi"
-},
-{
-"p": "helsingin-kaupungint-kotijoukot",
-"date": "2026-10-17",
-"time": "18.30",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462605/?affiliate=HKK&language=fi"
-},
-{
-"p": "kom-teatteri-poiskatsojat",
-"date": "2026-10-17",
-"time": "18.30",
-"price": 46,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
-},
-{
-"p": "suomen-kansallisteat-lady-t",
-"date": "2026-10-17",
-"time": "18.30",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/lady-t-pieni-nayttamo-suomen-kansallisteatteri-21462759/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-orvot",
-"date": "2026-10-17",
-"time": "18.30",
-"price": 42,
-"avail": "many",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485497/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-viidakon-villit-naiset",
-"date": "2026-10-17",
-"time": "18.30",
-"price": 48,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-viidakon-villit-naiset-suomen-kansallisteatteri-21486771/?affiliate=ADV&language=fi"
-},
-{
-"p": "aleksanterin-teatter-pyha-kolminaiseus-stand-up-show",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "few",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2118"
-},
-{
-"p": "helsingin-kaupungint-andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/andre-wickstrom-30-vuotta-lavalla-helsingin-kaupunginteatteri-lilla-teatern-22039813/?affiliate=HKK&language=fi"
-},
-{
-"p": "svenska-teatern-nattland",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "many",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9321/"
-},
-{
-"p": "svenska-teatern-niklas-stromstedt",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "few",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12270/9228/"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-10-17",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2135"
 },
 {
 "p": "aleksanterin-teatter-clifters-pirun-kaunis-clifters",
@@ -734,8 +543,7 @@
 "time": "18.30",
 "price": 52,
 "avail": "many",
-"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485452/?affiliate=ADV&language=fi",
-"subs": "suomi ja englanti (Subtitle Mobile)"
+"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485452/?affiliate=ADV&language=fi"
 },
 {
 "p": "teatteri-avoimet-ove-soteorpo",
@@ -798,9 +606,8 @@
 "date": "2026-10-21",
 "time": "18.30",
 "price": 52,
-"avail": "many",
-"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485453/?affiliate=ADV&language=fi",
-"subs": "suomi ja englanti (Subtitle Mobile)"
+"avail": "few",
+"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485453/?affiliate=ADV&language=fi"
 },
 {
 "p": "svenska-teatern-anglagard",
@@ -954,8 +761,7 @@
 "time": "18.30",
 "price": null,
 "avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2092",
-"note": "K-18"
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2092"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -977,7 +783,7 @@
 "p": "helsingin-kaupungint-kivia-taskussa",
 "date": "2026-10-23",
 "time": "18.30",
-"price": 52,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865019/?affiliate=HKK&language=fi"
 },
@@ -1022,14 +828,6 @@
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-sivuraide-helsinki-suomen-kansallisteatteri-21485432/?affiliate=ADV&language=fi"
 },
 {
-"p": "suomen-kansallisteat-viidakon-villit-naiset",
-"date": "2026-10-23",
-"time": "18.30",
-"price": 48,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-viidakon-villit-naiset-suomen-kansallisteatteri-21486772/?affiliate=ADV&language=fi"
-},
-{
 "p": "svenska-teatern-anglagard",
 "date": "2026-10-23",
 "time": "18.30",
@@ -1050,7 +848,7 @@
 "p": "helsingin-kaupungint-club-act-one",
 "date": "2026-10-23",
 "time": "19.00",
-"price": 29,
+"price": null,
 "avail": "many",
 "url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21462269/?affiliate=HKK&language=fi"
 },
@@ -1069,6 +867,215 @@
 "price": null,
 "avail": "sold",
 "url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-10-24",
+"time": "12.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462209/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-24",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462300/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
+"date": "2026-10-24",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426662/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-24",
+"time": "13.00",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-jos-meilta-kysytaan",
+"date": "2026-10-24",
+"time": "13.00",
+"price": 36,
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-jos-meilta-kysytaan-suomen-kansallisteatteri-21645945/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-toinen-tasavalta",
+"date": "2026-10-24",
+"time": "13.00",
+"price": 52,
+"avail": "few",
+"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485471/?affiliate=ADV&language=fi"
+},
+{
+"p": "aleksanterin-teatter-lava-ammuntaa-viii-after-eight-komiikkaa",
+"date": "2026-10-24",
+"time": "14.00",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2093"
+},
+{
+"p": "ryhmateatteri-aitisi-klytaimestra",
+"date": "2026-10-24",
+"time": "14.00",
+"price": null,
+"avail": "many",
+"url": "https://www.tiketti.fi/tapahtuma/118090"
+},
+{
+"p": "teatteri-jurkka-keuhkot",
+"date": "2026-10-24",
+"time": "14.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "teatteri-vantaa-metsan-arvoitus",
+"date": "2026-10-24",
+"time": "14.00",
+"price": null,
+"avail": "unknown",
+"url": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/"
+},
+{
+"p": "svenska-teatern-nattland",
+"date": "2026-10-24",
+"time": "15.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9323/"
+},
+{
+"p": "zodiak-uuden-tanssin-lampi-2",
+"date": "2026-10-24",
+"time": "15.00",
+"price": null,
+"avail": "unknown",
+"url": "https://tix.zodiak.fi/fi/buyingflow/tickets/15875/"
+},
+{
+"p": "svenska-teatern-anglagard",
+"date": "2026-10-24",
+"time": "16.00",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9165/"
+},
+{
+"p": "svenska-teatern-sista-paret-ut",
+"date": "2026-10-24",
+"time": "16.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12291/9501/"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-10-24",
+"time": "17.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462299/?affiliate=HKK&language=fi"
+},
+{
+"p": "aleksanterin-teatter-best-of-saikkua-kiitos",
+"date": "2026-10-24",
+"time": "18.00",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2106"
+},
+{
+"p": "kom-teatteri-kuinka-tulla-tapio-rautavaaraksi",
+"date": "2026-10-24",
+"time": "18.00",
+"price": null,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi-4180487/",
+"note": "Vierailuesitys Vuotalolla"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-10-24",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462650/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-julia",
+"date": "2026-10-24",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985526/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kivia-taskussa",
+"date": "2026-10-24",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865020/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-10-24",
+"time": "18.30",
+"price": 47,
+"avail": "few",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296667/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-10-24",
+"time": "18.30",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-orvot",
+"date": "2026-10-24",
+"time": "18.30",
+"price": 42,
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485501/?affiliate=ADV&language=fi"
+},
+{
+"p": "svenska-teatern-nattland",
+"date": "2026-10-24",
+"time": "19.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9324/"
+},
+{
+"p": "teatteri-jurkka-vayla",
+"date": "2026-10-24",
+"time": "19.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "helsingin-kaupungint-club-act-one",
+"date": "2026-10-24",
+"time": "21.00",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21437901/?affiliate=HKK&language=fi"
 }
 ],
 "theatres": [
