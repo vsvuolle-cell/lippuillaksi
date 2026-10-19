@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-25"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-22"
+"last": "2026-10-25"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-10-23"
+"last": "2026-10-21"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -397,9 +397,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
-"desc": "Martti Suosalon stand up -komedia miehestä ja naisesta sekä parisuhteen sielunmaisemasta. Esitys herättää oivalluksia tyypillisistä parisuhteista ja on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
+"desc": "Martti Suosalon stand up -komiikka käsittelee miehen ja naisen välistä suhdetta humoristisen ja hellyttävän tutkimusmatkan kautta. Esitys herättää oivalluksia parisuhteista ja on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
 "dv": 2,
-"last": "2026-10-11"
+"last": "2026-10-25"
 },
 "/teatteri/aleksanterin-teatteri/pohjolan-naisen-luonto/": {
 "theatre": "Aleksanterin teatteri",
@@ -500,7 +500,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomi ja englanti",
+"subs": "suomen- ja englanninkielinen tekstitys",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
@@ -532,9 +532,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä teatterikierroksella kertoen Aleksanterin teatterin historiasta ja omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulua.",
+"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterista sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuulee myös Amalien laulavan.",
 "dv": 2,
-"last": "2026-10-11"
+"last": "2026-10-25"
 },
 "/teatteri/aleksanterin-teatteri/greta-tuotanto-sorkka-svengaa/": {
 "theatre": "Aleksanterin teatteri",
@@ -667,7 +667,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/salakapakka-stand-up-k-18/",
-"desc": "Salakapakka on stand up -klubiilta Helsingin keskustassa, jossa esiintyvät ammattilaiskoomikat ja nousevia tekijöitä. Illat ovat täynnä yllätyksellisyyttä, sillä ohjelmassa voi esiintyä myös odottamattomia tähtivieraita.",
+"desc": "Salakapakka on stand up -klubin ilta, jossa esiintyvät ammattilaiskoomikat ja nousevia tekijöitä. Illat ovat yllätysten täyttämiä, sillä lavalle saattavat nousta myös odottamattomia tähtivieraita.",
 "dv": 2,
 "last": "2026-10-19"
 },
@@ -842,8 +842,8 @@
 "stage": "Teatteri Vantaa",
 "title": "Metsän arvoitus?",
 "genre": "Lapsille",
-"dur": null,
-"inter": null,
+"dur": 35,
+"inter": false,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/",
