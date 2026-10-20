@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-25"
+"last": "2026-10-26"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "suomi ja englanti (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-26"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-25"
+"last": "2026-10-26"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-10-21"
+"last": "2026-10-23"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -500,11 +500,11 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-26"
 },
 "/teatteri/suomen-kansallisteatteri/lady-t/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -694,7 +694,7 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": null,
+"lang": "ei puhetta",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stockmann-yard-kaubamaja-kurikaelad/",
 "desc": "Kriminaalikomedia, joka sijoittuu legendaarisen varustalon kulisseihin. Esityksessä sekoittuvat rikkaat asiakkaat, ovela myyjät ja rohkeat varkaat, kun taloudellisuuden tarkastaja saapuu järjestämään kaaoksen.",
@@ -842,13 +842,28 @@
 "stage": "Teatteri Vantaa",
 "title": "Metsän arvoitus?",
 "genre": "Lapsille",
-"dur": 35,
-"inter": false,
-"lang": "suomi",
+"dur": null,
+"inter": null,
+"lang": null,
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/",
 "desc": "Musiikkipitoinen nukketeatteri-esitys, jossa päähenkilö seikkailuun metsään, jossa kohtaa erilaisia hahmoja ja ratkaisee mysteerisen arvoituksen elävän musiikin säestyksellä.",
 "dv": 2,
 "last": "2026-10-24"
+},
+"/teatteri/aleksanterin-teatteri/ikoset-hauen-laulut/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Ikoset: Hauen laulut",
+"genre": "Musikaali",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/ikoset-hauen-laulut/",
+"desc": "Ikoset-sisarukset ovat säveltäneet Aaro Hellaakosken runoudesta uuden konserttikokonaisuuden, joka yhdistää jazzin, popin ja kansanmusiikin vaikutteita. Esitys keskittyy viiden sisaruksen harmoniaisiin lauluääniin Hellaakosken runoja tulkitsemalla.",
+"dv": 2,
+"last": "2026-10-26"
 }
 }

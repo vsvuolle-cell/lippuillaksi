@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-19T07:13+03:00",
-"from": "2026-10-19",
-"to": "2026-10-25",
+"updated": "2026-10-20T07:10+03:00",
+"from": "2026-10-20",
+"to": "2026-10-26",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -12,7 +12,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2
@@ -68,7 +68,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "suomi ja englanti (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2
@@ -283,20 +283,6 @@
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2
 },
-"kom-teatteri-kuinka-tulla-tapio-rautavaaraksi": {
-"theatre": "KOM-teatteri",
-"city": "Helsinki",
-"stage": "Vuotalo",
-"title": "Kuinka tulla Tapio Rautavaaraksi",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://kom-teatteri.fi/ohjelmisto/kuinka-tulla-tapio-rautavaaraksi/",
-"desc": "Musiikillinen tragikomedia, jossa syyrialaistaustainen nuori saapuu pakolaisena Suomeen ja ihailee Tapio Rautavaaraa. Esitys kertoo hänen matkaansa pyrkiessään täyttämään suomalaisesta kiiltokuvamiehistä luomansa ihanteensa.",
-"dv": 2
-},
 "teatteri-jurkka-keuhkot": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
@@ -337,20 +323,6 @@
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2
 },
-"aleksanterin-teatter-kreivitar-amalien-draamakierros": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Kreivitär Amalien draamakierros",
-"genre": "Draama",
-"dur": 75,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterista sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuulee myös Amalien laulavan.",
-"dv": 2
-},
 "aleksanterin-teatter-luolamies": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
@@ -363,34 +335,6 @@
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
 "desc": "Martti Suosalon stand up -komiikka käsittelee miehen ja naisen välistä suhdetta humoristisen ja hellyttävän tutkimusmatkan kautta. Esitys herättää oivalluksia parisuhteista ja on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
-"dv": 2
-},
-"aleksanterin-teatter-salakapakka-stand-up": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Salakapakka Stand Up",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/salakapakka-stand-up-k-18/",
-"desc": "Salakapakka on stand up -klubin ilta, jossa esiintyvät ammattilaiskoomikat ja nousevia tekijöitä. Illat ovat yllätysten täyttämiä, sillä lavalle saattavat nousta myös odottamattomia tähtivieraita.",
-"dv": 2
-},
-"aleksanterin-teatter-clifters-pirun-kaunis-clifters": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Clifters: Pirun kaunis Clifters",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/clifters-pirun-kaunis-clifters/",
-"desc": "Clifters-yhtyeen uusintaesitys, jossa kuullaan yhtyeen klassikko-ohjelmisto 60-luvun musiikkivaikutteiden ja Jaana Rinteen sanoitusten kera. Nostalginen ilta, joka vie katsojat yhtyeen menestyskaudelle 1980–1990-luvulla.",
 "dv": 2
 },
 "aleksanterin-teatter-william-sundman-saaf": {
@@ -415,7 +359,7 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": null,
+"lang": "ei puhetta",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stockmann-yard-kaubamaja-kurikaelad/",
 "desc": "Kriminaalikomedia, joka sijoittuu legendaarisen varustalon kulisseihin. Esityksessä sekoittuvat rikkaat asiakkaat, ovela myyjät ja rohkeat varkaat, kun taloudellisuuden tarkastaja saapuu järjestämään kaaoksen.",
@@ -447,6 +391,20 @@
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/best-of-saikkua-kiitos-k-18/",
 "desc": "Esityksessä esitetään suositun Saikkua kiitos -trilogian parhaat kohdat yhden illan aikana, täydennettynä Ismo Leikolan parhailla lauluilla. Naurutykitystä täynnä oleva kokoelma kolmen osan huippuhetkistä.",
+"dv": 2
+},
+"aleksanterin-teatter-ikoset-hauen-laulut": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Ikoset: Hauen laulut",
+"genre": "Musikaali",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/ikoset-hauen-laulut/",
+"desc": "Ikoset-sisarukset ovat säveltäneet Aaro Hellaakosken runoudesta uuden konserttikokonaisuuden, joka yhdistää jazzin, popin ja kansanmusiikin vaikutteita. Esitys keskittyy viiden sisaruksen harmoniaisiin lauluääniin Hellaakosken runoja tulkitsemalla.",
 "dv": 2
 },
 "zodiak-uuden-tanssin-lampi-2": {
@@ -483,9 +441,9 @@
 "stage": "Teatteri Vantaa",
 "title": "Metsän arvoitus?",
 "genre": "Lapsille",
-"dur": 35,
-"inter": false,
-"lang": "suomi",
+"dur": null,
+"inter": null,
+"lang": null,
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/",
 "desc": "Musiikkipitoinen nukketeatteri-esitys, jossa päähenkilö seikkailuun metsään, jossa kohtaa erilaisia hahmoja ja ratkaisee mysteerisen arvoituksen elävän musiikin säestyksellä.",
@@ -493,38 +451,6 @@
 }
 },
 "showings": [
-{
-"p": "aleksanterin-teatter-clifters-pirun-kaunis-clifters",
-"date": "2026-10-19",
-"time": "18.30",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2060"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-19",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
-"p": "suomen-kansallisteat-orvot",
-"date": "2026-10-19",
-"time": "18.30",
-"price": 42,
-"avail": "many",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485498/?affiliate=ADV&language=fi"
-},
-{
-"p": "aleksanterin-teatter-salakapakka-stand-up",
-"date": "2026-10-19",
-"time": "19.00",
-"price": null,
-"avail": "unknown",
-"url": "https://www.nauramaan.com/?q=salakapakka"
-},
 {
 "p": "aleksanterin-teatter-william-sundman-saaf",
 "date": "2026-10-20",
@@ -570,7 +496,7 @@
 "date": "2026-10-20",
 "time": "18.30",
 "price": 52,
-"avail": "many",
+"avail": "few",
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485452/?affiliate=ADV&language=fi"
 },
 {
@@ -634,7 +560,7 @@
 "date": "2026-10-21",
 "time": "18.30",
 "price": 52,
-"avail": "few",
+"avail": "many",
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485453/?affiliate=ADV&language=fi"
 },
 {
@@ -649,10 +575,9 @@
 "p": "teatteri-avoimet-ove-soteorpo",
 "date": "2026-10-21",
 "time": "18.30",
-"price": 47,
+"price": 42,
 "avail": "unknown",
-"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
-"note": "Tekijät tutuiksi -keskustelu esityksen jälkeen"
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
 },
 {
 "p": "teatteri-jurkka-keuhkot",
@@ -747,8 +672,17 @@
 "date": "2026-10-22",
 "time": "18.30",
 "price": null,
-"avail": "many",
+"avail": "few",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9184/"
+},
+{
+"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
+"date": "2026-10-22",
+"time": "18.30",
+"price": 24,
+"avail": "unknown",
+"url": "https://embed.netticket.fi/ikitahti-vantaa",
+"note": "Ennakkonäytös"
 },
 {
 "p": "svenska-teatern-sista-paret-ut",
@@ -776,12 +710,21 @@
 "note": "Ensi-ilta"
 },
 {
+"p": "teatteri-avoimet-ove-soteorpo",
+"date": "2026-10-23",
+"time": "14.00",
+"price": 42,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+},
+{
 "p": "aleksanterin-teatter-lava-ammuntaa-viii-after-eight-komiikkaa",
 "date": "2026-10-23",
 "time": "18.30",
 "price": null,
 "avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2092"
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2092",
+"note": "K-18"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -861,7 +804,7 @@
 "time": "18.30",
 "price": 24,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/ikitahti-vantaa",
+"url": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "note": "Ensi-ilta"
 },
 {
@@ -964,9 +907,9 @@
 "p": "teatteri-vantaa-metsan-arvoitus",
 "date": "2026-10-24",
 "time": "14.00",
-"price": 22,
+"price": null,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/metsan-arvoitus-vantaa"
+"url": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/"
 },
 {
 "p": "svenska-teatern-nattland",
@@ -1015,15 +958,6 @@
 "price": null,
 "avail": "unknown",
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2106"
-},
-{
-"p": "kom-teatteri-kuinka-tulla-tapio-rautavaaraksi",
-"date": "2026-10-24",
-"time": "18.00",
-"price": null,
-"avail": "unknown",
-"url": "https://www.lippu.fi/artist/kom-teatteri/kuima-tulla-tapio-rautavaaraksi-4180487/",
-"note": "Vierailuesitys Vuotalolla"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -1098,22 +1032,6 @@
 "url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21437901/?affiliate=HKK&language=fi"
 },
 {
-"p": "aleksanterin-teatter-kreivitar-amalien-draamakierros",
-"date": "2026-10-25",
-"time": "12.00",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2157"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-25",
-"time": "13.00",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
 "p": "aleksanterin-teatter-luolamies",
 "date": "2026-10-25",
 "time": "16.00",
@@ -1122,12 +1040,44 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2130"
 },
 {
+"p": "aleksanterin-teatter-ikoset-hauen-laulut",
+"date": "2026-10-26",
+"time": "18.30",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2061"
+},
+{
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-10-26",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296653/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-mysterio-buffo",
+"date": "2026-10-26",
+"time": "18.30",
+"price": 38,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
+},
+{
+"p": "suomen-kansallisteat-jos-meilta-kysytaan",
+"date": "2026-10-26",
+"time": "18.30",
+"price": 36,
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-jos-meilta-kysytaan-suomen-kansallisteatteri-21645946/?affiliate=ADV&language=fi"
+},
+{
 "p": "suomen-kansallisteat-orvot",
-"date": "2026-10-25",
+"date": "2026-10-26",
 "time": "18.30",
 "price": 42,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485504/?affiliate=ADV&language=fi"
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485502/?affiliate=ADV&language=fi"
 }
 ],
 "theatres": [
