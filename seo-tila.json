@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-26"
+"last": "2026-10-27"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "suomi ja englanti (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -116,7 +116,7 @@
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
 "desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-10-26"
+"last": "2026-10-27"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -236,7 +236,7 @@
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
 "desc": "Kahden miehen näytelmä, jossa Charlie ja Jake joutuvat avustajiksi amerikkalaisen elokuvan kuvauksiin. Traaginen komedia sekoittuu Irlannin historiaan ja näyttelijöiden virtuooseihin roolinvaihdoksiin.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
 "theatre": "Svenska Teatern",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-26"
+"last": "2026-10-22"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -694,7 +694,7 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": "ei puhetta",
+"lang": null,
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stockmann-yard-kaubamaja-kurikaelad/",
 "desc": "Kriminaalikomedia, joka sijoittuu legendaarisen varustalon kulisseihin. Esityksessä sekoittuvat rikkaat asiakkaat, ovela myyjät ja rohkeat varkaat, kun taloudellisuuden tarkastaja saapuu järjestämään kaaoksen.",
@@ -729,7 +729,7 @@
 "page": "https://svenskateatern.fi/repertoar/kompani-nord-sista-paret-ut/",
 "desc": "Mia Franckin kirjaan perustuva dramatisaatio 1970-luvun perheesta, jossa avioero repii perheen ja lapset joutuvat vanhempien välisen kamppailun keskelle. Esityksessä tutkitaan, kenen ääni kuuluu perheen hajoamisen keskellä.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/teatteri-avoimet-ovet/niitylta-tuulee/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -759,7 +759,7 @@
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-10-23"
+"last": "2026-10-27"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -804,7 +804,7 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-27"
 },
 "/teatteri/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi/": {
 "theatre": "KOM-teatteri",
@@ -842,9 +842,9 @@
 "stage": "Teatteri Vantaa",
 "title": "Metsän arvoitus?",
 "genre": "Lapsille",
-"dur": null,
-"inter": null,
-"lang": null,
+"dur": 35,
+"inter": false,
+"lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/metsan-arvoitus/",
 "desc": "Musiikkipitoinen nukketeatteri-esitys, jossa päähenkilö seikkailuun metsään, jossa kohtaa erilaisia hahmoja ja ratkaisee mysteerisen arvoituksen elävän musiikin säestyksellä.",
@@ -865,5 +865,50 @@
 "desc": "Ikoset-sisarukset ovat säveltäneet Aaro Hellaakosken runoudesta uuden konserttikokonaisuuden, joka yhdistää jazzin, popin ja kansanmusiikin vaikutteita. Esitys keskittyy viiden sisaruksen harmoniaisiin lauluääniin Hellaakosken runoja tulkitsemalla.",
 "dv": 2,
 "last": "2026-10-26"
+},
+"/teatteri/helsingin-kaupunginteatteri/nar-baba-faller-i-poolen-ar-kl-23-47/": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Lilla Teatern",
+"title": "När Baba faller i poolen är kl. 23.47",
+"genre": "Draama",
+"dur": 80,
+"inter": false,
+"lang": "ruotsi",
+"subs": "suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
+"page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
+"desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
+"dv": 2,
+"last": "2026-10-27"
+},
+"/teatteri/kom-teatteri/naza/": {
+"theatre": "KOM-teatteri",
+"city": "Helsinki",
+"stage": "KOM-teatteri",
+"title": "NAZA",
+"genre": "Draama",
+"dur": 80,
+"inter": null,
+"lang": "heprea, englanti",
+"subs": "englanti",
+"page": "https://kom-teatteri.fi/ohjelmisto/naza/",
+"desc": "Dokumenttielokuva, joka käsittelee tekoälyn ja automaattivalvonnan käyttöä Israelin armeijan operaatioissa Gazassa. Elokuva haastatteli anonyyminä esiintyviä Israelin puolustusvoimien ja tiedustelupalvelun työntekijöitä.",
+"dv": 2,
+"last": "2026-10-27"
+},
+"/teatteri/aleksanterin-teatteri/stella-x-tsuumi-pridgerton/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Stella x Tsuumi PRIDGERTÖN",
+"genre": "Komedia",
+"dur": 120,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
+"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistuotanto on epävirallinen improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokaisessa esityksessä nähdään täysin uusia, arvaamatonta komedian, musiikin ja tanssin sekoitusta.",
+"dv": 2,
+"last": "2026-10-27"
 }
 }
