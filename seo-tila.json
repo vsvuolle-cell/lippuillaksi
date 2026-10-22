@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja etsii kuolleen kirjailijan kadonneita papereita ja mysteeristä romaania. Esitys tutkii muistia, traumaa ja Euroopan historiaa monitasoisena kerrontana.",
+"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja lähtee jäljittämään kuolleen kirjailijan kadonneita teoksia. Esitys tutkii muistia, traumaa ja historian varjoa nykyisyydessä.",
 "dv": 2,
-"last": "2026-10-15"
+"last": "2026-10-28"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -27,7 +27,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/orvot",
 "desc": "Veljekset Treat ja Phillip, jotka ovat kasvaneet orpoina rivitalomurjussa Pohjois-Philadelphiassa, joutuvat odottamattomaan tilanteeseen, kun Treat tuo asunnolle humalaisen Haroldin panttivangiksi. Näytelmä käsittelee orpoina kasvaneiden poikien rakkauden kaipuusta, hylätyksi tulemisen traumasta ja syrjäytymisestä.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/suomen-kansallisteatteri/sivuraide/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -70,9 +70,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Smedsin ohjaama esitys, jossa kuusi suomalaista naista osallistuu tosi-tv-tuotantoon. Luvassa on anarkistista komediaa ja teatterillinen viidakkojen seikkailu.",
+"desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-10-23"
+"last": "2026-10-28"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -116,7 +116,7 @@
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
 "desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-22"
+"last": "2026-10-28"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-10-23"
+"last": "2026-10-28"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -729,7 +729,7 @@
 "page": "https://svenskateatern.fi/repertoar/kompani-nord-sista-paret-ut/",
 "desc": "Mia Franckin kirjaan perustuva dramatisaatio 1970-luvun perheesta, jossa avioero repii perheen ja lapset joutuvat vanhempien välisen kamppailun keskelle. Esityksessä tutkitaan, kenen ääni kuuluu perheen hajoamisen keskellä.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/teatteri-avoimet-ovet/niitylta-tuulee/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -780,14 +780,14 @@
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "Lava-ammuntaa VIII - After Eight -komiikkaa",
+"title": "LAVA-AMMUNTAA VIII - After Eight -komiikkaa",
 "genre": "Komedia",
 "dur": null,
 "inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/lava-ammuntaa-viii-after-eight-komiikkaa/",
-"desc": "Ulla Tapanisen ja Raila Leppäkosken kirjoittama monologisarja, joka käsittelee ajankohtaisia asioita ja ilmiöitä terävällä, suorasanaisella huumorilla. Esitys juhlii sarjan 30-vuotista historiaa sekä Ulla Tapanisen näyttelijänuraaa ja elämää.",
+"desc": "Ulla Tapanisen monologisarja, joka jatkaa ajankohtaisten asioiden terävää ja suorasanaista kritiikkiä. Esitys juhlii sarjan 30-vuotista historiaa, näyttelijä-Ullan 50 vuotta näyttämöllä ja siviili-Ullan 70-vuotissyntymäpäiviä.",
 "dv": 2,
 "last": "2026-10-24"
 },
@@ -804,7 +804,7 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi/": {
 "theatre": "KOM-teatteri",
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-28"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
