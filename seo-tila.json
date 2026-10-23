@@ -42,7 +42,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
 "desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päättävät selvittää, mitä toisensa elämään on kuulunut. Esitys kertoo haikean ja hauskan tarinan entisistä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
 "dv": 2,
-"last": "2026-10-23"
+"last": "2026-10-29"
 },
 "/teatteri/suomen-kansallisteatteri/toinen-tasavalta/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-29"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
 "dv": 2,
-"last": "2026-10-22"
+"last": "2026-10-29"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-29"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -206,7 +206,7 @@
 "page": "https://hkt.fi/esitykset/elolliset/",
 "desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-29"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-29"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -331,7 +331,7 @@
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Keuhkot",
+"stage": "Teatteri Jurkka",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -345,7 +345,7 @@
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Väylä",
+"stage": "Teatteri Jurkka",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-28"
+"last": "2026-10-29"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -382,9 +382,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetun iskelmäkuningattaren Leenan elämästä täynnä iloja, suruja ja rakkauksia. Esitys on vauhdikkaiden roolien vaihtojen ja suurten tunteiden täyttämä kertomus elämänvalinnoista ja omasta vaikutuksesta omaan kohtaloon.",
+"desc": "Kaksi näyttelijää esittää yli kolmeatoista roolia tarinassa unohdetusta iskelmäkuningattaresta Leenasta. Esityksessä käsitellään elämänvalintoja, rakkautta ja katastrofeja vauhdikkaiden roolinvaihtojen ja suurten tunteiden kautta.",
 "dv": 2,
-"last": "2026-10-10"
+"last": "2026-10-29"
 },
 "/teatteri/aleksanterin-teatteri/luolamies/": {
 "theatre": "Aleksanterin teatteri",
@@ -397,7 +397,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
-"desc": "Martti Suosalon stand up -komiikka käsittelee miehen ja naisen välistä suhdetta humoristisen ja hellyttävän tutkimusmatkan kautta. Esitys herättää oivalluksia parisuhteista ja on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
+"desc": "Martti Suosalon stand up -komikkaesitys, joka tutkii miehen ja naisen välistä dynamiikkaa ja parisuhteita. Esitys on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
 "dv": 2,
 "last": "2026-10-25"
 },
@@ -500,7 +500,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomi, englanti",
+"subs": "suomen- ja englanninkielinen tekstitys",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
@@ -577,9 +577,9 @@
 "lang": null,
 "subs": null,
 "page": "https://www.avoimetovet.fi/ilta-rivieralla/",
-"desc": "Esitys vie katsojat Välimeren lämpöön yhdistäen runoutta, musiikkia ja draamaa kirjailija Olavi Paavolaisen Rivieran-matkojen kautta. Kertoja johdattaa yleisön tarinaan, jossa Paavolaisen lennokkaat kirjeet ja runot elävöityvät draamallisten kohtauksien ja ranskalaisen musiikin avulla.",
+"desc": "Esitys vie katsojat Välimeren lämpöön yhdistäen runoutta, musiikkia ja draamaa. Siinä kerrotaan kirjailija Olavi Paavolaisen elämästä ja hänen matkoistaan Ranskan Rivieralle 1920-luvulla lumoavan musiikin ja draamalisten kohtauksien keinoin.",
 "dv": 2,
-"last": "2026-10-16"
+"last": "2026-10-29"
 },
 "/teatteri/helsingin-kaupunginteatteri/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -729,7 +729,7 @@
 "page": "https://svenskateatern.fi/repertoar/kompani-nord-sista-paret-ut/",
 "desc": "Mia Franckin kirjaan perustuva dramatisaatio 1970-luvun perheesta, jossa avioero repii perheen ja lapset joutuvat vanhempien välisen kamppailun keskelle. Esityksessä tutkitaan, kenen ääni kuuluu perheen hajoamisen keskellä.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-29"
 },
 "/teatteri/teatteri-avoimet-ovet/niitylta-tuulee/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -759,7 +759,7 @@
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-10-29"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -832,7 +832,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/best-of-saikkua-kiitos-k-18/",
-"desc": "Esityksessä esitetään suositun Saikkua kiitos -trilogian parhaat kohdat yhden illan aikana, täydennettynä Ismo Leikolan parhailla lauluilla. Naurutykitystä täynnä oleva kokoelma kolmen osan huippuhetkistä.",
+"desc": "Esityksessä esitetään suositun Saikkua kiitos -trilogian parhaat kohtaukset yhden illan aikana. Ohjelmaan sisältyy myös Ismo Leikolan parhaita lauluja.",
 "dv": 2,
 "last": "2026-10-24"
 },
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-29"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -910,5 +910,20 @@
 "desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistuotanto on epävirallinen improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokaisessa esityksessä nähdään täysin uusia, arvaamatonta komedian, musiikin ja tanssin sekoitusta.",
 "dv": 2,
 "last": "2026-10-27"
+},
+"/teatteri/suomen-kansallisteatteri/lavaklubin-runoillat/": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Lavaklubi",
+"title": "Lavaklubin runoillat",
+"genre": "Draama",
+"dur": 75,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/lavaklubin-runoillat",
+"desc": "Kaksi itsenäistä runoilijan esityskokonaisuutta, joissa kirjallinen ilmaisu yhdistyy äänellisiin kerrauksiin. Miia Toivion Dystopian aakkoset ja Alba Ala-Pietilän Rystyluusikka tavoittelevat lyyrisen, kertoavan ja esityksellisen kohtaamisen.",
+"dv": 2,
+"last": "2026-10-29"
 }
 }
