@@ -10,9 +10,9 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli, jossa kustannustoimittaja lähtee jäljittämään kuolleen kirjailijan kadonneita teoksia. Esitys tutkii muistia, traumaa ja historian varjoa nykyisyydessä.",
+"desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-24"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -42,7 +42,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/sivuraide",
 "desc": "Kaksi nuoruudenrakastettua kohtaa toisensa parinkymmenen vuoden jälkeen junassa ja päättävät selvittää, mitä toisensa elämään on kuulunut. Esitys kertoo haikean ja hauskan tarinan entisistä rakkauksista ja elämistä, jotka eivät ihan toteutuneet, mutta melkein.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/suomen-kansallisteatteri/toinen-tasavalta/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
-"desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista 1980-luvulle ja Neuvostoliiton romahdukseen. Historiallinen esitys kertoo kansasta, joka pystyi torjumaan itseään vastaan kohdistuneet uhat ja rakentamaan hyvinvointiyhteiskunnan.",
+"desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-30"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -116,7 +116,7 @@
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
 "desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-30"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -206,12 +206,12 @@
 "page": "https://hkt.fi/esitykset/elolliset/",
 "desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"stage": "Studio Pasila",
+"stage": "Studio Pasila (lämpiö)",
 "title": "Club act!one",
 "genre": "Komedia",
 "dur": 120,
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -326,12 +326,12 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-30"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Keuhkot",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -340,12 +340,12 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-24"
+"last": "2026-10-30"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Väylä",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-30"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -500,7 +500,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
@@ -729,7 +729,7 @@
 "page": "https://svenskateatern.fi/repertoar/kompani-nord-sista-paret-ut/",
 "desc": "Mia Franckin kirjaan perustuva dramatisaatio 1970-luvun perheesta, jossa avioero repii perheen ja lapset joutuvat vanhempien välisen kamppailun keskelle. Esityksessä tutkitaan, kenen ääni kuuluu perheen hajoamisen keskellä.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-10-30"
 },
 "/teatteri/teatteri-avoimet-ovet/niitylta-tuulee/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -752,8 +752,8 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": null,
-"inter": null,
+"dur": 130,
+"inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
@@ -804,7 +804,7 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-10-30"
 },
 "/teatteri/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi/": {
 "theatre": "KOM-teatteri",
@@ -817,7 +817,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/kuinka-tulla-tapio-rautavaaraksi/",
-"desc": "Musiikillinen tragikomedia, jossa syyrialaistaustainen nuori saapuu pakolaisena Suomeen ja ihailee Tapio Rautavaaraa. Esitys kertoo hänen matkaansa pyrkiessään täyttämään suomalaisesta kiiltokuvamiehistä luomansa ihanteensa.",
+"desc": "Musiikillinen tragikomedia, jossa syyrialaistaustainen nuori saapuu pakolaisena Suomeen ja ihastuu Tapio Rautavaaraan. Esitys kertoo hänen matkaansa haaveestaan tulla yhtä rakastetuksi kuin legendaarinen suomalainen laulaja ja urheilu-idoli.",
 "dv": 2,
 "last": "2026-10-24"
 },
@@ -925,5 +925,20 @@
 "desc": "Kaksi itsenäistä runoilijan esityskokonaisuutta, joissa kirjallinen ilmaisu yhdistyy äänellisiin kerrauksiin. Miia Toivion Dystopian aakkoset ja Alba Ala-Pietilän Rystyluusikka tavoittelevat lyyrisen, kertoavan ja esityksellisen kohtaamisen.",
 "dv": 2,
 "last": "2026-10-29"
+},
+"/teatteri/zodiak-uuden-tanssin-keskus/zodiak-laboratory-lintu-lover-edet-cane/": {
+"theatre": "Zodiak – Uuden tanssin keskus",
+"city": "Helsinki",
+"stage": "Zodiak Studio B2",
+"title": "Zodiak Laboratory: Lintu Lover & Edet Cane",
+"genre": "Ooppera ja tanssi",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "https://www.zodiak.fi/fi/ohjelmisto/zodiak-laboratory-lintu-lover-edet-cane",
+"desc": "Zodiak Laboratoryn residenssiesitys, jossa taiteilijat Lintu Lover ja Edet Cane tutkivat taiteellista työskentelyään liikkeen, kielen, kankaan ja äänen keinoin. Esityksessä käsitellään muistamisen, tuntemisen ja elämän teemoja runollisten sanoitusten ja tanssin avulla.",
+"dv": 2,
+"last": "2026-10-30"
 }
 }
