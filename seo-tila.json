@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-10-31"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": null,
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-10-31"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-10-31"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-10-31"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -500,7 +500,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomi, englanti",
+"subs": "suomen- ja englanninkielinen tekstitys",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
@@ -515,11 +515,11 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
-"desc": "Vaikuttava draama Margaret Thatcherin ja hotellityöläisen Lindan kohtaamisesta Lontoon hotellissa, jossa muistisairaan entisen pääministerin ja köyhästä kaivoskaupungista kotoisin olevan naisen välille syntyy poliittisten päätösten seurauksista kertova tarina.",
+"desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
-"last": "2026-10-17"
+"last": "2026-10-31"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -532,7 +532,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterista sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuulee myös Amalien laulavan.",
+"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta poikkeuksellisesta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulanto.",
 "dv": 2,
 "last": "2026-10-25"
 },
@@ -804,7 +804,7 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-10-31"
 },
 "/teatteri/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi/": {
 "theatre": "KOM-teatteri",
@@ -940,5 +940,20 @@
 "desc": "Zodiak Laboratoryn residenssiesitys, jossa taiteilijat Lintu Lover ja Edet Cane tutkivat taiteellista työskentelyään liikkeen, kielen, kankaan ja äänen keinoin. Esityksessä käsitellään muistamisen, tuntemisen ja elämän teemoja runollisten sanoitusten ja tanssin avulla.",
 "dv": 2,
 "last": "2026-10-30"
+},
+"/teatteri/helsingin-kaupunginteatteri/monsterit-stand-up-show/": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö",
+"title": "Monsterit Stand Up Show",
+"genre": "Komedia",
+"dur": 90,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/monsterit-stand-up-show/",
+"desc": "Suomen huippukoomikot esittävät stand up -show'n, joka yhdistää halloweenin tunnelman ja komiikan. Yleisö voi pukeutua teemaan ja nauttia hauskoista ja hulvattomista hetkistä.",
+"dv": 2,
+"last": "2026-10-31"
 }
 }
