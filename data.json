@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-25T06:10+02:00",
-"from": "2026-10-25",
-"to": "2026-10-31",
+"updated": "2026-10-26T06:14+02:00",
+"from": "2026-10-26",
+"to": "2026-11-01",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -12,7 +12,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2
@@ -40,7 +40,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2
@@ -82,7 +82,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2
@@ -351,34 +351,6 @@
 "desc": "Kaksi näyttelijää esittää yli kolmeatoista roolia tarinassa unohdetusta iskelmäkuningattaresta Leenasta. Esityksessä käsitellään elämänvalintoja, rakkautta ja katastrofeja vauhdikkaiden roolinvaihtojen ja suurten tunteiden kautta.",
 "dv": 2
 },
-"aleksanterin-teatter-kreivitar-amalien-draamakierros": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Kreivitär Amalien draamakierros",
-"genre": "Draama",
-"dur": 75,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta poikkeuksellisesta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulanto.",
-"dv": 2
-},
-"aleksanterin-teatter-luolamies": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Luolamies",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/luolamies/",
-"desc": "Martti Suosalon stand up -komikkaesitys, joka tutkii miehen ja naisen välistä dynamiikkaa ja parisuhteita. Esitys on naurattanut ja itkettänyt yleisöä kahdenkymmenen vuoden ajan.",
-"dv": 2
-},
 "aleksanterin-teatter-stella-x-tsuumi-pridgerton": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
@@ -391,6 +363,34 @@
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
 "desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistuotanto on epävirallinen improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokaisessa esityksessä nähdään täysin uusia, arvaamatonta komedian, musiikin ja tanssin sekoitusta.",
+"dv": 2
+},
+"aleksanterin-teatter-ikoset-hauen-laulut": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Ikoset: Hauen laulut",
+"genre": "Musikaali",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/ikoset-hauen-laulut/",
+"desc": "Ikoset-sisarukset ovat säveltäneet uuden konserttikokonaisuuden suomalaisen runon modernismin uranuurtajan Aaro Hellaakosken runouksesta. Esityksessä yhdistyvät jazz, pop ja kansanmusiikin vaikutteet viiden sisaruksen taianomaisesti yhteen sointuvan laulun kautta.",
+"dv": 2
+},
+"aleksanterin-teatter-balletto-di-milano-viva-verdi": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Balletto di Milano: Viva Verdi",
+"genre": "Ooppera ja tanssi",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/balletto-di-milano-viva-verdi/",
+"desc": "Balletto di Milano esittää Giuseppe Verdin klassisten oopperamusiikin tanssillisen tulkinnan. Esityksessä muunnetaan Italian mestarin kuuluisat sävellykset liikkeeksi ja eläviksi ilmaisuiksi, jotka kuvastavat hänen draamallista ja musiikin voimaa.",
 "dv": 2
 },
 "zodiak-uuden-tanssin-lampi-2": {
@@ -438,20 +438,12 @@
 },
 "showings": [
 {
-"p": "aleksanterin-teatter-kreivitar-amalien-draamakierros",
-"date": "2026-10-25",
-"time": "12.00",
+"p": "aleksanterin-teatter-ikoset-hauen-laulut",
+"date": "2026-10-26",
+"time": "18.30",
 "price": null,
 "avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2157"
-},
-{
-"p": "aleksanterin-teatter-luolamies",
-"date": "2026-10-25",
-"time": "16.00",
-"price": null,
-"avail": "few",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2130"
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2061"
 },
 {
 "p": "helsingin-kaupungint-kurtturuusut",
@@ -594,7 +586,7 @@
 "date": "2026-10-28",
 "time": "18.00",
 "price": null,
-"avail": "many",
+"avail": "few",
 "url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462287/?affiliate=HKK&language=fi"
 },
 {
@@ -769,7 +761,7 @@
 "p": "suomen-kansallisteat-lavaklubin-runoillat",
 "date": "2026-10-29",
 "time": "18.30",
-"price": 25,
+"price": 15,
 "avail": "unknown",
 "url": "https://www.kansallisteatteri.fi/esitys/lavaklubin-runoillat"
 },
@@ -969,9 +961,33 @@
 "p": "helsingin-kaupungint-monsterit-stand-up-show",
 "date": "2026-10-31",
 "time": "19.00",
-"price": 35,
+"price": null,
 "avail": "many",
 "url": "https://www.lippu.fi/event/monsterit-stand-up-show-monsterit-stand-up-show-helsingin-kaupunginteatteri-arena-nayttamo-22040792/?affiliate=HKK&language=fi"
+},
+{
+"p": "aleksanterin-teatter-balletto-di-milano-viva-verdi",
+"date": "2026-11-01",
+"time": "16.00",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2117"
+},
+{
+"p": "suomen-kansallisteat-lady-t",
+"date": "2026-11-01",
+"time": "18.30",
+"price": 49,
+"avail": "unknown",
+"url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+},
+{
+"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
+"date": "2026-11-01",
+"time": "18.30",
+"price": 24,
+"avail": "unknown",
+"url": "https://embed.netticket.fi/ikitahti-vantaa"
 }
 ],
 "theatres": [
