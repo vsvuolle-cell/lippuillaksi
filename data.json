@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-26T06:14+02:00",
-"from": "2026-10-26",
-"to": "2026-11-01",
+"updated": "2026-10-27T06:13+02:00",
+"from": "2026-10-27",
+"to": "2026-11-02",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -26,7 +26,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2
@@ -115,20 +115,6 @@
 "desc": "Kaksi itsenäistä runoilijan esityskokonaisuutta, joissa kirjallinen ilmaisu yhdistyy äänellisiin kerrauksiin. Miia Toivion Dystopian aakkoset ja Alba Ala-Pietilän Rystyluusikka tavoittelevat lyyrisen, kertoavan ja esityksellisen kohtaamisen.",
 "dv": 2
 },
-"helsingin-kaupungint-kurtturuusut": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Pieni näyttämö",
-"title": "Kurtturuusut",
-"genre": "Komedia",
-"dur": 155,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/kurtturuusut/",
-"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
-"dv": 2
-},
 "helsingin-kaupungint-fretti-mercury-etsii-onnea": {
 "theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
@@ -155,6 +141,20 @@
 "subs": "suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
+"dv": 2
+},
+"helsingin-kaupungint-kurtturuusut": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "Kurtturuusut",
+"genre": "Komedia",
+"dur": 155,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/kurtturuusut/",
+"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2
 },
 "helsingin-kaupungint-julia": {
@@ -365,20 +365,6 @@
 "desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistuotanto on epävirallinen improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokaisessa esityksessä nähdään täysin uusia, arvaamatonta komedian, musiikin ja tanssin sekoitusta.",
 "dv": 2
 },
-"aleksanterin-teatter-ikoset-hauen-laulut": {
-"theatre": "Aleksanterin teatteri",
-"city": "Helsinki",
-"stage": "Aleksanterin teatteri",
-"title": "Ikoset: Hauen laulut",
-"genre": "Musikaali",
-"dur": null,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/ikoset-hauen-laulut/",
-"desc": "Ikoset-sisarukset ovat säveltäneet uuden konserttikokonaisuuden suomalaisen runon modernismin uranuurtajan Aaro Hellaakosken runouksesta. Esityksessä yhdistyvät jazz, pop ja kansanmusiikin vaikutteet viiden sisaruksen taianomaisesti yhteen sointuvan laulun kautta.",
-"dv": 2
-},
 "aleksanterin-teatter-balletto-di-milano-viva-verdi": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
@@ -437,38 +423,6 @@
 }
 },
 "showings": [
-{
-"p": "aleksanterin-teatter-ikoset-hauen-laulut",
-"date": "2026-10-26",
-"time": "18.30",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2061"
-},
-{
-"p": "helsingin-kaupungint-kurtturuusut",
-"date": "2026-10-26",
-"time": "18.30",
-"price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296653/?affiliate=HKK&language=fi"
-},
-{
-"p": "suomen-kansallisteat-jos-meilta-kysytaan",
-"date": "2026-10-26",
-"time": "18.30",
-"price": 36,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-jos-meilta-kysytaan-suomen-kansallisteatteri-21645946/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-orvot",
-"date": "2026-10-26",
-"time": "18.30",
-"price": 42,
-"avail": "many",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-orvot-suomen-kansallisteatteri-21485502/?affiliate=ADV&language=fi"
-},
 {
 "p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
 "date": "2026-10-27",
@@ -602,7 +556,7 @@
 "date": "2026-10-28",
 "time": "18.30",
 "price": null,
-"avail": "few",
+"avail": "sold",
 "url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985487/?affiliate=HKK&language=fi"
 },
 {
@@ -974,16 +928,40 @@
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2117"
 },
 {
-"p": "suomen-kansallisteat-lady-t",
+"p": "suomen-kansallisteat-lopetus",
 "date": "2026-11-01",
 "time": "18.30",
 "price": 49,
-"avail": "unknown",
-"url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
+"avail": "sold",
+"url": "https://www.kansallisteatteri.fi/esitys/lopetus"
+},
+{
+"p": "suomen-kansallisteat-lopetus",
+"date": "2026-11-02",
+"time": "13.00",
+"price": 49,
+"avail": "many",
+"url": "https://www.lippu.fi/event/lopetus-suomen-kansallisteatteri-21645837/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-jos-meilta-kysytaan",
+"date": "2026-11-02",
+"time": "18.30",
+"price": 36,
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-jos-meilta-kysytaan-suomen-kansallisteatteri-21645947/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-viidakon-villit-naiset",
+"date": "2026-11-02",
+"time": "18.30",
+"price": 48,
+"avail": "many",
+"url": "https://www.lippu.fi/event/viidakon-villit-naiset-suomen-kansallisteatteri-21645929/?affiliate=ADV&language=fi"
 },
 {
 "p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
-"date": "2026-11-01",
+"date": "2026-11-02",
 "time": "18.30",
 "price": 24,
 "avail": "unknown",
