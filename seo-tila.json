@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2,
-"last": "2026-10-31"
+"last": "2026-11-04"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-11-02"
+"last": "2026-11-04"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -234,9 +234,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
-"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake joutuvat avustajiksi amerikkalaisen elokuvan kuvauksiin. Traaginen komedia sekoittuu Irlannin historiaan ja näyttelijöiden virtuooseihin roolinvaihdoksiin.",
+"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake kulkevat läpi monen miehen elämän ja kohtaavat traagisia ja komedia-elementtejä täynnä olevia tilanteita. Näytelmässä ihmiskohtaloihin sekoittuu myös Irlannin historia.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-11-04"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
 "theatre": "Svenska Teatern",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-04"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
 "dv": 2,
-"last": "2026-11-03"
+"last": "2026-11-04"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -340,7 +340,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-30"
+"last": "2026-11-03"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-10-29"
+"last": "2026-11-04"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
 "dv": 2,
-"last": "2026-11-03"
+"last": "2026-10-30"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -519,7 +519,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
-"last": "2026-11-03"
+"last": "2026-10-31"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -752,14 +752,14 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": 130,
-"inter": true,
+"dur": null,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-11-04"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -804,7 +804,7 @@
 "page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
-"last": "2026-11-03"
+"last": "2026-11-04"
 },
 "/teatteri/kom-teatteri/kuinka-tulla-tapio-rautavaaraksi/": {
 "theatre": "KOM-teatteri",
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-11-04"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -907,9 +907,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
-"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistuotanto on epävirallinen improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokaisessa esityksessä nähdään täysin uusia, arvaamatonta komedian, musiikin ja tanssin sekoitusta.",
+"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyönä syntynyt improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen tanssin ja musiikin kera. Jokainen esitys on oma itsenäinen kokonaisuutensa täynnä arvaamattomuutta.",
 "dv": 2,
-"last": "2026-10-27"
+"last": "2026-11-04"
 },
 "/teatteri/suomen-kansallisteatteri/lavaklubin-runoillat/": {
 "theatre": "Suomen Kansallisteatteri",
