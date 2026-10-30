@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2,
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -515,7 +515,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanniksi ja suomeksi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
@@ -801,7 +801,7 @@
 "inter": null,
 "lang": null,
 "subs": null,
-"page": "https://www.zodiak.fi/fi/ohjelmisto/lampi-2",
+"page": "https://www.zodiak.fi/index%2Ephp/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2,
 "last": "2026-11-04"
@@ -974,11 +974,11 @@
 "/teatteri/teatteri-vantaa/hulvaton-elokuvan-historia/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Teatteri Vantaa",
+"stage": "Silkkisali",
 "title": "Hulvaton elokuvan historia",
 "genre": "Komedia",
 "dur": 90,
-"inter": true,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/hulvaton-elokuvan-historia/",
