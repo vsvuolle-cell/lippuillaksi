@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
 "dv": 2,
@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
-"last": "2026-10-31"
+"last": "2026-11-06"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-04"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -114,9 +114,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/fretti-mercury-etsii-onnea/",
-"desc": "Kaksi ystävää lähteivät seikkailulle etsimään kadottamaansa onnea ja kohtaavat matkan varrella monenlaisia hahmoja. Musikaali tutkii, löytyykö onnea etsimällä vai onko se koko ajan sisällä.",
+"desc": "Kaksi ystävää, Fretti Mercury ja Jänis Virtanen, lähtevät seikkailulle etsimään menetettyä onnea ja kohtaavat matkan varrella erilaisia onnellisia otuksia. Musikaali pohtii, löytyykö onnea ulkopuolelta vai onko se aina sisällä itsessä.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-05"
 },
 "/teatteri/helsingin-kaupunginteatteri/de-obehoriga/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -157,11 +157,11 @@
 "dur": 160,
 "inter": true,
 "lang": "suomi",
-"subs": "Suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksella (englanniksi lauletut laulut ei tekstitetty tekijänoikeussyistä)",
+"subs": "Subtitle Mobile -sovelluksella suomeksi, ruotsiksi ja englanniksi; englanniksi lauletut laulut eivät ole tekijänoikeussyistä tekstitetyt",
 "page": "https://hkt.fi/esitykset/julia/",
-"desc": "Uudelleen kerrottu versio Shakespearen Romeo ja Juliasta, jossa Julia ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun hittimusiikin soidessa. Esitys yhdistää klassisen rakkaustarinan moderniin twist'iin ja tunnettujen popmusiikin klassikoiden energiaan.",
+"desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-11-06"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -170,13 +170,13 @@
 "title": "Kotijoukot",
 "genre": "Komedia",
 "dur": 120,
-"inter": true,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kotijoukot/",
-"desc": "Parisuhdekomedia, jossa tyytymätön vaimo Anna päättää lopettaa avioliitonsa vakaa-arkaisen miehensä Mikon kanssa. Naapurit järjestävät pariskunnan eliitin joukkokoulutusleireille, missä seuraa hupaisa sekasorto.",
+"desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-06"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -204,9 +204,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/elolliset/",
-"desc": "Esitys käsittelee sukupuuton historian syntyä stellerinmerilehmän luurangon kautta, tutkien kuinka länsimainen ihminen tajusi kykenevänsä pyyhkiä kokonaisia lajeja pois elävien kirjoista. Näyttämöllä rakentuva museo avaa näkymän imperialismin ja modernin luonnonsuojelun historiaan.",
+"desc": "Näytelmä tutkii sukupuuton käsitteen syntyhistoriaa stellerinmerilehmän luurangon kautta, joka kantaa mukanaan imperialismin ja modernin luonnonsuojeluaatteen historian. Esitys pohtii vastuuta ihmisen kyvystä pyyhkiä elävien lajeja pois ja kyseenalaistaa käsityksiä, joita nykyaika pitää ehdottoman varmoina.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-06"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -234,9 +234,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
-"desc": "Kahden miehen näytelmä, jossa Charlie ja Jake kulkevat läpi monen miehen elämän ja kohtaavat traagisia ja komedia-elementtejä täynnä olevia tilanteita. Näytelmässä ihmiskohtaloihin sekoittuu myös Irlannin historia.",
+"desc": "Kahden miehen traaginen komedia, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat elämän eri vaiheissa pitäen yhteensä 15 erilaista roolia. Näytelmä yhdistää ihmiskohtaloita ja kokemuksia Irlannin historiaan.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
 "theatre": "Svenska Teatern",
@@ -264,9 +264,9 @@
 "lang": "ruotsi",
 "subs": "Suomi, englanti, ruotsi",
 "page": "https://svenskateatern.fi/repertoar/nattland/",
-"desc": "Kaksi sisarusta löytävät isänsä talosta vanhan maalauksen Wienistä, jonka allekirjoitus saattaa kuulua Adolf Hitlerille. Tämä löytö johtaa absurdiin kamppailuun perinnöstä, rahasta ja kunniasta.",
+"desc": "Kaksi sisarusta löytää isänsä talosta 1920-luvun Wienin maalauksen, jonka allekirjoitus on joko A. Hiller tai A. Hitler. Tämä löytö johtaa absurdiin kamppailuun rahasta, prestiigiistä ja perintöstä.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-11-06"
 },
 "/teatteri/svenska-teatern/anglagard/": {
 "theatre": "Svenska Teatern",
@@ -277,11 +277,11 @@
 "dur": 180,
 "inter": true,
 "lang": "ruotsi",
-"subs": "Tekstitys ruotsiksi, suomeksi ja englanniksi",
+"subs": "Svenska, finska, engelska",
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
-"desc": "Musikaali kertoo radarparin Fanny ja Zacin odottamattomasta saapumisesta pieneen suomalaiseen maalaiskylään, missä heidän glamoröösi elämäntyylinsä järkyttää perinteisten arvojen omaavaa paikkakunnan asukkaita. Tarinan keskelle syntyy odottamattomia ystävyyksiä ja salaisuuksia.",
+"desc": "Musikaali kertoo, kuinka maailmankokemuksella varustettu radiopari Fanny ja Zac saapuvat pieneen suomalaiseen kyläyhteisöön ja kääntävät kaiken ylösalaisin. Esityksessä törmäävät perinteet ja ennakkoluulot modernin glamourin ja vapauden vaatimuksiin, syntyen odottamattomia ystävyyksiä ja salaisuuksia.",
 "dv": 2,
-"last": "2026-10-24"
+"last": "2026-11-06"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
 "theatre": "Ryhmäteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-06"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-04"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -326,7 +326,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
 "desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2,
-"last": "2026-10-31"
+"last": "2026-11-06"
 },
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
@@ -340,7 +340,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-03"
+"last": "2026-11-06"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -367,9 +367,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.avoimetovet.fi/soteorpo",
-"desc": "Muistan sairauden myötä murentuvan avioliiton ja omaishoitajan rooliin joutuneen naisen tragikomedia, joka käsittelee muistisairauden vaikutusta parisuhteeseen ja yhteiskunnallisia ongelmia hoivajärjestelmässä.",
+"desc": "Mustan huumorin sävyttämä yhteiskunnallinen satiiri, joka kuvaa muistisairauden vaikutuksia parisuhteeseen. Esitys käsittelee omaishoitajan arjen raadollisuutta ja hoivajärjestelmän toimivuuden kysymyksiä.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-06"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -382,9 +382,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Kaksi näyttelijää esittää yli kolmeatoista roolia tarinassa unohdetusta iskelmäkuningattaresta Leenasta. Esityksessä käsitellään elämänvalintoja, rakkautta ja katastrofeja vauhdikkaiden roolinvaihtojen ja suurten tunteiden kautta.",
+"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia tarinassa unohdetusta iskelmäkuningattaresta Leenasta. Esitys käsittelee elämänvalintoja, rakkautta ja katastrofeja koskettavalla ja humoristisella tavalla.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-11-06"
 },
 "/teatteri/aleksanterin-teatteri/luolamies/": {
 "theatre": "Aleksanterin teatteri",
@@ -515,11 +515,11 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile)",
+"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
-"last": "2026-10-31"
+"last": "2026-11-06"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -877,7 +877,7 @@
 "lang": "ruotsi",
 "subs": "suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
-"desc": "Esitys kertoo tytären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui yhteiskunnan eliitin allasjuhliin ja häpeä sai hänet salaamaan asian. Näytelmä käsittelee työelämän muutosta, identiteettiä ja yhteenkuulumista.",
+"desc": "Näytelmä kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui sosiaalisesti vaikeaan tilanteeseen. Tarina käsittelee identiteettiä, häpeää ja yhteiskunnallisia murroksia.",
 "dv": 2,
 "last": "2026-11-04"
 },
@@ -907,9 +907,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
-"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyönä syntynyt improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen tanssin ja musiikin kera. Jokainen esitys on oma itsenäinen kokonaisuutensa täynnä arvaamattomuutta.",
+"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyön tuloksena syntyvä improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokainen esitys on oma itsenäinen kokonaisuutensa, jossa yhdistyvät komedia, tanssi, musiikki ja täydellinen arvaamattomuus.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-05"
 },
 "/teatteri/suomen-kansallisteatteri/lavaklubin-runoillat/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -952,7 +952,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/monsterit-stand-up-show/",
-"desc": "Suomen huippukoomikot esittävät stand up -show'n, joka yhdistää halloweenin tunnelman ja komiikan. Yleisö voi pukeutua teemaan ja nauttia hauskoista ja hulvattomista hetkistä.",
+"desc": "Suomen huippukoomikot Ali Jahangiri, Heli Sutela ja Fabe esittävät stand up -show'n, joka yhdistää halloweenin tunnelman hulvattomaan komiikkaan. Katsojia kannustetaan pukeutumaan teemaan sopivasti.",
 "dv": 2,
 "last": "2026-10-31"
 },
@@ -967,7 +967,7 @@
 "lang": null,
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/balletto-di-milano-viva-verdi/",
-"desc": "Balletto di Milano esittää Giuseppe Verdin klassisten oopperamusiikin tanssillisen tulkinnan. Esityksessä muunnetaan Italian mestarin kuuluisat sävellykset liikkeeksi ja eläviksi ilmaisuiksi, jotka kuvastavat hänen draamallista ja musiikin voimaa.",
+"desc": "Balletto di Milanon esitys juhlistaa Giuseppe Verdin ajatonta perintöä muuntamalla hänen kuuluisat oopperamusiikinsa tanssiksi ja liikkeeksi. Esityksessä yhdistyvät Verdin mestariteoksien kauneus ja dramaattinen voima nykypäivän yleisölle.",
 "dv": 2,
 "last": "2026-11-01"
 },
@@ -985,5 +985,20 @@
 "desc": "Stand up -koomikko Mika Eirtovaaran ohjaamassa esityksessä kaksi näyttelijää esittävät elokuvahistorian merkittäviä hetkiä ja tunnetuimpia teoksia humoristisesti. Esityksessä käydään läpi elokuvahistoriaa Lumiéren veljeksistä klassisiin Hollywood-elokuviin sekä poistettujen kohtausten, vaihtoehtoisten loppujen ja kyseenalaisten ratkaisujen kautta.",
 "dv": 2,
 "last": "2026-11-03"
+},
+"/teatteri/helsingin-kaupunginteatteri/kaksitoista-lahjaa-joulupukille/": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Pieni Näyttämö (lämpiö)",
+"title": "Kaksitoista lahjaa Joulupukille",
+"genre": "Lapsille",
+"dur": 35,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
+"desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
+"dv": 2,
+"last": "2026-11-05"
 }
 }
