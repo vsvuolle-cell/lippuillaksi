@@ -1,7 +1,7 @@
 {
-"updated": "2026-10-31T06:21+02:00",
-"from": "2026-10-31",
-"to": "2026-11-06",
+"updated": "2026-11-01T06:28+02:00",
+"from": "2026-11-01",
+"to": "2026-11-07",
 "productions": {
 "suomen-kansallisteat-jos-meilta-kysytaan": {
 "theatre": "Suomen Kansallisteatteri",
@@ -12,7 +12,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomi, englanti",
+"subs": "suomen- ja englanninkielinen tekstitys",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2
@@ -26,23 +26,23 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2
 },
-"suomen-kansallisteat-lopetus": {
+"suomen-kansallisteat-timo-tuominen-rendez-vous-avec-brel": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
-"stage": "Pieni näyttämö",
-"title": "Lopetus",
-"genre": "Draama",
-"dur": 170,
+"stage": "Suuri näyttämö",
+"title": "Timo Tuominen: Rendez-vous avec Brel",
+"genre": "Musikaali",
+"dur": 120,
 "inter": true,
 "lang": "suomi",
-"subs": "Saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
-"page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/timo-tuominen-rendez-vous-avec-brel",
+"desc": "Näyttelijä Timo Tuominen esittää Jacques Brelin kuuluisia chansoneita suomalaisessa tulkinnassa, jotka käsittelevät rakkautta, kuolemaa, kaipuuta ja yhteiskunnallisia ongelmia. Esitykseen kuuluu yli sata Brelin laulua, joista kolmekymmentä on Tuomisen uudelleen suomentamia.",
 "dv": 2
 },
 "suomen-kansallisteat-toinen-tasavalta": {
@@ -54,7 +54,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2
@@ -71,20 +71,6 @@
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
-"dv": 2
-},
-"helsingin-kaupungint-monsterit-stand-up-show": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Arena-näyttämö",
-"title": "Monsterit Stand Up Show",
-"genre": "Komedia",
-"dur": 90,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/monsterit-stand-up-show/",
-"desc": "Suomen huippukoomikot Ali Jahangiri, Heli Sutela ja Fabe esittävät stand up -show'n, joka yhdistää halloweenin tunnelman hulvattomaan komiikkaan. Katsojia kannustetaan pukeutumaan teemaan sopivasti.",
 "dv": 2
 },
 "helsingin-kaupungint-nar-baba-faller-i-poolen-ar-kl-23-47": {
@@ -185,6 +171,34 @@
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2
 },
+"helsingin-kaupungint-de-obehoriga": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Lilla Teatern",
+"title": "De obehöriga",
+"genre": "Draama",
+"dur": 145,
+"inter": true,
+"lang": "Ruotsi",
+"subs": "Tekstitys suomeksi ja ruotsiksi Subtitle Mobile -sovelluksen kautta",
+"page": "https://hkt.fi/esitykset/de-obehoriga/",
+"desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista henkilöistä. Kun pelot kasvavat, pintaan nousevat epäluulo, ahdistus ja vanhat naapuriristiriidat, kunnes turvallisuuden tunne horjuu ja \"me\" muuttuu \"heiksi\".",
+"dv": 2
+},
+"helsingin-kaupungint-club-act-one": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Studio Pasila (lämpiö)",
+"title": "Club act!one",
+"genre": "Komedia",
+"dur": 120,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/club-actone/",
+"desc": "Club act!one on stand up -komiikan klubi, jossa Suomen johtavat koomikot esiintyvät irrottelevalla ja spontaanilla stand up -komiikalla. Paikalla on maan eturivin koomikkoja, jotka tarjoavat pitkän perinteen mukaista stand up -viihtelyä.",
+"dv": 2
+},
 "svenska-teatern-nattland": {
 "theatre": "Svenska Teatern",
 "city": "Helsinki",
@@ -239,20 +253,6 @@
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
-"dv": 2
-},
-"kom-teatteri-mysterio-buffo": {
-"theatre": "KOM-teatteri",
-"city": "Helsinki",
-"stage": "KOM-teatteri",
-"title": "Mysterio Buffo",
-"genre": "Komedia",
-"dur": 100,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
-"desc": "Yhden näyttelijän esitys, joka koostuu fyysisistä ja terävistä monologeista keskiajan kiertävien ilveilijöiden perinteestä ammentaen. Esitys käsittelee vallankäyttöä, populismia ja korruptiota sekä tavallisen ihmisen ääntä yhteiskunnassa.",
 "dv": 2
 },
 "teatteri-jurkka-keuhkot": {
@@ -347,7 +347,7 @@
 "inter": null,
 "lang": null,
 "subs": null,
-"page": "https://www.zodiak.fi/index%2Ephp/fi/ohjelmisto/lampi-2",
+"page": "https://www.zodiak.fi/index%2ephp/fi/ohjelmisto/lampi-2",
 "desc": "Lampi 2 on äänisuunnitteluun ja kahden tanssijan liikkeeseen perustuva esitys, jossa sävelet ja tanssi kietoutuvat yhteen muodostaen kokonaisuuden. Teoksessa musiikin lausekkeet toteutuvat äänen, liikkeen ja kiteiden muodoista.",
 "dv": 2
 },
@@ -371,8 +371,8 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": null,
-"inter": null,
+"dur": 130,
+"inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
@@ -382,84 +382,12 @@
 },
 "showings": [
 {
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-31",
-"time": "13.00",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
-"p": "suomen-kansallisteat-lopetus",
-"date": "2026-10-31",
-"time": "13.00",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-lopetus-suomen-kansallisteatteri-21485469/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-viidakon-villit-naiset",
-"date": "2026-10-31",
-"time": "13.00",
-"price": 48,
-"avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-viidakon-villit-naiset-suomen-kansallisteatteri-21486776/?affiliate=ADV&language=fi"
-},
-{
-"p": "zodiak-uuden-tanssin-lampi-2",
-"date": "2026-10-31",
-"time": "15.00",
-"price": null,
-"avail": "unknown",
-"url": "https://tix.zodiak.fi/fi/buyingflow/tickets/15875/"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-10-31",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
-"p": "suomen-kansallisteat-lady-t",
-"date": "2026-10-31",
-"time": "18.30",
-"price": 49,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/lady-t-0"
-},
-{
-"p": "suomen-kansallisteat-toinen-tasavalta",
-"date": "2026-10-31",
-"time": "18.30",
-"price": 52,
-"avail": "few",
-"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21485455/?affiliate=ADV&language=fi"
-},
-{
-"p": "helsingin-kaupungint-monsterit-stand-up-show",
-"date": "2026-10-31",
-"time": "19.00",
-"price": 35,
-"avail": "few",
-"url": "https://www.lippu.fi/event/monsterit-stand-up-show-monsterit-stand-up-show-helsingin-kaupunginteatteri-arena-nayttamo-22040792/?affiliate=HKK&language=fi"
-},
-{
 "p": "aleksanterin-teatter-balletto-di-milano-viva-verdi",
 "date": "2026-11-01",
 "time": "16.00",
 "price": null,
 "avail": "few",
 "url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2117"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-11-01",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
 },
 {
 "p": "suomen-kansallisteat-jos-meilta-kysytaan",
@@ -523,7 +451,7 @@
 "p": "helsingin-kaupungint-kivia-taskussa",
 "date": "2026-11-04",
 "time": "18.30",
-"price": 52,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865015/?affiliate=HKK&language=fi"
 },
@@ -531,7 +459,7 @@
 "p": "helsingin-kaupungint-nar-baba-faller-i-poolen-ar-kl-23-47",
 "date": "2026-11-04",
 "time": "18.30",
-"price": 43,
+"price": null,
 "avail": "many",
 "url": "https://www.lippu.fi/event/nar-baba-faller-i-poolen-ar-kl-23-47-helsingin-kaupunginteatteri-lilla-teatern-22019567/?affiliate=HKK&language=fi"
 },
@@ -552,14 +480,6 @@
 "url": "https://www.tiketti.fi/tapahtuma/118096"
 },
 {
-"p": "suomen-kansallisteat-lopetus",
-"date": "2026-11-04",
-"time": "18.30",
-"price": 49,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/lopetus"
-},
-{
 "p": "suomen-kansallisteat-viidakon-villit-naiset",
 "date": "2026-11-04",
 "time": "18.30",
@@ -571,9 +491,9 @@
 "p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
 "date": "2026-11-04",
 "time": "18.30",
-"price": null,
+"price": 24,
 "avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/"
+"url": "https://embed.netticket.fi/ikitahti-vantaa"
 },
 {
 "p": "teatteri-jurkka-vayla",
@@ -595,7 +515,7 @@
 "p": "helsingin-kaupungint-kaksitoista-lahjaa-joulupukille",
 "date": "2026-11-05",
 "time": "10.00",
-"price": 18,
+"price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028588/?affiliate=HKK&language=fi"
 },
@@ -603,7 +523,7 @@
 "p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
 "date": "2026-11-05",
 "time": "18.00",
-"price": 20.0,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462289/?affiliate=HKK&language=fi"
 },
@@ -619,7 +539,7 @@
 "p": "helsingin-kaupungint-elolliset",
 "date": "2026-11-05",
 "time": "18.30",
-"price": 47,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462197/?affiliate=HKK&language=fi"
 },
@@ -627,7 +547,7 @@
 "p": "helsingin-kaupungint-julia",
 "date": "2026-11-05",
 "time": "18.30",
-"price": 96,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985488/?affiliate=HKK&language=fi"
 },
@@ -635,17 +555,17 @@
 "p": "helsingin-kaupungint-kivia-taskussa",
 "date": "2026-11-05",
 "time": "18.30",
-"price": 52,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865016/?affiliate=HKK&language=fi"
 },
 {
-"p": "kom-teatteri-mysterio-buffo",
+"p": "kom-teatteri-poiskatsojat",
 "date": "2026-11-05",
 "time": "18.30",
-"price": 38,
+"price": 46,
 "avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
 },
 {
 "p": "ryhmateatteri-aitisi-klytaimestra",
@@ -670,7 +590,7 @@
 "price": 42,
 "avail": "sold",
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
-"note": "Ikärajaton, omaishoitajille maksuton näytäntö"
+"note": "Ikärajaton, omaishoitajille maksuton näytäntö, LOPPUUNVARATTU"
 },
 {
 "p": "aleksanterin-teatter-kuningatar-leena",
@@ -684,7 +604,7 @@
 "p": "helsingin-kaupungint-elolliset",
 "date": "2026-11-06",
 "time": "18.30",
-"price": 47,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462211/?affiliate=HKK&language=fi"
 },
@@ -692,17 +612,9 @@
 "p": "helsingin-kaupungint-julia",
 "date": "2026-11-06",
 "time": "18.30",
-"price": 96,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985527/?affiliate=HKK&language=fi"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-11-06",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
 },
 {
 "p": "ryhmateatteri-aitisi-klytaimestra",
@@ -732,7 +644,7 @@
 "p": "svenska-teatern-anglagard",
 "date": "2026-11-06",
 "time": "18.30",
-"price": 30,
+"price": null,
 "avail": "few",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9186/"
 },
@@ -740,7 +652,7 @@
 "p": "helsingin-kaupungint-kotijoukot",
 "date": "2026-11-06",
 "time": "19.00",
-"price": 52,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462608/?affiliate=HKK&language=fi"
 },
@@ -748,7 +660,7 @@
 "p": "svenska-teatern-nattland",
 "date": "2026-11-06",
 "time": "19.00",
-"price": 15,
+"price": null,
 "avail": "sold",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9325/"
 },
@@ -759,6 +671,200 @@
 "price": null,
 "avail": "sold",
 "url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-11-07",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22328450/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-11-07",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462303/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-julia",
+"date": "2026-11-07",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985529/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-11-07",
+"time": "13.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462609/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-11-07",
+"time": "13.00",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-viidakon-villit-naiset",
+"date": "2026-11-07",
+"time": "13.00",
+"price": 48,
+"avail": "few",
+"url": "https://www.lippu.fi/event/viidakon-villit-naiset-suomen-kansallisteatteri-21645931/?affiliate=ADV&language=fi"
+},
+{
+"p": "svenska-teatern-anglagard",
+"date": "2026-11-07",
+"time": "13.00",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9166/"
+},
+{
+"p": "aleksanterin-teatter-kuningatar-leena",
+"date": "2026-11-07",
+"time": "14.00",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2186"
+},
+{
+"p": "ryhmateatteri-aitisi-klytaimestra",
+"date": "2026-11-07",
+"time": "14.00",
+"price": null,
+"avail": "many",
+"url": "https://www.tiketti.fi/tapahtuma/118099"
+},
+{
+"p": "teatteri-jurkka-keuhkot",
+"date": "2026-11-07",
+"time": "14.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "svenska-teatern-nattland",
+"date": "2026-11-07",
+"time": "16.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9326/"
+},
+{
+"p": "teatteri-avoimet-ove-soteorpo",
+"date": "2026-11-07",
+"time": "16.00",
+"price": 47,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
+"note": "Tekijät tutuiksi -keskustelu esityksen jälkeen"
+},
+{
+"p": "helsingin-kaupungint-fretti-mercury-etsii-onnea",
+"date": "2026-11-07",
+"time": "17.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/fretti-mercury-etsii-onnea-helsingin-kaupunginteatteri-studio-pasila-21462302/?affiliate=HKK&language=fi"
+},
+{
+"p": "aleksanterin-teatter-kuningatar-leena",
+"date": "2026-11-07",
+"time": "18.00",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2187"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-11-07",
+"time": "18.30",
+"price": 43,
+"avail": "many",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462651/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-elolliset",
+"date": "2026-11-07",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/elolliset-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21462212/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-julia",
+"date": "2026-11-07",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/julia-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-20985528/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-11-07",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462610/?affiliate=HKK&language=fi"
+},
+{
+"p": "suomen-kansallisteat-lady-t",
+"date": "2026-11-07",
+"time": "18.30",
+"price": 49,
+"avail": "many",
+"url": "https://www.lippu.fi/event/lady-t-pieni-nayttamo-suomen-kansallisteatteri-22025997/?affiliate=ADV&language=fi"
+},
+{
+"p": "svenska-teatern-anglagard",
+"date": "2026-11-07",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12264/9167/"
+},
+{
+"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
+"date": "2026-11-07",
+"time": "18.30",
+"price": 24,
+"avail": "unknown",
+"url": "https://embed.netticket.fi/ikitahti-vantaa",
+"note": "K18-tilaisuus"
+},
+{
+"p": "suomen-kansallisteat-timo-tuominen-rendez-vous-avec-brel",
+"date": "2026-11-07",
+"time": "19.00",
+"price": 45,
+"avail": "many",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-timo-tuominen-rendez-vous-avec-brel-suomen-kansallisteatteri-21650351/?affiliate=ADV&language=fi"
+},
+{
+"p": "teatteri-jurkka-vayla",
+"date": "2026-11-07",
+"time": "19.00",
+"price": null,
+"avail": "unknown",
+"url": "https://www.lippu.fi/event/teatteri-jurkka-vayla-helsinki-teatteri-jurkka-21323876/?affiliate=ADV&language=fi"
+},
+{
+"p": "helsingin-kaupungint-club-act-one",
+"date": "2026-11-07",
+"time": "21.00",
+"price": 29,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21437902/?affiliate=HKK&language=fi"
 }
 ],
 "theatres": [
