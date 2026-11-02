@@ -500,7 +500,7 @@
 "dur": 60,
 "inter": false,
 "lang": "suomi",
-"subs": "suomen- ja englanninkielinen tekstitys",
+"subs": "suomi, englanti",
 "page": "https://www.kansallisteatteri.fi/esitys/jos-meilta-kysytaan",
 "desc": "Ryhmä eritaustaisia nuoria kokoontuu näyttämölle tutkimaan yhdessäoloa, eroja ja etäisyyksiä keskustelun ja liikkeen kautta. He rakentavat ja purkavat utopioita ja dystopioita, kysyen, mitä yhdessäolo merkitsee ja mitä se vaatii.",
 "dv": 2,
@@ -1015,5 +1015,35 @@
 "desc": "Näyttelijä Timo Tuominen esittää Jacques Brelin kuuluisia chansoneita suomalaisessa tulkinnassa, jotka käsittelevät rakkautta, kuolemaa, kaipuuta ja yhteiskunnallisia ongelmia. Esitykseen kuuluu yli sata Brelin laulua, joista kolmekymmentä on Tuomisen uudelleen suomentamia.",
 "dv": 2,
 "last": "2026-11-07"
+},
+"/teatteri/aleksanterin-teatteri/anonyma-korister/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Anonyma korister",
+"genre": "Musikaali",
+"dur": null,
+"inter": null,
+"lang": "ruotsi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/anonyma-korister/",
+"desc": "Lämmin ja hauska musikaali kuorosta, jossa on tilaa sekä dramaattisille käänteille että unelmille. Esityksessä kuullaan kapellimestari Martin Segerstrålen ja musikaaliartisti Josefin Silénin kirjoittamia uusia lauluja.",
+"dv": 2,
+"last": "2026-11-08"
+},
+"/teatteri/suomen-komediateatteri/hevisaurus-rayhaisimmat-keikat/": {
+"theatre": "Suomen Komediateatteri",
+"city": "Helsinki",
+"stage": "Peacock-näyttämö",
+"title": "Hevisaurus - Räyhäisimmät keikat!",
+"genre": "Lapsille",
+"dur": 60,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://suomenkomediateatteri.fi/esitykset/hevisaurus-isanpaivan-rayhaisin-keikka/",
+"desc": "Hevisaurus-yhtyeen räyhäisä ja energinen keikka, jossa dinosaurukset ja lohikäärme esittävät hevimusiikkia koko perheelle. Esityksessä kuullaan tutut kappaleet ja yleisö pääsee osallistumaan vauhdikkaan show'n toimintaan.",
+"dv": 2,
+"last": "2026-11-08"
 }
 }
