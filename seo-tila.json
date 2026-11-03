@@ -53,9 +53,9 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi",
+"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
-"desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiaa Neuvostoliiton painostuksen ja kansainvälisten konfliktien keskellä sodanjälkeisistä vuosista neuvostoimperiumin romahdukseen. Se on kertomus kansakunnasta, joka vastoin todennäköisyyksiä kypsyi torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
+"desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
 "last": "2026-11-06"
 },
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-09"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -236,7 +236,7 @@
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
 "desc": "Kahden miehen traaginen komedia, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat elämän eri vaiheissa pitäen yhteensä 15 erilaista roolia. Näytelmä yhdistää ihmiskohtaloita ja kokemuksia Irlannin historiaan.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-09"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
 "theatre": "Svenska Teatern",
@@ -515,9 +515,9 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
-"desc": "Vaikuttava draama Britannian entisen pääministeri Margaret Thatcherin ja hotellityöntekijä Lindan kohtaamisesta, joka käsittelee poliittisten päätösten vaikutusta tavallisten ihmisten elämään. Esityksessä yhdistyvät peri-inhimilliset teemat muistamisesta, unohtamisesta ja anteeksiantamisesta.",
+"desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
 "last": "2026-11-07"
 },
@@ -1029,7 +1029,7 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/anonyma-korister/",
 "desc": "Lämmin ja hauska musikaali kuorosta, jossa on tilaa sekä dramaattisille käänteille että unelmille. Esityksessä kuullaan kapellimestari Martin Segerstrålen ja musikaaliartisti Josefin Silénin kirjoittamia uusia lauluja.",
 "dv": 2,
-"last": "2026-11-08"
+"last": "2026-11-09"
 },
 "/teatteri/suomen-komediateatteri/hevisaurus-rayhaisimmat-keikat/": {
 "theatre": "Suomen Komediateatteri",
@@ -1045,5 +1045,20 @@
 "desc": "Hevisaurus-yhtyeen räyhäisä ja energinen keikka, jossa dinosaurukset ja lohikäärme esittävät hevimusiikkia koko perheelle. Esityksessä kuullaan tutut kappaleet ja yleisö pääsee osallistumaan vauhdikkaan show'n toimintaan.",
 "dv": 2,
 "last": "2026-11-08"
+},
+"/teatteri/teatteri-vantaa/retrodisko/": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Aulateatteri",
+"title": "Retrodisko",
+"genre": "Komedia",
+"dur": 120,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/retrodisko/",
+"desc": "Retromusiikkiin ja hilpeään tunnelmaan perustuva kahden tunnin disko-tapahtuma, jossa DJ Ellu Eskola soittaa levylautasen ääressä ja Minna Kivelä vetää ohjelmaa. Tapahtuma on suunnattu erityisesti ikääntyneille, jotka voivat tanssia ja nauttia mukavasta päivän alkuhetkeä.",
+"dv": 2,
+"last": "2026-11-05"
 }
 }
