@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitusta romaanista sovitettu näytelmä tutkii muistia, traumaa ja historiaa monitasoisena näyttämöpalapelina. Esitys käsittelee kadonneen romaanin etsintää, jonka keskiössä on Auschwitzin kokemusten varjossa elänyt kirjailija.",
+"desc": "Kansallisteatteri tuo näyttämölle Nobel-palkitun Imre Kertészin romaanin Lopetus monitasoisena näyttämöpalapelinä, joka tutkii muistia, trauman jälkiä ja historiaa. Esitys seuraa kustannustoimittajaa, joka etsii kadonnutta romaania kuolleen kirjailijan jäämistöistä ja ajautuu pakkomielteisen salapeliksi.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-07"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
@@ -64,15 +64,15 @@
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
 "title": "Viidakon villit naiset",
-"genre": "Komedia",
+"genre": "Draama",
 "dur": 165,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotantoon, jossa he kohtaavat viidakon haasteet anarkistisen komedian ja viihdeteollisuuden satiirisessa kuvastossa. Esitys sekoittaa tosi-tv-teatteria, kilpailutehtäviä ja ennennäkemätöntä energiaa Kansallisteatteri Suuren näyttämön lavalla.",
+"desc": "Kristian Medsin ohjaamat Viidakon villit naiset on Suomen Kansallisteatteri Suuren näyttämön esitys, jossa tutkitaan naisten elämää ja kokemuksia. Esityksessä käytetään voimakkaita ääni- ja valotehosteitaan.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-10"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -131,7 +131,7 @@
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
 "desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista henkilöistä. Kun pelot kasvavat, pintaan nousevat epäluulo, ahdistus ja vanhat naapuriristiriidat, kunnes turvallisuuden tunne horjuu ja \"me\" muuttuu \"heiksi\".",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -189,9 +189,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
-"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esitys on koskettava ja runollinen ylistyslaulu taiteelle ja viihteelle, jossa nähdään Loirin tunnetuimpia roolihahmo ja kuullaan hänelle tärkeitä musiikkikappaleita.",
+"desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
 "dv": 2,
-"last": "2026-10-30"
+"last": "2026-11-10"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -236,7 +236,7 @@
 "page": "https://hkt.fi/esitykset/kivia-taskussa/",
 "desc": "Kahden miehen traaginen komedia, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat elämän eri vaiheissa pitäen yhteensä 15 erilaista roolia. Näytelmä yhdistää ihmiskohtaloita ja kokemuksia Irlannin historiaan.",
 "dv": 2,
-"last": "2026-11-09"
+"last": "2026-11-10"
 },
 "/teatteri/svenska-teatern/sista-brevet-fran-fronten/": {
 "theatre": "Svenska Teatern",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-07"
+"last": "2026-11-10"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -515,7 +515,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
@@ -752,14 +752,14 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": 130,
-"inter": true,
+"dur": null,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-10"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -999,7 +999,7 @@
 "page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
 "desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-10"
 },
 "/teatteri/suomen-kansallisteatteri/timo-tuominen-rendez-vous-avec-brel/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1060,5 +1060,20 @@
 "desc": "Retromusiikkiin ja hilpeään tunnelmaan perustuva kahden tunnin disko-tapahtuma, jossa DJ Ellu Eskola soittaa levylautasen ääressä ja Minna Kivelä vetää ohjelmaa. Tapahtuma on suunnattu erityisesti ikääntyneille, jotka voivat tanssia ja nauttia mukavasta päivän alkuhetkeä.",
 "dv": 2,
 "last": "2026-11-05"
+},
+"/teatteri/suomen-kansallisteatteri/viides-askel/": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Taivassali",
+"title": "Viides askel",
+"genre": "Komedia",
+"dur": 90,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
+"desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
+"dv": 2,
+"last": "2026-11-10"
 }
 }
