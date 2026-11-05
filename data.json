@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-04T06:31+02:00",
-"from": "2026-11-04",
-"to": "2026-11-10",
+"updated": "2026-11-05T06:34+02:00",
+"from": "2026-11-05",
+"to": "2026-11-11",
 "productions": {
 "suomen-kansallisteat-lady-t": {
 "theatre": "Suomen Kansallisteatteri",
@@ -12,23 +12,9 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
-"dv": 2
-},
-"suomen-kansallisteat-lopetus": {
-"theatre": "Suomen Kansallisteatteri",
-"city": "Helsinki",
-"stage": "Pieni näyttämö",
-"title": "Lopetus",
-"genre": "Draama",
-"dur": 170,
-"inter": true,
-"lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
-"page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Kansallisteatteri tuo näyttämölle Nobel-palkitun Imre Kertészin romaanin Lopetus monitasoisena näyttämöpalapelinä, joka tutkii muistia, trauman jälkiä ja historiaa. Esitys seuraa kustannustoimittajaa, joka etsii kadonnutta romaania kuolleen kirjailijan jäämistöistä ja ajautuu pakkomielteisen salapeliksi.",
 "dv": 2
 },
 "suomen-kansallisteat-timo-tuominen-rendez-vous-avec-brel": {
@@ -54,7 +40,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2
@@ -85,34 +71,6 @@
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
-"dv": 2
-},
-"helsingin-kaupungint-nar-baba-faller-i-poolen-ar-kl-23-47": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Lilla Teatern",
-"title": "När Baba faller i poolen är kl. 23.47",
-"genre": "Draama",
-"dur": 80,
-"inter": false,
-"lang": "ruotsi",
-"subs": "suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
-"page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
-"desc": "Näytelmä kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui sosiaalisesti vaikeaan tilanteeseen. Tarina käsittelee identiteettiä, häpeää ja yhteiskunnallisia murroksia.",
-"dv": 2
-},
-"helsingin-kaupungint-kivia-taskussa": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Arena-näyttämö",
-"title": "Kiviä taskussa",
-"genre": "Komedia",
-"dur": 135,
-"inter": null,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/kivia-taskussa/",
-"desc": "Kahden miehen traaginen komedia, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat elämän eri vaiheissa pitäen yhteensä 15 erilaista roolia. Näytelmä yhdistää ihmiskohtaloita ja kokemuksia Irlannin historiaan.",
 "dv": 2
 },
 "helsingin-kaupungint-kaksitoista-lahjaa-joulupukille": {
@@ -169,6 +127,20 @@
 "subs": "Subtitle Mobile -sovelluksella suomeksi, ruotsiksi ja englanniksi; englanniksi lauletut laulut eivät ole tekijänoikeussyistä tekstitetyt",
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
+"dv": 2
+},
+"helsingin-kaupungint-kivia-taskussa": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö",
+"title": "Kiviä taskussa",
+"genre": "Komedia",
+"dur": 135,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/kivia-taskussa/",
+"desc": "Kahden miehen traaginen komedia, jossa Charlie ja Jake, joita esittävät Martti Suosalo ja Mika Nuojua, kulkevat elämän eri vaiheissa pitäen yhteensä 15 erilaista roolia. Näytelmä yhdistää ihmiskohtaloita ja kokemuksia Irlannin historiaan.",
 "dv": 2
 },
 "helsingin-kaupungint-kotijoukot": {
@@ -283,6 +255,20 @@
 "desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
 "dv": 2
 },
+"kom-teatteri-naytelmatehdas": {
+"theatre": "KOM-teatteri",
+"city": "Helsinki",
+"stage": "KOM-teatteri",
+"title": "Näytelmätehdas",
+"genre": "Draama",
+"dur": 105,
+"inter": true,
+"lang": "suomi ja englanti",
+"subs": null,
+"page": "https://kom-teatteri.fi/ohjelmisto/naytelmatehdas/",
+"desc": "Näytelmätehdas on Teatterikorkeakoulun opiskelijoiden kokeellinen projekti, jossa kuusi pienoisnäytelmää kirjoitetaan ja toteutetaan teollistetun prosessin kaltaisesti lyhyellä aikataululla. Esityksessä nähdään opiskelijoiden ja KOM-teatterin näyttelijöiden esittämiä, kaksi viikossa kirjoitettuja ja kahdessa päivässä harjoiteltuja lyhyitä näytelmiä.",
+"dv": 2
+},
 "teatteri-jurkka-vayla": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
@@ -365,6 +351,20 @@
 "desc": "Lämmin ja hauska musikaali kuorosta, jossa on tilaa sekä dramaattisille käänteille että unelmille. Esityksessä kuullaan kapellimestari Martin Segerstrålen ja musikaaliartisti Josefin Silénin kirjoittamia uusia lauluja.",
 "dv": 2
 },
+"suomen-komediateatte-hevisaurus-rayhaisimmat-keikat": {
+"theatre": "Suomen Komediateatteri",
+"city": "Helsinki",
+"stage": "Peacock-näyttämö",
+"title": "Hevisaurus – Räyhäisimmät keikat!",
+"genre": "Lapsille",
+"dur": 60,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://suomenkomediateatteri.fi/esitykset/hevisaurus-isanpaivan-rayhaisin-keikka/",
+"desc": "Hevisaurus-yhtye esittää perheille suunnattua räyhävää hevimusiikkia dinosaurus- ja lohikäärmehahmojen kanssa. Tunnin mittaisessa keikassa kuullaan tutut kappaleet ja koko yleisö pääsee osallistumaan vauhdikkaaseen showun.",
+"dv": 2
+},
 "teatteri-vantaa-ikitahti-annikki-tahden-tarina": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
@@ -381,79 +381,6 @@
 }
 },
 "showings": [
-{
-"p": "aleksanterin-teatter-stella-x-tsuumi-pridgerton",
-"date": "2026-11-04",
-"time": "18.30",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2146",
-"note": "PUKEUDU PRIDGERTÖNIKSI"
-},
-{
-"p": "helsingin-kaupungint-kivia-taskussa",
-"date": "2026-11-04",
-"time": "18.30",
-"price": null,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/kivia-taskussa-helsinki-helsingin-kaupunginteatteri-arena-nayttamo-20865015/?affiliate=HKK&language=fi"
-},
-{
-"p": "helsingin-kaupungint-nar-baba-faller-i-poolen-ar-kl-23-47",
-"date": "2026-11-04",
-"time": "18.30",
-"price": null,
-"avail": "many",
-"url": "https://www.lippu.fi/event/nar-baba-faller-i-poolen-ar-kl-23-47-helsingin-kaupunginteatteri-lilla-teatern-22019567/?affiliate=HKK&language=fi"
-},
-{
-"p": "kom-teatteri-poiskatsojat",
-"date": "2026-11-04",
-"time": "18.30",
-"price": 46,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
-},
-{
-"p": "ryhmateatteri-aitisi-klytaimestra",
-"date": "2026-11-04",
-"time": "18.30",
-"price": null,
-"avail": "many",
-"url": "https://www.tiketti.fi/tapahtuma/118096"
-},
-{
-"p": "suomen-kansallisteat-lopetus",
-"date": "2026-11-04",
-"time": "18.30",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/lopetus-suomen-kansallisteatteri-21645836/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-viidakon-villit-naiset",
-"date": "2026-11-04",
-"time": "18.30",
-"price": 48,
-"avail": "few",
-"url": "https://www.lippu.fi/event/viidakon-villit-naiset-suomen-kansallisteatteri-21645930/?affiliate=ADV&language=fi"
-},
-{
-"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
-"date": "2026-11-04",
-"time": "18.30",
-"price": null,
-"avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/"
-},
-{
-"p": "teatteri-jurkka-vayla",
-"date": "2026-11-04",
-"time": "19.00",
-"price": null,
-"avail": "sold",
-"url": "https://www.jurkka.fi/kalenteri/"
-},
 {
 "p": "helsingin-kaupungint-kaksitoista-lahjaa-joulupukille",
 "date": "2026-11-05",
@@ -530,10 +457,10 @@
 "p": "teatteri-avoimet-ove-soteorpo",
 "date": "2026-11-06",
 "time": "14.00",
-"price": 0,
+"price": 42,
 "avail": "sold",
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
-"note": "Omaishoitajien maksunäytäntö (täynnä), ikärajaton"
+"note": "Ikärajaton"
 },
 {
 "p": "aleksanterin-teatter-kuningatar-leena",
@@ -656,14 +583,6 @@
 "url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
 },
 {
-"p": "suomen-kansallisteat-lopetus",
-"date": "2026-11-07",
-"time": "13.00",
-"price": 49,
-"avail": "many",
-"url": "https://www.lippu.fi/event/lopetus-suomen-kansallisteatteri-21645837/?affiliate=ADV&language=fi"
-},
-{
 "p": "suomen-kansallisteat-viidakon-villit-naiset",
 "date": "2026-11-07",
 "time": "13.00",
@@ -708,7 +627,7 @@
 "date": "2026-11-07",
 "time": "16.00",
 "price": null,
-"avail": "few",
+"avail": "sold",
 "url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12275/9326/"
 },
 {
@@ -716,7 +635,7 @@
 "date": "2026-11-07",
 "time": "16.00",
 "price": 47,
-"avail": "unknown",
+"avail": "few",
 "url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
 "note": "Tekijät tutuiksi -keskustelu esityksen jälkeen"
 },
@@ -818,6 +737,15 @@
 "url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21437902/?affiliate=HKK&language=fi"
 },
 {
+"p": "suomen-komediateatte-hevisaurus-rayhaisimmat-keikat",
+"date": "2026-11-08",
+"time": "14.00",
+"price": 24,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/suomen-komediateatteri/hevisaurus-isaenpaeivaen-raeyhaeisin-keikka-4252757/",
+"note": "Isänpäivän räyhäisin keikka"
+},
+{
 "p": "aleksanterin-teatter-anonyma-korister",
 "date": "2026-11-08",
 "time": "18.00",
@@ -856,15 +784,15 @@
 "price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028589/?affiliate=HKK&language=fi",
-"seats": 20
+"seats": 18
 },
 {
 "p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
 "date": "2026-11-10",
 "time": "14.00",
-"price": null,
+"price": 24,
 "avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/"
+"url": "https://embed.netticket.fi/ikitahti-vantaa"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -886,7 +814,7 @@
 "p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
 "date": "2026-11-10",
 "time": "18.30",
-"price": 64,
+"price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426649/?affiliate=HKK&language=fi"
 },
@@ -909,6 +837,103 @@
 {
 "p": "teatteri-jurkka-vayla",
 "date": "2026-11-10",
+"time": "19.00",
+"price": null,
+"avail": "sold",
+"url": "https://www.jurkka.fi/kalenteri/"
+},
+{
+"p": "helsingin-kaupungint-kaksitoista-lahjaa-joulupukille",
+"date": "2026-11-11",
+"time": "10.00",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028590/?affiliate=HKK&language=fi",
+"seats": 16
+},
+{
+"p": "kom-teatteri-naytelmatehdas",
+"date": "2026-11-11",
+"time": "14.00",
+"price": 10,
+"avail": "many",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=75"
+},
+{
+"p": "aleksanterin-teatter-stella-x-tsuumi-pridgerton",
+"date": "2026-11-11",
+"time": "18.30",
+"price": null,
+"avail": "unknown",
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2148"
+},
+{
+"p": "helsingin-kaupungint-de-obehoriga",
+"date": "2026-11-11",
+"time": "18.30",
+"price": null,
+"avail": "few",
+"url": "https://www.lippu.fi/event/de-obehoriga-helsingin-kaupunginteatteri-lilla-teatern-21462635/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-kotijoukot",
+"date": "2026-11-11",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/kotijoukot-helsingin-kaupunginteatteri-arena-nayttamo-21462585/?affiliate=HKK&language=fi"
+},
+{
+"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
+"date": "2026-11-11",
+"time": "18.30",
+"price": null,
+"avail": "sold",
+"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21426650/?affiliate=HKK&language=fi"
+},
+{
+"p": "kom-teatteri-naytelmatehdas",
+"date": "2026-11-11",
+"time": "18.30",
+"price": 10,
+"avail": "sold",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=75"
+},
+{
+"p": "ryhmateatteri-aitisi-klytaimestra",
+"date": "2026-11-11",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.tiketti.fi/tapahtuma/118100"
+},
+{
+"p": "suomen-kansallisteat-lady-t",
+"date": "2026-11-11",
+"time": "18.30",
+"price": 49,
+"avail": "few",
+"url": "https://www.lippu.fi/event/lady-t-pieni-nayttamo-suomen-kansallisteatteri-22025998/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-toinen-tasavalta",
+"date": "2026-11-11",
+"time": "18.30",
+"price": 52,
+"avail": "few",
+"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21645862/?affiliate=ADV&language=fi"
+},
+{
+"p": "teatteri-avoimet-ove-soteorpo",
+"date": "2026-11-11",
+"time": "18.30",
+"price": 42,
+"avail": "few",
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+},
+{
+"p": "teatteri-jurkka-vayla",
+"date": "2026-11-11",
 "time": "19.00",
 "price": null,
 "avail": "sold",
@@ -971,8 +996,7 @@
 {
 "name": "Suomen Komediateatteri",
 "city": "Helsinki",
-"status": "none",
-"note": "Ei näytöksiä tai ajat eivät vielä haettavissa"
+"status": "ok"
 },
 {
 "name": "Suomen Kansallisooppera ja -baletti",

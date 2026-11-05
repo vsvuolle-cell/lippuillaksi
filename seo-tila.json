@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
-"last": "2026-11-06"
+"last": "2026-11-11"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -131,7 +131,7 @@
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
 "desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista henkilöistä. Kun pelot kasvavat, pintaan nousevat epäluulo, ahdistus ja vanhat naapuriristiriidat, kunnes turvallisuuden tunne horjuu ja \"me\" muuttuu \"heiksi\".",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-11"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-11"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-11"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-11"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-10"
+"last": "2026-11-11"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Mustan huumorin sävyttämä yhteiskunnallinen satiiri, joka kuvaa muistisairauden vaikutuksia parisuhteeseen. Esitys käsittelee omaishoitajan arjen raadollisuutta ja hoivajärjestelmän toimivuuden kysymyksiä.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-11"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -515,11 +515,11 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-11"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -909,7 +909,7 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
 "desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyön tuloksena syntyvä improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokainen esitys on oma itsenäinen kokonaisuutensa, jossa yhdistyvät komedia, tanssi, musiikki ja täydellinen arvaamattomuus.",
 "dv": 2,
-"last": "2026-11-05"
+"last": "2026-11-11"
 },
 "/teatteri/suomen-kansallisteatteri/lavaklubin-runoillat/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -999,7 +999,7 @@
 "page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
 "desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-11"
 },
 "/teatteri/suomen-kansallisteatteri/timo-tuominen-rendez-vous-avec-brel/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1035,14 +1035,14 @@
 "theatre": "Suomen Komediateatteri",
 "city": "Helsinki",
 "stage": "Peacock-näyttämö",
-"title": "Hevisaurus - Räyhäisimmät keikat!",
+"title": "Hevisaurus – Räyhäisimmät keikat!",
 "genre": "Lapsille",
 "dur": 60,
 "inter": false,
 "lang": "suomi",
 "subs": null,
 "page": "https://suomenkomediateatteri.fi/esitykset/hevisaurus-isanpaivan-rayhaisin-keikka/",
-"desc": "Hevisaurus-yhtyeen räyhäisä ja energinen keikka, jossa dinosaurukset ja lohikäärme esittävät hevimusiikkia koko perheelle. Esityksessä kuullaan tutut kappaleet ja yleisö pääsee osallistumaan vauhdikkaan show'n toimintaan.",
+"desc": "Hevisaurus-yhtye esittää perheille suunnattua räyhävää hevimusiikkia dinosaurus- ja lohikäärmehahmojen kanssa. Tunnin mittaisessa keikassa kuullaan tutut kappaleet ja koko yleisö pääsee osallistumaan vauhdikkaaseen showun.",
 "dv": 2,
 "last": "2026-11-08"
 },
@@ -1075,5 +1075,20 @@
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
 "last": "2026-11-10"
+},
+"/teatteri/kom-teatteri/naytelmatehdas/": {
+"theatre": "KOM-teatteri",
+"city": "Helsinki",
+"stage": "KOM-teatteri",
+"title": "Näytelmätehdas",
+"genre": "Draama",
+"dur": 105,
+"inter": true,
+"lang": "suomi ja englanti",
+"subs": null,
+"page": "https://kom-teatteri.fi/ohjelmisto/naytelmatehdas/",
+"desc": "Näytelmätehdas on Teatterikorkeakoulun opiskelijoiden kokeellinen projekti, jossa kuusi pienoisnäytelmää kirjoitetaan ja toteutetaan teollistetun prosessin kaltaisesti lyhyellä aikataululla. Esityksessä nähdään opiskelijoiden ja KOM-teatterin näyttelijöiden esittämiä, kaksi viikossa kirjoitettuja ja kahdessa päivässä harjoiteltuja lyhyitä näytelmiä.",
+"dv": 2,
+"last": "2026-11-11"
 }
 }
