@@ -10,7 +10,7 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Kansallisteatteri tuo näyttämölle Nobel-palkitun Imre Kertészin romaanin Lopetus monitasoisena näyttämöpalapelinä, joka tutkii muistia, trauman jälkiä ja historiaa. Esitys seuraa kustannustoimittajaa, joka etsii kadonnutta romaania kuolleen kirjailijan jäämistöistä ja ajautuu pakkomielteisen salapeliksi.",
+"desc": "Imre Kertészin Nobel-palkitun romaanin dramatisaatio tutkii muistia, traumaa ja menneisyyden varjoa kustannustoimittajan etsiessä kadonnutta mestariteosta. Näyttämöpalapeli käsittelee Auschwitzin kautta Euroopan viime vuosisadan katastrofeja ja sosialismin romahduksen hämmennystä.",
 "dv": 2,
 "last": "2026-11-07"
 },
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-12"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-12"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -281,7 +281,7 @@
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
 "desc": "Musikaali kertoo, kuinka maailmankokemuksella varustettu radiopari Fanny ja Zac saapuvat pieneen suomalaiseen kyläyhteisöön ja kääntävät kaiken ylösalaisin. Esityksessä törmäävät perinteet ja ennakkoluulot modernin glamourin ja vapauden vaatimuksiin, syntyen odottamattomia ystävyyksiä ja salaisuuksia.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-12"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
 "theatre": "Ryhmäteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-12"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -331,7 +331,7 @@
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Keuhkot",
+"stage": "Teatteri Jurkka",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -345,7 +345,7 @@
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Väylä",
+"stage": "Teatteri Jurkka",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-11"
+"last": "2026-11-12"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -515,7 +515,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile)",
+"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
@@ -752,14 +752,14 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": null,
-"inter": null,
+"dur": 130,
+"inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-12"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -875,11 +875,11 @@
 "dur": 80,
 "inter": false,
 "lang": "ruotsi",
-"subs": "suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
+"subs": "Tekstitys suomeksi, ruotsiksi ja englanniksi Subtitle Mobile -sovelluksen kautta",
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
-"desc": "Näytelmä kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen Baballe tapahtui, kun hän joutui sosiaalisesti vaikeaan tilanteeseen. Tarina käsittelee identiteettiä, häpeää ja yhteiskunnallisia murroksia.",
+"desc": "Esitys kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen on tapahtunut, kun tämä joutuu sosiaalisesti häpäisevään tilanteeseen. Näytelmä käsittelee työelämän muutoksia, yhteiskuntaa ja identiteettiä sekä sitä, miten ihmisarvo on vaarassa kadota turvan hävitessä.",
 "dv": 2,
-"last": "2026-11-04"
+"last": "2026-11-12"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -1035,14 +1035,14 @@
 "theatre": "Suomen Komediateatteri",
 "city": "Helsinki",
 "stage": "Peacock-näyttämö",
-"title": "Hevisaurus – Räyhäisimmät keikat!",
+"title": "Hevisaurus - Räyhäisimmät keikat!",
 "genre": "Lapsille",
 "dur": 60,
-"inter": false,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://suomenkomediateatteri.fi/esitykset/hevisaurus-isanpaivan-rayhaisin-keikka/",
-"desc": "Hevisaurus-yhtye esittää perheille suunnattua räyhävää hevimusiikkia dinosaurus- ja lohikäärmehahmojen kanssa. Tunnin mittaisessa keikassa kuullaan tutut kappaleet ja koko yleisö pääsee osallistumaan vauhdikkaaseen showun.",
+"desc": "Hevisaurus-yhtye esittää perheille suunnattua räyskyvää hevimusiikkiesitystä, jossa dinosaurusten muodostama bändi ja lohikäärme esittävät tuttuja kappaleitaan ja viihdyttävät yleisöä vauhdikkaalla showlla.",
 "dv": 2,
 "last": "2026-11-08"
 },
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-12"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
