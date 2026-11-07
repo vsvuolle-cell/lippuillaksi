@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanin dramatisaatio tutkii muistia, traumaa ja menneisyyden varjoa kustannustoimittajan etsiessä kadonnutta mestariteosta. Näyttämöpalapeli käsittelee Auschwitzin kautta Euroopan viime vuosisadan katastrofeja ja sosialismin romahduksen hämmennystä.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-13"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys suomeksi ja englanniksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Medsin ohjaamat Viidakon villit naiset on Suomen Kansallisteatteri Suuren näyttämön esitys, jossa tutkitaan naisten elämää ja kokemuksia. Esityksessä käytetään voimakkaita ääni- ja valotehosteitaan.",
 "dv": 2,
-"last": "2026-11-10"
+"last": "2026-11-13"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -144,9 +144,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
-"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen tarina ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
+"desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen kertomus ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-10-28"
+"last": "2026-11-13"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-11-09"
+"last": "2026-11-13"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -266,7 +266,7 @@
 "page": "https://svenskateatern.fi/repertoar/nattland/",
 "desc": "Kaksi sisarusta löytää isänsä talosta 1920-luvun Wienin maalauksen, jonka allekirjoitus on joko A. Hiller tai A. Hitler. Tämä löytö johtaa absurdiin kamppailuun rahasta, prestiigiistä ja perintöstä.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-13"
 },
 "/teatteri/svenska-teatern/anglagard/": {
 "theatre": "Svenska Teatern",
@@ -281,7 +281,7 @@
 "page": "https://svenskateatern.fi/repertoar/anglagard/",
 "desc": "Musikaali kertoo, kuinka maailmankokemuksella varustettu radiopari Fanny ja Zac saapuvat pieneen suomalaiseen kyläyhteisöön ja kääntävät kaiken ylösalaisin. Esityksessä törmäävät perinteet ja ennakkoluulot modernin glamourin ja vapauden vaatimuksiin, syntyen odottamattomia ystävyyksiä ja salaisuuksia.",
 "dv": 2,
-"last": "2026-11-12"
+"last": "2026-11-13"
 },
 "/teatteri/ryhmateatteri/aitisi-klytaimestra/": {
 "theatre": "Ryhmäteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-12"
+"last": "2026-11-13"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -309,9 +309,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
-"desc": "Esitys käsittelee suomalaisten poliitikkojen ja länsimaiden suhtautumista Gazan kriisiin. Journalistisesti perustuva teos tutkii, miksi maailma kääntyy pois vakavista humanitaarisista katastrofeista.",
+"desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan tragedian äärellä. Faktapohjaisesti kirjoitettu teos tarkastaa suomalaisten päättäjien valintoja kriisillisen tilanteen edessä mustan huumorin ja satiirin keinoin.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-13"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -331,7 +331,7 @@
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Keuhkot",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -339,13 +339,13 @@
 "lang": null,
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
-"desc": "",
-"last": "2026-11-07"
+"desc": "Esityksen tarkat tiedot eivät ole saatavilla kalenterisivulla.",
+"last": "2026-11-13"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Väylä",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -353,7 +353,7 @@
 "lang": null,
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
-"desc": "",
+"desc": "Esityksen tarkat tiedot eivät ole saatavilla kalenterisivulla.",
 "last": "2026-11-12"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Mustan huumorin sävyttämä yhteiskunnallinen satiiri, joka kuvaa muistisairauden vaikutuksia parisuhteeseen. Esitys käsittelee omaishoitajan arjen raadollisuutta ja hoivajärjestelmän toimivuuden kysymyksiä.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-13"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -515,7 +515,7 @@
 "dur": 125,
 "inter": true,
 "lang": "suomi",
-"subs": "englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
 "dv": 2,
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen on tapahtunut, kun tämä joutuu sosiaalisesti häpäisevään tilanteeseen. Näytelmä käsittelee työelämän muutoksia, yhteiskuntaa ja identiteettiä sekä sitä, miten ihmisarvo on vaarassa kadota turvan hävitessä.",
 "dv": 2,
-"last": "2026-11-12"
+"last": "2026-11-13"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -1038,7 +1038,7 @@
 "title": "Hevisaurus - Räyhäisimmät keikat!",
 "genre": "Lapsille",
 "dur": 60,
-"inter": null,
+"inter": false,
 "lang": "suomi",
 "subs": null,
 "page": "https://suomenkomediateatteri.fi/esitykset/hevisaurus-isanpaivan-rayhaisin-keikka/",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-12"
+"last": "2026-11-13"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1090,5 +1090,35 @@
 "desc": "Näytelmätehdas on Teatterikorkeakoulun opiskelijoiden kokeellinen projekti, jossa kuusi pienoisnäytelmää kirjoitetaan ja toteutetaan teollistetun prosessin kaltaisesti lyhyellä aikataululla. Esityksessä nähdään opiskelijoiden ja KOM-teatterin näyttelijöiden esittämiä, kaksi viikossa kirjoitettuja ja kahdessa päivässä harjoiteltuja lyhyitä näytelmiä.",
 "dv": 2,
 "last": "2026-11-11"
+},
+"/teatteri/helsingin-kaupunginteatteri/iikka-kivi-protestinauru-stand-up-show/": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Arena-näyttämö",
+"title": "Iikka Kivi – Protestinauru Stand Up Show",
+"genre": "Komedia",
+"dur": 120,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/",
+"desc": "Stand up -koomikko Iikka Kiven koko illan komediaspesiaali, joka käsittelee keski-iän kriisiä ja globaaleja ongelmia huumorin keinoin. Esitys on innostava ja herättelevä verbaalinen esitys, joka vastustaa nykyisyyttä ja puolustaa tulevaisuuttamme.",
+"dv": 2,
+"last": "2026-11-13"
+},
+"/teatteri/aleksanterin-teatteri/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimm/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "ShoWhat with StepUp Dancers proudly presents: BIG BANG - Ensimmäinen jäähyväiskiertue",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimmainen-jaahyvaiskiertue/",
+"desc": "ShoWhat with StepUp Dancers esittää drag-viihdeshown, jossa Osku Heiskanen ja Jarkko Valtee sekä heidän tanssijansa esittävät ikonisia hahmoja ja tunnettujen artistien imitaatioita glitterillä kuorrutettuna.",
+"dv": 2,
+"last": "2026-11-13"
 }
 }
