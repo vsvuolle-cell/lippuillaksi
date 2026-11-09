@@ -10,9 +10,9 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitun romaanin dramatisaatio tutkii muistia, traumaa ja menneisyyden varjoa kustannustoimittajan etsiessä kadonnutta mestariteosta. Näyttämöpalapeli käsittelee Auschwitzin kautta Euroopan viime vuosisadan katastrofeja ja sosialismin romahduksen hämmennystä.",
+"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli tutkii muistia, traumaa ja historian varjoa. Kustannustoimittaja Keserű lähtee jäljittämään kadonnutta romaania ja ajautuu vuosia kestävään salapoliisimysteeriään, jonka keskiössä on itsensä surmanneet kirjailija B ja Auschwitz.",
 "dv": 2,
-"last": "2026-11-13"
+"last": "2026-11-14"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
 "dv": 2,
@@ -309,9 +309,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
-"desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan tragedian äärellä. Faktapohjaisesti kirjoitettu teos tarkastaa suomalaisten päättäjien valintoja kriisillisen tilanteen edessä mustan huumorin ja satiirin keinoin.",
+"desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-13"
+"last": "2026-11-14"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -382,9 +382,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia tarinassa unohdetusta iskelmäkuningattaresta Leenasta. Esitys käsittelee elämänvalintoja, rakkautta ja katastrofeja koskettavalla ja humoristisella tavalla.",
+"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetusta iskelmäkuningattaresta Leenasta. Esitys käsittelee elämänvalintoja, rakkautta ja katastrofeja vauhdikkaiden roolinvaihtojen ja värikään hahmogallerian kautta.",
 "dv": 2,
-"last": "2026-11-07"
+"last": "2026-11-15"
 },
 "/teatteri/aleksanterin-teatteri/luolamies/": {
 "theatre": "Aleksanterin teatteri",
@@ -532,9 +532,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta poikkeuksellisesta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulanto.",
+"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksen aikana kuulee myös Amalien laulavan.",
 "dv": 2,
-"last": "2026-10-25"
+"last": "2026-11-15"
 },
 "/teatteri/aleksanterin-teatteri/greta-tuotanto-sorkka-svengaa/": {
 "theatre": "Aleksanterin teatteri",
@@ -1117,9 +1117,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimmainen-jaahyvaiskiertue/",
-"desc": "ShoWhat with StepUp Dancers esittää drag-viihdeshown, jossa Osku Heiskanen ja Jarkko Valtee sekä heidän tanssijansa esittävät ikonisia hahmoja ja tunnettujen artistien imitaatioita glitterillä kuorrutettuna.",
+"desc": "ShoWhatin drag-viihteen kuninkaalliset Osku Heiskanen ja Jarkko Valtee esittävät loistavan näytöksen tanssijoidensa kanssa, joka on täynnä säihkettä, ikonisia hahmoja ja suosittuja klassikkoja sekä uusia yllätyshahmoja. Esitykseen mahtuu naurua, nostalgiaa, taidokkaita imitaatioita ja glitterillä kuorrutettuja ajankohtaisia ilmiöitä.",
 "dv": 2,
-"last": "2026-11-13"
+"last": "2026-11-14"
 },
 "/teatteri/suomen-kansallisteatteri/taru-hohtavasta-helmesta/": {
 "theatre": "Suomen Kansallisteatteri",
