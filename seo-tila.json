@@ -8,9 +8,9 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näyttämöpalapeli tutkii muistia, traumaa ja historian varjoa. Kustannustoimittaja Keserű lähtee jäljittämään kadonnutta romaania ja ajautuu vuosia kestävään salapoliisimysteeriään, jonka keskiössä on itsensä surmanneet kirjailija B ja Auschwitz.",
+"desc": "Imre Kertészin Nobel-palkitun romaanista Lopetus luodaan monitasoinen näyttämöpalapeli, joka seuraa kustannustoimittajaa kadonneen kirjailijan mysteerisessä teoksessa. Esitys tutkii muistia, traumaa ja historian varjoa nykyisyydessä.",
 "dv": 2,
 "last": "2026-11-14"
 },
@@ -53,9 +53,9 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
-"desc": "Esitys kertoo Suomen taistelusta säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisiltä vuosilta neuvostoimperiumin romahdukseen. Urho Kekkonen on esityksen keskushenkilö tässä historiallisessa katsauksessa.",
+"desc": "Esitys kertoo Suomen ponnisteluista säilyttää demokratiaa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisistä vuosista 1980-luvulle. Keskiössä on tarina kansakunnasta, joka kykeni torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
 "last": "2026-11-11"
 },
@@ -64,13 +64,13 @@
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
 "title": "Viidakon villit naiset",
-"genre": "Draama",
+"genre": "Komedia",
 "dur": 165,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Medsin ohjaamat Viidakon villit naiset on Suomen Kansallisteatteri Suuren näyttämön esitys, jossa tutkitaan naisten elämää ja kokemuksia. Esityksessä käytetään voimakkaita ääni- ja valotehosteitaan.",
+"desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotannon kaltaiseen kilpailuun viidakossa. Esitys yhdistää anarkistista komediaa, teatterinäyttelyä ja yleisön osallistumista absurdiin viidakon seikkailuun.",
 "dv": 2,
 "last": "2026-11-14"
 },
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-17"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -340,7 +340,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-14"
+"last": "2026-11-17"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
@@ -900,14 +900,14 @@
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "Stella x Tsuumi PRIDGERTÖN",
+"title": "Stella x Tsuumi: PRIDGERTÖN",
 "genre": "Komedia",
 "dur": 120,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
-"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyön tuloksena syntyvä improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen. Jokainen esitys on oma itsenäinen kokonaisuutensa, jossa yhdistyvät komedia, tanssi, musiikki ja täydellinen arvaamattomuus.",
+"desc": "Epävirallinen ja improvisoitu parodia suositusta suoratoistosarjasta, jossa yhdistyvät romantiikka, juonailu ja skandaalit regency-pukujen maailmassa. Esityksessä esiintyy näyttelijöitä, tanssijia ja muusikoita, ja jokainen esitys on omansa erilainen improvisoinnin ansiosta.",
 "dv": 2,
 "last": "2026-11-11"
 },
@@ -999,7 +999,7 @@
 "page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
 "desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-17"
 },
 "/teatteri/suomen-kansallisteatteri/timo-tuominen-rendez-vous-avec-brel/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1125,16 +1125,16 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmesta",
+"title": "Taru hohtavasta helmestä",
 "genre": "Lapsille",
 "dur": null,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva tarina Mestaritontun seikkailuista, joka tuo teatteriin mielikuvituksen ja taikaansa. Esitys on suositeltu yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva, Minna Leinon dramatisoimä esitys, joka yhdistää mielikuvituksen ja teatterin taikat. Esitys sopii yli 6-vuotiaille lapsille.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-17"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1165,5 +1165,20 @@
 "desc": "Esitys käsittelee taiteilija Reidar Särestöniemen henkistä perintöä ja kutsuu esiin taiteen sekä henkimaailman välistä yhteyttä. Illassa on mukana musiikkia, meditaatiota, tarinankerrontaa ja runouden sekä hiljaisuuden ja havinan vuorottelua.",
 "dv": 2,
 "last": "2026-11-16"
+},
+"/teatteri/aleksanterin-teatteri/laura-haimila-ursula-herlin-pari-juttuu-k-18/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Laura Haimila & Ursula Herlin: Pari Juttuu, K-18",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/laura-haimila-ursula-herlin-pari-juttuu-k-18/",
+"desc": "Laura Haimila ja Ursula Herlin esittävät stand up -showta, joka käsittelee rakkautta, arjen haasteita ja parisuhteen huumoria kahden naisen näkökulmasta.",
+"dv": 2,
+"last": "2026-11-17"
 }
 }
