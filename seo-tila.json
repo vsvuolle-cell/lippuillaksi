@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
 "dv": 2,
-"last": "2026-11-16"
+"last": "2026-11-18"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-18"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-17"
+"last": "2026-11-18"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -340,7 +340,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-17"
+"last": "2026-11-18"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
@@ -900,16 +900,16 @@
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "Stella x Tsuumi: PRIDGERTÖN",
+"title": "Stella x Tsuumi PRIDGERTÖN",
 "genre": "Komedia",
 "dur": 120,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/stella-x-tsuumi-pridgerton/",
-"desc": "Epävirallinen ja improvisoitu parodia suositusta suoratoistosarjasta, jossa yhdistyvät romantiikka, juonailu ja skandaalit regency-pukujen maailmassa. Esityksessä esiintyy näyttelijöitä, tanssijia ja muusikoita, ja jokainen esitys on omansa erilainen improvisoinnin ansiosta.",
+"desc": "Stella Polariksen ja Tanssiteatteri Tsuumin yhteistyönä toteutettu improvisoitu parodia suoratoistohitistä, jossa romantiikka, juonittelu ja skandaali kietoutuvat yhteen tanssin ja musiikin kera. Jokainen esitys on oma itsenäinen kokonaisuutensa täydellisen arvaamattomuuden kera.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-18"
 },
 "/teatteri/suomen-kansallisteatteri/lavaklubin-runoillat/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -999,7 +999,7 @@
 "page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
 "desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2,
-"last": "2026-11-17"
+"last": "2026-11-18"
 },
 "/teatteri/suomen-kansallisteatteri/timo-tuominen-rendez-vous-avec-brel/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-18"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1125,16 +1125,16 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmestä",
+"title": "Taru hohtavasta helmesta",
 "genre": "Lapsille",
-"dur": null,
+"dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva, Minna Leinon dramatisoimä esitys, joka yhdistää mielikuvituksen ja teatterin taikat. Esitys sopii yli 6-vuotiaille lapsille.",
+"desc": "Aili Somersalon teokseen perustuva draama Mestaritontun seikkailuista, joka yhdistää mielikuvitusta ja teatterin taikaa. Esitys on suositeltu yli 6-vuotiaille.",
 "dv": 2,
-"last": "2026-11-17"
+"last": "2026-11-18"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
