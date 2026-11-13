@@ -10,9 +10,9 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitun romaanista Lopetus luodaan monitasoinen näyttämöpalapeli, joka seuraa kustannustoimittajaa kadonneen kirjailijan mysteerisessä teoksessa. Esitys tutkii muistia, traumaa ja historian varjoa nykyisyydessä.",
+"desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-18"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -70,7 +70,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
-"desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista osallistuu tosi-tv-tuotannon kaltaiseen kilpailuun viidakossa. Esitys yhdistää anarkistista komediaa, teatterinäyttelyä ja yleisön osallistumista absurdiin viidakon seikkailuun.",
+"desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista valitaan uuden tosi-tv-tuotannon tähdiksi ja heitetään viidakkoon anarkistiseen komedian seikkailu täynnä kilpailutehtäviä ja dramaattisia hetkiä. Esitys yhdistää tosi-tv-teatteri-konseptin, anarkistisen komedian ja teatteriseuran osallistumisen.",
 "dv": 2,
 "last": "2026-11-14"
 },
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-19"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -191,7 +191,7 @@
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-19"
 },
 "/teatteri/helsingin-kaupunginteatteri/elolliset/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-19"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -340,12 +340,12 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-18"
+"last": "2026-11-19"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Väylä",
+"stage": "Teatteri Jurkka",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen on tapahtunut, kun tämä joutuu sosiaalisesti häpäisevään tilanteeseen. Näytelmä käsittelee työelämän muutoksia, yhteiskuntaa ja identiteettiä sekä sitä, miten ihmisarvo on vaarassa kadota turvan hävitessä.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-19"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -1119,7 +1119,7 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimmainen-jaahyvaiskiertue/",
 "desc": "ShoWhatin drag-viihteen kuninkaalliset Osku Heiskanen ja Jarkko Valtee esittävät loistavan näytöksen tanssijoidensa kanssa, joka on täynnä säihkettä, ikonisia hahmoja ja suosittuja klassikkoja sekä uusia yllätyshahmoja. Esitykseen mahtuu naurua, nostalgiaa, taidokkaita imitaatioita ja glitterillä kuorrutettuja ajankohtaisia ilmiöitä.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-19"
 },
 "/teatteri/suomen-kansallisteatteri/taru-hohtavasta-helmesta/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1134,7 +1134,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
 "desc": "Aili Somersalon teokseen perustuva draama Mestaritontun seikkailuista, joka yhdistää mielikuvitusta ja teatterin taikaa. Esitys on suositeltu yli 6-vuotiaille.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-19"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1162,7 +1162,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/lapin-faarao",
-"desc": "Esitys käsittelee taiteilija Reidar Särestöniemen henkistä perintöä ja kutsuu esiin taiteen sekä henkimaailman välistä yhteyttä. Illassa on mukana musiikkia, meditaatiota, tarinankerrontaa ja runouden sekä hiljaisuuden ja havinan vuorottelua.",
+"desc": "Esitys tutkii taiteilija Reidar Särestöniemen henkistä perintöä ja kutsuu esiin taiteen ja henkimaailman välistä liittoa. Illan ohjelmistoon kuuluu musiikkia, meditaatiota, tietovisaa ja yhteyttä henkimaailmaan.",
 "dv": 2,
 "last": "2026-11-16"
 },
@@ -1174,11 +1174,41 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": "suomi",
+"lang": null,
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/laura-haimila-ursula-herlin-pari-juttuu-k-18/",
-"desc": "Laura Haimila ja Ursula Herlin esittävät stand up -showta, joka käsittelee rakkautta, arjen haasteita ja parisuhteen huumoria kahden naisen näkökulmasta.",
+"desc": "Laura Haimila ja Ursula Herlin esittävät stand up -show'n rakkaudesta, perheellistä ja arjen haasteista. Kaksin esiintyvät naiset saavat katsojat nauramaan, nyökkäilemään ja ehkä vähän punastumaankin omalla lämpimällä ja röyhkeän hauskalla tavallaan.",
 "dv": 2,
 "last": "2026-11-17"
+},
+"/teatteri/helsingin-kaupunginteatteri/no-no/": {
+"theatre": "Helsingin Kaupunginteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "no-no",
+"genre": "Ooppera ja tanssi",
+"dur": 75,
+"inter": false,
+"lang": "suomi",
+"subs": null,
+"page": "https://hkt.fi/esitykset/no-no-2/",
+"desc": "Kenneth Kvarnströmin klassikkotyö no-no on intensiivinen nykytanssin esitys, joka tasapainoilee äärimmäisen fyysisyyden ja sensuellin runollisuuden välillä. Teos avautuu katsojalle voimakkaana liikerituaalina, joka puhuttelee kehoa ja sielua ilman selkeitä temaattisia selityksiä.",
+"dv": 2,
+"last": "2026-11-19"
+},
+"/teatteri/svenska-teatern/onko-taalla-kuuma/": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "AMOS-scenen",
+"title": "Onko täällä kuuma?",
+"genre": "Komedia",
+"dur": 100,
+"inter": false,
+"lang": "ruotsi",
+"subs": null,
+"page": "https://svenskateatern.fi/repertoar/onko-taalla-kuuma/",
+"desc": "Anna Hultinin monologi ja manifesti klimakterista, jossa tutkitaan vaihdevuosien biologiaa ja historiaa huumorin ja rohkeuden kera. Esitys on sekä kansansivistystä että viihdettä.",
+"dv": 2,
+"last": "2026-11-19"
 }
 }
