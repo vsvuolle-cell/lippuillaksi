@@ -8,11 +8,11 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-20"
 },
 "/teatteri/suomen-kansallisteatteri/orvot/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -126,12 +126,12 @@
 "genre": "Draama",
 "dur": 145,
 "inter": true,
-"lang": "Ruotsi",
-"subs": "Tekstitys suomeksi ja ruotsiksi Subtitle Mobile -sovelluksen kautta",
+"lang": "ruotsi",
+"subs": "suomeksi ja ruotsiksi Subtitle Mobile -mobiilisovelluksen kautta",
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
-"desc": "Tölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista henkilöistä. Kun pelot kasvavat, pintaan nousevat epäluulo, ahdistus ja vanhat naapuriristiriidat, kunnes turvallisuuden tunne horjuu ja \"me\" muuttuu \"heiksi\".",
+"desc": "Töölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista ihmisistä. Kun pelot kasvavat, paljastuu naapurikonflikteja ja epäluottamusta, jotka nostavat esiin turvattomuuden ja yksinäisyyden tematiikkaa.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-20"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-20"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-20"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-20"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-20"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -331,7 +331,7 @@
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Keuhkot",
+"stage": "Teatteri Jurkka",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -354,7 +354,7 @@
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
 "desc": "",
-"last": "2026-11-14"
+"last": "2026-11-20"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Mustan huumorin sävyttämä yhteiskunnallinen satiiri, joka kuvaa muistisairauden vaikutuksia parisuhteeseen. Esitys käsittelee omaishoitajan arjen raadollisuutta ja hoivajärjestelmän toimivuuden kysymyksiä.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-20"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -532,7 +532,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kreivitar-amalien-draamakierrokset/",
-"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksen aikana kuulee myös Amalien laulavan.",
+"desc": "Kreivitär Amalie kierrättää yleisöä tunnin ajan Aleksanterin teatterissa ja kertoo teatterinsa historiasta sekä omasta elämästään Saksassa, Venäjällä ja Suomessa. Esityksessä kuullaan myös Amalien laulanta.",
 "dv": 2,
 "last": "2026-11-15"
 },
@@ -572,14 +572,14 @@
 "stage": "Teatteri Avoimet Ovet",
 "title": "Ilta Rivieralla Olavi Paavolaisen kanssa",
 "genre": "Draama",
-"dur": null,
-"inter": null,
-"lang": null,
+"dur": 80,
+"inter": false,
+"lang": "suomi",
 "subs": null,
 "page": "https://www.avoimetovet.fi/ilta-rivieralla/",
-"desc": "Esitys vie katsojat Välimeren lämpöön yhdistäen runoutta, musiikkia ja draamaa. Siinä kerrotaan kirjailija Olavi Paavolaisen elämästä ja hänen matkoistaan Ranskan Rivieralle 1920-luvulla lumoavan musiikin ja draamalisten kohtauksien keinoin.",
+"desc": "Esitys vie katsojat Välimeren lämpöön, yhdistäen runoutta, musiikkia ja draamaa kirjailija Olavi Paavolaisen elämän ja Rivieran matkojen ympärille. Esityksessä elävöitetään Paavolaisen kirjeitä ja runoja draamallisten kohtauksien, kertomisen ja ranskalaismusiikin avulla.",
 "dv": 2,
-"last": "2026-10-29"
+"last": "2026-11-18"
 },
 "/teatteri/helsingin-kaupunginteatteri/andre-wickstrom-30-ar-pa-scen-och-inget-slut-i-sikte/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -749,7 +749,7 @@
 "/teatteri/teatteri-vantaa/ikitahti-annikki-tahden-tarina/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Silkkisali",
+"stage": "Teatteri Vantaa",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
 "dur": 130,
@@ -759,7 +759,7 @@
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-17"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-20"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1119,7 +1119,7 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimmainen-jaahyvaiskiertue/",
 "desc": "ShoWhatin drag-viihteen kuninkaalliset Osku Heiskanen ja Jarkko Valtee esittävät loistavan näytöksen tanssijoidensa kanssa, joka on täynnä säihkettä, ikonisia hahmoja ja suosittuja klassikkoja sekä uusia yllätyshahmoja. Esitykseen mahtuu naurua, nostalgiaa, taidokkaita imitaatioita ja glitterillä kuorrutettuja ajankohtaisia ilmiöitä.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-20"
 },
 "/teatteri/suomen-kansallisteatteri/taru-hohtavasta-helmesta/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1134,7 +1134,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
 "desc": "Aili Somersalon teokseen perustuva draama Mestaritontun seikkailuista, joka yhdistää mielikuvitusta ja teatterin taikaa. Esitys on suositeltu yli 6-vuotiaille.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-20"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1210,5 +1210,20 @@
 "desc": "Anna Hultinin monologi ja manifesti klimakterista, jossa tutkitaan vaihdevuosien biologiaa ja historiaa huumorin ja rohkeuden kera. Esitys on sekä kansansivistystä että viihdettä.",
 "dv": 2,
 "last": "2026-11-19"
+},
+"/teatteri/svenska-teatern/blaue-frau-anstaller/": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "NICKEN-scenen",
+"title": "Blaue Frau anställer",
+"genre": "Draama",
+"dur": 180,
+"inter": true,
+"lang": "ruotsi",
+"subs": "Englanti",
+"page": "https://svenskateatern.fi/repertoar/blaue-frau-anstaller/",
+"desc": "Spekulatiivinen dokumentaariteatteriesitys, joka tutkii työmarkkinajärjestelmää ja siihen liittyviä kysymyksiä palkkatyöstä ja sen merkityksestä. Esityksessä käytetään case-tutkimuksia ja haastatteluja tuodakseen esiin yli 340 000 työnhakijan päivittäisen todellisuuden.",
+"dv": 2,
+"last": "2026-11-20"
 }
 }
