@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
 "dv": 2,
@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
-"desc": "Esitys kertoo Suomen ponnisteluista säilyttää demokratiaa Neuvostoliiton painostuksen ja sisäisten ristiriitojen keskellä sodanjälkeisistä vuosista 1980-luvulle. Keskiössä on tarina kansakunnasta, joka kykeni torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
+"desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle. Tarina keskittyy erityisesti presidentin Urho Kekkosen aikakauteen ja kansallisen selviytymisen teemaan.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-21"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin ohjaamassa teatteriesityksessä kuusi suomalaista naista valitaan uuden tosi-tv-tuotannon tähdiksi ja heitetään viidakkoon anarkistiseen komedian seikkailu täynnä kilpailutehtäviä ja dramaattisia hetkiä. Esitys yhdistää tosi-tv-teatteri-konseptin, anarkistisen komedian ja teatteriseuran osallistumisen.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-20"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -131,7 +131,7 @@
 "page": "https://hkt.fi/esitykset/de-obehoriga/",
 "desc": "Töölön naapurit kokoontuvat keskustelemaan rappukäytävään ilmestyneistä asiattomista ihmisistä. Kun pelot kasvavat, paljastuu naapurikonflikteja ja epäluottamusta, jotka nostavat esiin turvattomuuden ja yksinäisyyden tematiikkaa.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/kurtturuusut/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen kertomus ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -206,12 +206,12 @@
 "page": "https://hkt.fi/esitykset/elolliset/",
 "desc": "Näytelmä tutkii sukupuuton käsitteen syntyhistoriaa stellerinmerilehmän luurangon kautta, joka kantaa mukanaan imperialismin ja modernin luonnonsuojeluaatteen historian. Esitys pohtii vastuuta ihmisen kyvystä pyyhkiä elävien lajeja pois ja kyseenalaistaa käsityksiä, joita nykyaika pitää ehdottoman varmoina.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/club-act-one/": {
 "theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"stage": "Studio Pasila",
+"stage": "Studio Pasila (lämpiö)",
 "title": "Club act!one",
 "genre": "Komedia",
 "dur": 120,
@@ -221,7 +221,7 @@
 "page": "https://hkt.fi/esitykset/club-actone/",
 "desc": "Club act!one on stand up -komiikan klubi, jossa Suomen johtavat koomikot esiintyvät irrottelevalla ja spontaanilla stand up -komiikalla. Paikalla on maan eturivin koomikkoja, jotka tarjoavat pitkän perinteen mukaista stand up -viihtelyä.",
 "dv": 2,
-"last": "2026-11-14"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/kivia-taskussa/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -296,7 +296,7 @@
 "page": "https://www.ryhmateatteri.fi/ohjelma/aitisi-klytaimestra/",
 "desc": "Esitys muuntaa teatterin näyttämön keittiöksi, jossa äidin ylisukulvinen kohtalo ja oireileva äidinrakkaus purkautuvat. Näytelmä tutkii äitiyden myyttiä ja perheen keskellä ikuisesti työskenteleväns äidin kohtaloa antiikin Elektra-tragedian kautta.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/kom-teatteri/poiskatsojat/": {
 "theatre": "KOM-teatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -331,7 +331,7 @@
 "/teatteri/teatteri-jurkka/keuhkot/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Keuhkot",
 "title": "Keuhkot",
 "genre": "Draama",
 "dur": null,
@@ -339,13 +339,13 @@
 "lang": null,
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
-"desc": "",
-"last": "2026-11-19"
+"desc": "Esityksen tarkempia tietoja ei ole saatavilla sivulla.",
+"last": "2026-11-21"
 },
 "/teatteri/teatteri-jurkka/vayla/": {
 "theatre": "Teatteri Jurkka",
 "city": "Helsinki",
-"stage": "Teatteri Jurkka",
+"stage": "Väylä",
 "title": "Väylä",
 "genre": "Draama",
 "dur": null,
@@ -353,8 +353,8 @@
 "lang": null,
 "subs": null,
 "page": "https://www.jurkka.fi/kalenteri/",
-"desc": "",
-"last": "2026-11-20"
+"desc": "Esityksen tarkempia tietoja ei ole saatavilla sivulla.",
+"last": "2026-11-21"
 },
 "/teatteri/teatteri-avoimet-ovet/soteorpo/": {
 "theatre": "Teatteri Avoimet Ovet",
@@ -369,7 +369,7 @@
 "page": "https://www.avoimetovet.fi/soteorpo",
 "desc": "Mustan huumorin sävyttämä yhteiskunnallinen satiiri, joka kuvaa muistisairauden vaikutuksia parisuhteeseen. Esitys käsittelee omaishoitajan arjen raadollisuutta ja hoivajärjestelmän toimivuuden kysymyksiä.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/aleksanterin-teatteri/kuningatar-leena/": {
 "theatre": "Aleksanterin teatteri",
@@ -382,7 +382,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetusta iskelmäkuningattaresta Leenasta. Esitys käsittelee elämänvalintoja, rakkautta ja katastrofeja vauhdikkaiden roolinvaihtojen ja värikään hahmogallerian kautta.",
+"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetusta iskelmäkuningattaresta Leenasta ja hänen elämänsä iloista, surueista ja suurista rakkauksista. Esityksessä on vauhdikkaita roolien vaihtoja, värikästä hahmogalleriaa ja suuria tunteita halki vuosikymmenten.",
 "dv": 2,
 "last": "2026-11-15"
 },
@@ -517,9 +517,9 @@
 "lang": "suomi",
 "subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
-"desc": "Lady T käsittelee Britannian entisen pääministeri Margaret Thatcherin ja alipalkatun hotellityöntekijän kohtaamista. Esityksessä tutkitaan poliittisten päätösten vaikutusta yksittäisiin ihmisiin sekä teemoja muistamisesta, unohtamisesta ja anteeksiantamisesta.",
+"desc": "Esityksessä käsitellään Britannian entisen pääministeri Margaret Thatcherin ja hotellityöläinen Linda Elliottin kohtaamista, kun muistisairauden kurittama Thatcher asuu Lontoon hotellissa. Näytelmä pohtii poliittisten päätösten vaikutusta yksittäisten ihmisten elämään.",
 "dv": 2,
-"last": "2026-11-11"
+"last": "2026-11-21"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1102,9 +1102,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://hkt.fi/esitykset/iikka-kivi-protestinauru-stand-up-show/",
-"desc": "Stand up -koomikko Iikka Kiven koko illan komediaspesiaali, joka käsittelee keski-iän kriisiä ja globaaleja ongelmia huumorin keinoin. Esitys on innostava ja herättelevä verbaalinen esitys, joka vastustaa nykyisyyttä ja puolustaa tulevaisuuttamme.",
+"desc": "Stand up -koomikko Iikka Kiven komediaspesiaali, joka käsittelee keski-iän kriisiä ja globaaleja ongelmia huumorin avulla. Esitys on innostava verbaalinen sarja, joka herättää ja naurattaa.",
 "dv": 2,
-"last": "2026-11-13"
+"last": "2026-11-21"
 },
 "/teatteri/aleksanterin-teatteri/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimm/": {
 "theatre": "Aleksanterin teatteri",
@@ -1119,22 +1119,22 @@
 "page": "https://www.aleksanterinteatteri.fi/naytelma/showhat-with-stepup-dancers-proudly-presents-big-bang-ensimmainen-jaahyvaiskiertue/",
 "desc": "ShoWhatin drag-viihteen kuninkaalliset Osku Heiskanen ja Jarkko Valtee esittävät loistavan näytöksen tanssijoidensa kanssa, joka on täynnä säihkettä, ikonisia hahmoja ja suosittuja klassikkoja sekä uusia yllätyshahmoja. Esitykseen mahtuu naurua, nostalgiaa, taidokkaita imitaatioita ja glitterillä kuorrutettuja ajankohtaisia ilmiöitä.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/suomen-kansallisteatteri/taru-hohtavasta-helmesta/": {
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmesta",
+"title": "Taru hohtavasta helmestä",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva draama Mestaritontun seikkailuista, joka yhdistää mielikuvitusta ja teatterin taikaa. Esitys on suositeltu yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva seikkailu Mestaritontusta, joka täyttää näyttämön mielikuvituksen ja teatterin taikalla. Esitys on suositeltu yli 6-vuotiaille.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-21"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1209,7 +1209,7 @@
 "page": "https://svenskateatern.fi/repertoar/onko-taalla-kuuma/",
 "desc": "Anna Hultinin monologi ja manifesti klimakterista, jossa tutkitaan vaihdevuosien biologiaa ja historiaa huumorin ja rohkeuden kera. Esitys on sekä kansansivistystä että viihdettä.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-21"
 },
 "/teatteri/svenska-teatern/blaue-frau-anstaller/": {
 "theatre": "Svenska Teatern",
