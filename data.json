@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-15T13:27+02:00",
-"from": "2026-11-15",
-"to": "2026-11-21",
+"updated": "2026-11-16T14:01+02:00",
+"from": "2026-11-16",
+"to": "2026-11-22",
 "productions": {
 "suomen-kansallisteat-lady-t": {
 "theatre": "Suomen Kansallisteatteri",
@@ -35,14 +35,14 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmestä",
+"title": "Taru hohtavasta helmesta",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva seikkailu Mestaritontusta, joka täyttää näyttämön mielikuvituksen ja teatterin taikalla. Esitys on suositeltu yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva dramasointi Mestaritontun seikkailuista, joka esittelee mielikuvituksen ja teatterin taikaa. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
 "dv": 2
 },
 "suomen-kansallisteat-toinen-tasavalta": {
@@ -54,7 +54,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle. Tarina keskittyy erityisesti presidentin Urho Kekkosen aikakauteen ja kansallisen selviytymisen teemaan.",
 "dv": 2
@@ -379,18 +379,18 @@
 "desc": "Laura Haimila ja Ursula Herlin esittävät stand up -show'n rakkaudesta, perheellistä ja arjen haasteista. Kaksin esiintyvät naiset saavat katsojat nauramaan, nyökkäilemään ja ehkä vähän punastumaankin omalla lämpimällä ja röyhkeän hauskalla tavallaan.",
 "dv": 2
 },
-"aleksanterin-teatter-kuningatar-leena": {
+"aleksanterin-teatter-bella-italia": {
 "theatre": "Aleksanterin teatteri",
 "city": "Helsinki",
 "stage": "Aleksanterin teatteri",
-"title": "Kuningatar Leena",
-"genre": "Komedia",
+"title": "Bella Italia!",
+"genre": "Ooppera ja tanssi",
 "dur": null,
 "inter": null,
-"lang": "suomi",
+"lang": null,
 "subs": null,
-"page": "https://www.aleksanterinteatteri.fi/naytelma/kuningatar-leena/",
-"desc": "Kaksi näyttelijää esittää yli kolmekymmentä roolia kertoen unohdetusta iskelmäkuningattaresta Leenasta ja hänen elämänsä iloista, surueista ja suurista rakkauksista. Esityksessä on vauhdikkaita roolien vaihtoja, värikästä hahmogalleriaa ja suuria tunteita halki vuosikymmenten.",
+"page": "https://www.aleksanterinteatteri.fi/naytelma/bella-italia/",
+"desc": "Ilta italialaisten iskelmien ja viihdemusiikin parissa, jossa solisteina toimivat sopraano Angelika Klas ja tenori Tero Harjunniemi. Guardia Nueva -orkesteri ja kapellimestari Raimo Vertainen esittävät rakastettuja klassikkoja kuten \"Poika varjoisalta kujalta\" ja \"Con te partiro\".",
 "dv": 2
 },
 "aleksanterin-teatter-stella-x-tsuumi-pridgerton": {
@@ -424,14 +424,6 @@
 },
 "showings": [
 {
-"p": "aleksanterin-teatter-kuningatar-leena",
-"date": "2026-11-15",
-"time": "16.00",
-"price": null,
-"avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2194"
-},
-{
 "p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
 "date": "2026-11-16",
 "time": "18.30",
@@ -454,7 +446,7 @@
 "price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028592/?affiliate=HKK&language=fi",
-"seats": 5
+"seats": 3
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -471,7 +463,7 @@
 "price": 42,
 "avail": "sold",
 "url": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"note": "Ennakko"
+"note": "Ennakkonäytös"
 },
 {
 "p": "aleksanterin-teatter-laura-haimila-ursula-herlin-pari-juttuu-k-18",
@@ -548,12 +540,21 @@
 "note": "Ensi-ilta"
 },
 {
+"p": "suomen-kansallisteat-viides-askel",
+"date": "2026-11-18",
+"time": "18.30",
+"price": 42,
+"avail": "many",
+"url": "https://www.lippu.fi/event/viides-askel-suomen-kansallisteatteri-21645825/?affiliate=ADV&language=fi"
+},
+{
 "p": "teatteri-avoimet-ove-ilta-rivieralla-olavi-paavolaisen-kanssa",
 "date": "2026-11-18",
 "time": "18.30",
 "price": 36,
 "avail": "sold",
-"url": "https://www.avoimetovet.fi/ilta-rivieralla/"
+"url": "https://www.avoimetovet.fi/ilta-rivieralla/",
+"note": "Loppuunmyyty"
 },
 {
 "p": "teatteri-jurkka-keuhkot",
@@ -636,6 +637,14 @@
 "url": "https://www.lippu.fi/event/no-no-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21618744/?affiliate=HKK&language=fi"
 },
 {
+"p": "teatteri-avoimet-ove-soteorpo",
+"date": "2026-11-20",
+"time": "14.00",
+"price": 42,
+"avail": "unknown",
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+},
+{
 "p": "helsingin-kaupungint-de-obehoriga",
 "date": "2026-11-20",
 "time": "18.30",
@@ -697,7 +706,8 @@
 "time": "19.00",
 "price": null,
 "avail": "unknown",
-"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2103"
+"url": "https://aleksanterinteatteri.lippu.fi/webshop/webticket/shop?event=2103",
+"note": "K-18"
 },
 {
 "p": "helsingin-kaupungint-kotijoukot",
@@ -863,7 +873,7 @@
 "p": "helsingin-kaupungint-iikka-kivi-protestinauru-stand-up-show",
 "date": "2026-11-21",
 "time": "19.00",
-"price": 20,
+"price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/iikka-kivi-protestinauru-stand-up-show-helsingin-kaupunginteatteri-arena-nayttamo-21590552/?affiliate=HKK&language=fi"
 },
@@ -882,6 +892,14 @@
 "price": null,
 "avail": "sold",
 "url": "https://www.lippu.fi/event/club-actone-helsingin-kaupunginteatteri-studio-pasila-21437903/?affiliate=HKK&language=fi"
+},
+{
+"p": "aleksanterin-teatter-bella-italia",
+"date": "2026-11-22",
+"time": "16.00",
+"price": null,
+"avail": "unknown",
+"url": "https://www.aleksanterinteatteri.fi/naytelma/bella-italia/"
 }
 ],
 "theatres": [
@@ -958,8 +976,7 @@
 {
 "name": "Teatteri Vantaa",
 "city": "Vantaa",
-"status": "none",
-"note": "Ei näytöksiä tai ajat eivät vielä haettavissa"
+"status": "ok"
 }
 ]
 }

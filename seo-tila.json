@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle. Tarina keskittyy erityisesti presidentin Urho Kekkosen aikakauteen ja kansallisen selviytymisen teemaan.",
 "dv": 2,
@@ -1125,14 +1125,14 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmestä",
+"title": "Taru hohtavasta helmesta",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva seikkailu Mestaritontusta, joka täyttää näyttämön mielikuvituksen ja teatterin taikalla. Esitys on suositeltu yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva dramasointi Mestaritontun seikkailuista, joka esittelee mielikuvituksen ja teatterin taikaa. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
 "dv": 2,
 "last": "2026-11-21"
 },
@@ -1225,5 +1225,20 @@
 "desc": "Spekulatiivinen dokumentaariteatteriesitys, joka tutkii työmarkkinajärjestelmää ja siihen liittyviä kysymyksiä palkkatyöstä ja sen merkityksestä. Esityksessä käytetään case-tutkimuksia ja haastatteluja tuodakseen esiin yli 340 000 työnhakijan päivittäisen todellisuuden.",
 "dv": 2,
 "last": "2026-11-20"
+},
+"/teatteri/aleksanterin-teatteri/bella-italia/": {
+"theatre": "Aleksanterin teatteri",
+"city": "Helsinki",
+"stage": "Aleksanterin teatteri",
+"title": "Bella Italia!",
+"genre": "Ooppera ja tanssi",
+"dur": null,
+"inter": null,
+"lang": null,
+"subs": null,
+"page": "https://www.aleksanterinteatteri.fi/naytelma/bella-italia/",
+"desc": "Ilta italialaisten iskelmien ja viihdemusiikin parissa, jossa solisteina toimivat sopraano Angelika Klas ja tenori Tero Harjunniemi. Guardia Nueva -orkesteri ja kapellimestari Raimo Vertainen esittävät rakastettuja klassikkoja kuten \"Poika varjoisalta kujalta\" ja \"Con te partiro\".",
+"dv": 2,
+"last": "2026-11-22"
 }
 }
