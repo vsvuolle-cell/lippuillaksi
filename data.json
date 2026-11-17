@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-16T14:01+02:00",
-"from": "2026-11-16",
-"to": "2026-11-22",
+"updated": "2026-11-17T14:25+02:00",
+"from": "2026-11-17",
+"to": "2026-11-23",
 "productions": {
 "suomen-kansallisteat-lady-t": {
 "theatre": "Suomen Kansallisteatteri",
@@ -26,9 +26,23 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
+"dv": 2
+},
+"suomen-kansallisteat-mirdja": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "Mirdja",
+"genre": "Draama",
+"dur": null,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/mirdja",
+"desc": "L. Onervan kirjoittama esitys seuraa päähenkilö Mirdjaa hänen etsiessään rakkutta ja taiteellista ilmaisua. Esitys tutkii taiteen ja rakkauden merkitystä ihmisen elämässä.",
 "dv": 2
 },
 "suomen-kansallisteat-taru-hohtavasta-helmesta": {
@@ -54,7 +68,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle. Tarina keskittyy erityisesti presidentin Urho Kekkosen aikakauteen ja kansallisen selviytymisen teemaan.",
 "dv": 2
@@ -87,18 +101,18 @@
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2
 },
-"suomen-kansallisteat-lapin-faarao": {
-"theatre": "Suomen Kansallisteatteri",
+"helsingin-kaupungint-kaksitoista-lahjaa-joulupukille": {
+"theatre": "Helsingin Kaupunginteatteri",
 "city": "Helsinki",
-"stage": "Suuri näyttämö",
-"title": "Lapin Faarao",
-"genre": "Draama",
-"dur": 90,
-"inter": null,
+"stage": "Pieni Näyttämö (lämpiö)",
+"title": "Kaksitoista lahjaa Joulupukille",
+"genre": "Lapsille",
+"dur": 35,
+"inter": false,
 "lang": "suomi",
 "subs": null,
-"page": "https://www.kansallisteatteri.fi/esitys/lapin-faarao",
-"desc": "Esitys tutkii taiteilija Reidar Särestöniemen henkistä perintöä ja kutsuu esiin taiteen ja henkimaailman välistä liittoa. Illan ohjelmistoon kuuluu musiikkia, meditaatiota, tietovisaa ja yhteyttä henkimaailmaan.",
+"page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
+"desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2
 },
 "helsingin-kaupungint-nauravan-kulkurin-tarina": {
@@ -113,20 +127,6 @@
 "subs": null,
 "page": "https://hkt.fi/esitykset/nauravan-kulkurin-tarina/",
 "desc": "Musiikkidraama Vesa-Matti Loirin elämästä, joka kertoo kuinka hänestä tuli koko Suomen kansan rakastama taiteilija. Esityksessä nähdään hänen tunnetuimpia roolihahmojaan ja kuullaan hänen esittämiään musiikkikappaleita, samalla tutkien taiteensa takana olevaa intohimoa ja henkistä kamppailua.",
-"dv": 2
-},
-"helsingin-kaupungint-kaksitoista-lahjaa-joulupukille": {
-"theatre": "Helsingin Kaupunginteatteri",
-"city": "Helsinki",
-"stage": "Pieni Näyttämö (lämpiö)",
-"title": "Kaksitoista lahjaa Joulupukille",
-"genre": "Lapsille",
-"dur": 35,
-"inter": false,
-"lang": "suomi",
-"subs": null,
-"page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
-"desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2
 },
 "helsingin-kaupungint-nar-baba-faller-i-poolen-ar-kl-23-47": {
@@ -424,29 +424,13 @@
 },
 "showings": [
 {
-"p": "helsingin-kaupungint-nauravan-kulkurin-tarina",
-"date": "2026-11-16",
-"time": "18.30",
-"price": null,
-"avail": "few",
-"url": "https://www.lippu.fi/event/nauravan-kulkurin-tarina-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21720097/?affiliate=HKK&language=fi"
-},
-{
-"p": "suomen-kansallisteat-lapin-faarao",
-"date": "2026-11-16",
-"time": "18.30",
-"price": 42,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/lapin-faarao"
-},
-{
 "p": "helsingin-kaupungint-kaksitoista-lahjaa-joulupukille",
 "date": "2026-11-17",
 "time": "10.00",
 "price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028592/?affiliate=HKK&language=fi",
-"seats": 3
+"seats": 9
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -488,7 +472,7 @@
 "price": null,
 "avail": "few",
 "url": "https://www.lippu.fi/event/helsingin-kaupunginteatteri-kaksitoista-lahjaa-joulupukille-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-22028593/?affiliate=HKK&language=fi",
-"seats": 17
+"seats": 7
 },
 {
 "p": "aleksanterin-teatter-stella-x-tsuumi-pridgerton",
@@ -642,7 +626,8 @@
 "time": "14.00",
 "price": 42,
 "avail": "unknown",
-"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
+"note": "Ikärajaton esitys"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -819,7 +804,8 @@
 "time": "16.00",
 "price": 47,
 "avail": "unknown",
-"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/"
+"url": "https://www.lippu.fi/artist/teatteri-avoimet-ovet/soteorpo-4149045/",
+"note": "Näytelmä tutuksi -keskustelu ennen näytöstä"
 },
 {
 "p": "helsingin-kaupungint-de-obehoriga",
@@ -900,6 +886,39 @@
 "price": null,
 "avail": "unknown",
 "url": "https://www.aleksanterinteatteri.fi/naytelma/bella-italia/"
+},
+{
+"p": "helsingin-kaupungint-kurtturuusut",
+"date": "2026-11-23",
+"time": "18.30",
+"price": null,
+"avail": "many",
+"url": "https://www.lippu.fi/event/kurtturuusut-helsingin-kaupunginteatteri-suuri-nayttamo-ja-pieni-nayttamo-21296656/?affiliate=HKK&language=fi"
+},
+{
+"p": "suomen-kansallisteat-mirdja",
+"date": "2026-11-23",
+"time": "18.30",
+"price": 49,
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-mirdja-suomen-kansallisteatteri-21645846/?affiliate=ADV&language=fi",
+"note": "Ennakkonäytös"
+},
+{
+"p": "suomen-kansallisteat-taru-hohtavasta-helmesta",
+"date": "2026-11-23",
+"time": "18.30",
+"price": 42,
+"avail": "few",
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-taru-hohtavasta-helmesta-suomen-kansallisteatteri-21650356/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-viides-askel",
+"date": "2026-11-23",
+"time": "18.30",
+"price": 42,
+"avail": "many",
+"url": "https://www.lippu.fi/event/viides-askel-suomen-kansallisteatteri-21645828/?affiliate=ADV&language=fi"
 }
 ],
 "theatres": [
@@ -976,7 +995,8 @@
 {
 "name": "Teatteri Vantaa",
 "city": "Vantaa",
-"status": "ok"
+"status": "none",
+"note": "Ei näytöksiä tai ajat eivät vielä haettavissa"
 }
 ]
 }

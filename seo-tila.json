@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
 "dv": 2,
@@ -53,7 +53,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen pyrkimyksiä säilyttää demokratiansa Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle. Tarina keskittyy erityisesti presidentin Urho Kekkosen aikakauteen ja kansallisen selviytymisen teemaan.",
 "dv": 2,
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen kertomus ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-11-21"
+"last": "2026-11-23"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-21"
+"last": "2026-11-23"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1134,7 +1134,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
 "desc": "Aili Somersalon teokseen perustuva dramasointi Mestaritontun seikkailuista, joka esittelee mielikuvituksen ja teatterin taikaa. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
 "dv": 2,
-"last": "2026-11-21"
+"last": "2026-11-23"
 },
 "/teatteri/helsingin-kaupunginteatteri/alfred-backa-svenskfinlands-sista-satiriker/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -1240,5 +1240,20 @@
 "desc": "Ilta italialaisten iskelmien ja viihdemusiikin parissa, jossa solisteina toimivat sopraano Angelika Klas ja tenori Tero Harjunniemi. Guardia Nueva -orkesteri ja kapellimestari Raimo Vertainen esittävät rakastettuja klassikkoja kuten \"Poika varjoisalta kujalta\" ja \"Con te partiro\".",
 "dv": 2,
 "last": "2026-11-22"
+},
+"/teatteri/suomen-kansallisteatteri/mirdja/": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Pieni näyttämö",
+"title": "Mirdja",
+"genre": "Draama",
+"dur": null,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/mirdja",
+"desc": "L. Onervan kirjoittama esitys seuraa päähenkilö Mirdjaa hänen etsiessään rakkutta ja taiteellista ilmaisua. Esitys tutkii taiteen ja rakkauden merkitystä ihmisen elämässä.",
+"dv": 2,
+"last": "2026-11-23"
 }
 }
