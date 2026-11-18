@@ -8,7 +8,7 @@
 "dur": 170,
 "inter": true,
 "lang": "suomi",
-"subs": "englanti ja suomi (Subtitle Mobile)",
+"subs": "englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lopetus",
 "desc": "Imre Kertészin Nobel-palkitun romaanista adaptoitu näytelmä, jossa kustannustoimittaja lähtee jäljittämään kadonnutta mestariteosta ja joutuu vuosien mittaiseen mysteeriin. Esitys tutkii muistia, traumaa ja historian varjoja monitasoisena näyttämöpalapelina.",
 "dv": 2,
@@ -146,7 +146,7 @@
 "page": "https://hkt.fi/esitykset/kurtturuusut/",
 "desc": "Neljä seitsemänkymppistä leskinaista ystävystä lähtenevät rohkeasti etsimään rakkautta ja elämää täysillä. Esitys on lämminhenkinen kertomus ystävyydestä, rakkaudesta ja ikääntymisen iloista.",
 "dv": 2,
-"last": "2026-11-23"
+"last": "2026-11-24"
 },
 "/teatteri/helsingin-kaupunginteatteri/julia/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -161,7 +161,7 @@
 "page": "https://hkt.fi/esitykset/julia/",
 "desc": "Uudelleen kertomattava tarina Shakespearen Juliasta, joka ottaa elämänsä omiin käsiinsä ja lähtee seikkailulle 90- ja 2000-luvun alun suurimpien hittikappaleiden soidessa. Elämää suurempi musikaali, joka yhdistää klassisen rakkaustarinan moderneihin pop-hitteihin.",
 "dv": 2,
-"last": "2026-11-21"
+"last": "2026-11-24"
 },
 "/teatteri/helsingin-kaupunginteatteri/kotijoukot/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-11-21"
+"last": "2026-11-24"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -749,7 +749,7 @@
 "/teatteri/teatteri-vantaa/ikitahti-annikki-tahden-tarina/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Teatteri Vantaa",
+"stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
 "dur": 130,
@@ -757,9 +757,9 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
-"desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kuvaa hänen tarinansa muistojen kauneudesta ja rakastettujen iskelmien kautta. Esitys yhdistää henkilökuvan tinkimättömästä taiteilijasta perheen tarinan kanssa.",
+"desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka kertoo hänen tarinansa ja säilyttää muistojen kauneutta sekä hänen rakastetut iskelmät. Esitys yhdistää dramaattiset hetket viihdyttävällä tavalla ja kulkee läpi muuttuvien vuosikymmenten.",
 "dv": 2,
-"last": "2026-11-17"
+"last": "2026-11-24"
 },
 "/teatteri/aleksanterin-teatteri/pyha-kolminaiseus-stand-up-show/": {
 "theatre": "Aleksanterin teatteri",
@@ -879,7 +879,7 @@
 "page": "https://hkt.fi/esitykset/nar-baba-faller-i-poolen-ar-kl-23-47/",
 "desc": "Esitys kertoo tyttären yrityksestä ymmärtää, mitä hänen isälleen on tapahtunut, kun tämä joutuu sosiaalisesti häpäisevään tilanteeseen. Näytelmä käsittelee työelämän muutoksia, yhteiskuntaa ja identiteettiä sekä sitä, miten ihmisarvo on vaarassa kadota turvan hävitessä.",
 "dv": 2,
-"last": "2026-11-19"
+"last": "2026-11-24"
 },
 "/teatteri/kom-teatteri/naza/": {
 "theatre": "KOM-teatteri",
@@ -999,7 +999,7 @@
 "page": "https://hkt.fi/esitykset/12-lahjaa-joulupukille/",
 "desc": "Mauri Kunnaksen klassikkotarina Joulupukista ja tontuista, jossa Ville-tonttu yrittää keksiä kaksitoista lahjan ideaa Joulupukille ennen jouluaattoa. Hauskoista väärinymmärryksistä syntyy joulukylässä iloinen seikkailu.",
 "dv": 2,
-"last": "2026-11-18"
+"last": "2026-11-24"
 },
 "/teatteri/suomen-kansallisteatteri/timo-tuominen-rendez-vous-avec-brel/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-11-23"
+"last": "2026-11-24"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1125,14 +1125,14 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmesta",
+"title": "Taru hohtavasta helmestä",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon teokseen perustuva dramasointi Mestaritontun seikkailuista, joka esittelee mielikuvituksen ja teatterin taikaa. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
+"desc": "Aili Somersalon teokseen perustuva esitys Mestaritontun seikkailuista, jossa yhdistyvät mielikuvitus ja teatterin taikaa. Suosittelemme esitystä yli 6-vuotiaille.",
 "dv": 2,
 "last": "2026-11-23"
 },
@@ -1224,7 +1224,7 @@
 "page": "https://svenskateatern.fi/repertoar/blaue-frau-anstaller/",
 "desc": "Spekulatiivinen dokumentaariteatteriesitys, joka tutkii työmarkkinajärjestelmää ja siihen liittyviä kysymyksiä palkkatyöstä ja sen merkityksestä. Esityksessä käytetään case-tutkimuksia ja haastatteluja tuodakseen esiin yli 340 000 työnhakijan päivittäisen todellisuuden.",
 "dv": 2,
-"last": "2026-11-20"
+"last": "2026-11-24"
 },
 "/teatteri/aleksanterin-teatteri/bella-italia/": {
 "theatre": "Aleksanterin teatteri",
@@ -1254,6 +1254,21 @@
 "page": "https://www.kansallisteatteri.fi/esitys/mirdja",
 "desc": "L. Onervan kirjoittama esitys seuraa päähenkilö Mirdjaa hänen etsiessään rakkutta ja taiteellista ilmaisua. Esitys tutkii taiteen ja rakkauden merkitystä ihmisen elämässä.",
 "dv": 2,
-"last": "2026-11-23"
+"last": "2026-11-24"
+},
+"/teatteri/suomen-kansallisteatteri/starman/": {
+"theatre": "Suomen Kansallisteatteri",
+"city": "Helsinki",
+"stage": "Suuri näyttämö",
+"title": "Starman",
+"genre": "Draama",
+"dur": 120,
+"inter": true,
+"lang": "suomi",
+"subs": null,
+"page": "https://www.kansallisteatteri.fi/esitys/starman",
+"desc": "Tähtienvälinen soturi Starman saapuu keskustelemaan luontokadon problematiikasta eri näkökulmista. Sarjasta nousee esille satiirinen ja ajankohtainen pohdinta luonnon monimuotoisuuden vaarantumisesta.",
+"dv": 2,
+"last": "2026-11-24"
 }
 }
