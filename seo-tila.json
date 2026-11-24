@@ -72,7 +72,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viidakon-villit-naiset",
 "desc": "Kristian Smedsin uusi anarkistinen komedia, jossa kuusi suomalaista naista valitaan tosi-tv-tuotannon tähdiksi viidakkoon. Esitys yhdistää tosi-tv-teatteria, kilpailutehtäviä ja absurdia huumoria Keravalle rakennettuun teollisuushallin viidakkoon.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-11-30"
 },
 "/teatteri/suomen-kansallisteatteri/eino-leinon-eksat-enemman-ja-vahemman-muusina/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -176,7 +176,7 @@
 "page": "https://hkt.fi/esitykset/kotijoukot/",
 "desc": "Pariskunta joutuu parisuhdeleirille naapureidensa järjestämänä, kun avovaimo Anna pettyy miehensä Mikon nihkeilyyn. Leirillä seuraavat seikkailut johtavat koomisiin tilanteisiin, joihin sekaantuvat myös äiti ja poliisi.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-11-30"
 },
 "/teatteri/helsingin-kaupunginteatteri/nauravan-kulkurin-tarina/": {
 "theatre": "Helsingin Kaupunginteatteri",
@@ -752,8 +752,8 @@
 "stage": "Silkkisali",
 "title": "Ikitähti – Annikki Tähden tarina",
 "genre": "Musikaali",
-"dur": 130,
-"inter": true,
+"dur": null,
+"inter": null,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
@@ -1049,12 +1049,12 @@
 "/teatteri/teatteri-vantaa/retrodisko/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Teatteriaukio",
+"stage": "Teatteri Vantaa",
 "title": "Retrodisko",
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": "ei puhetta",
+"lang": null,
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/retrodisko/",
 "desc": "Retrodisko on kahden tunnin hilpeä juhlavuosidisko, jossa Minna Kivelä vetää ohjelmaa ja DJ Ellu Eskola soittaa retromusiikkia. Tapahtuma on suunnattu ikänuorille senioreille ja kannustaa tanssimiseen ja hauskanpitoon.",
@@ -1194,7 +1194,7 @@
 "page": "https://hkt.fi/esitykset/no-no-2/",
 "desc": "no-no on Kenneth Kvarnströmin klassikkoteos nykytanssissa, joka esitellään uudelleen yhdeksälle tanssijalle. Intensiivinen liikerituaali yhdistää äärimmäisen fyysisyyden ja sensuelliin runollisuuteen ilman selkeitä teemoja.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-11-30"
 },
 "/teatteri/svenska-teatern/onko-taalla-kuuma/": {
 "theatre": "Svenska Teatern",
@@ -1254,7 +1254,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/mirdja",
 "desc": "L. Onervan kirjoittama esitys seuraa päähenkilö Mirdjaa hänen etsiessään rakkutta ja taiteellista ilmaisua. Esitys tutkii taiteen ja rakkauden merkitystä ihmisen elämässä.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-11-30"
 },
 "/teatteri/suomen-kansallisteatteri/starman/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -1267,7 +1267,7 @@
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/starman",
-"desc": "Tähtienvälinen soturi Starman saapuu keskustelemaan luonnonsuojelusta ja luontokadon uhasta erilaisten hahmojen kautta. Martti Suosalon monologiesityksessä satiirinen näytelmä pohtii ihmiskunnan suhdetta luontoon ja sen monimuotoisuuden vaarantumiseen.",
+"desc": "Tähtienvälinen soturi Starman saapuu monologiesitykseen puuttamaan luonnonsuojelun kasvavaan suosioon, joka häiritsee galaktisen Keskustoimiston suunnitelmia. Näytelmä on satiirinen ja ajankohtainen pohdinta luonnon monimuotoisuuden vaarantumisesta.",
 "dv": 2,
 "last": "2026-11-24"
 },
@@ -1294,7 +1294,7 @@
 "genre": "Komedia",
 "dur": null,
 "inter": null,
-"lang": "suomi",
+"lang": null,
 "subs": null,
 "page": "https://www.aleksanterinteatteri.fi/naytelma/jacke-bjorklund-havaintoja-stand-up-show/",
 "desc": "Jacke Björklundin stand up -esitys, jossa hän jakaa havaintojaan elämästä, ympäristöstä ja maailman menosta sarkasmilla ja satiirilla höystettynä.",
@@ -1404,5 +1404,20 @@
 "page": "https://www.avoimetovet.fi/",
 "desc": "Esitys nimeltään Lumi.",
 "last": "2026-11-28"
+},
+"/teatteri/teatteri-vantaa/grumpy-old-women-entisten-nuorten-kapina/": {
+"theatre": "Teatteri Vantaa",
+"city": "Vantaa",
+"stage": "Silkkisali",
+"title": "Grumpy Old Women – entisten nuorten kapina",
+"genre": "Komedia",
+"dur": null,
+"inter": null,
+"lang": "suomi",
+"subs": null,
+"page": "https://teatterivantaa.fi/portfolio/grumpy-old-women-entisten/",
+"desc": "Kolmen naisen komediaesitys, jossa keskipisteessä ovat ikääntyneet naiset, jotka eivät enää pyydä anteeksi ja puhuivat suodattamattomasti maailman hölmöydestä. Esitys käsittelee elämästä selviytymistä huumorin ja itseironian avulla.",
+"dv": 2,
+"last": "2026-11-30"
 }
 }
