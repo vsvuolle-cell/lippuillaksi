@@ -1,7 +1,7 @@
 {
-"updated": "2026-11-27T15:05+02:00",
-"from": "2026-11-27",
-"to": "2026-12-03",
+"updated": "2026-11-28T14:17+02:00",
+"from": "2026-11-28",
+"to": "2026-12-04",
 "productions": {
 "suomen-kansallisteat-lady-t": {
 "theatre": "Suomen Kansallisteatteri",
@@ -15,20 +15,6 @@
 "subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Esityksessä käsitellään Britannian entisen pääministeri Margaret Thatcherin ja hotellityöläinen Linda Elliottin kohtaamista, kun muistisairauden kurittama Thatcher asuu Lontoon hotellissa. Näytelmä pohtii poliittisten päätösten vaikutusta yksittäisten ihmisten elämään.",
-"dv": 2
-},
-"suomen-kansallisteat-lopetus": {
-"theatre": "Suomen Kansallisteatteri",
-"city": "Helsinki",
-"stage": "Pieni näyttämö",
-"title": "Lopetus",
-"genre": "Draama",
-"dur": 170,
-"inter": true,
-"lang": "suomi",
-"subs": "Englanti ja suomi (Subtitle Mobile -sovellus)",
-"page": "https://www.kansallisteatteri.fi/esitys/lopetus",
-"desc": "Imre Kertészin Nobel-palkitusta romaanista dramatisoimattu näyttämöpalapeli, jossa kustannustoimittaja jäljittää kadonnutta mestariteosta ja törmää mysteeriin, joka sekoittuu Euroopan historian tragedioihin. Esitys tutkii muistia, traumaa ja menneisyyden pitkää varjoa.",
 "dv": 2
 },
 "suomen-kansallisteat-mirdja": {
@@ -49,14 +35,14 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmesta",
+"title": "Taru hohtavasta helmestä",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon Mestaritontun seikkailut -teokseen perustuva esitys, joka tuo teatteriin mielikuvituksen ja taikaansa. Suosittelemme esitystä yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva esitys Mestaritontun seikkailuista, joka täyttää näyttämön mielikuvituksen ja teatterin taialla. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
 "dv": 2
 },
 "suomen-kansallisteat-toinen-tasavalta": {
@@ -68,7 +54,7 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle ja Neuvostoliiton romahdukseen. Keskiössä on valtiomies Urho Kekkonen ja tarina kansakunnasta, joka kykeni torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2
@@ -127,6 +113,20 @@
 "subs": "Englanti",
 "page": "https://svenskateatern.fi/repertoar/blaue-frau-anstaller/",
 "desc": "Spekulatiivinen dokumentaariteatteriesitys, joka tutkii työmarkkinajärjestelmää ja siihen liittyviä kysymyksiä palkkatyöstä ja sen merkityksestä. Esityksessä käytetään case-tutkimuksia ja haastatteluja tuodakseen esiin yli 340 000 työnhakijan päivittäisen todellisuuden.",
+"dv": 2
+},
+"svenska-teatern-ballader-och-oforskamdheter": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "AMOS-scenen",
+"title": "Ballader och oförskämdheter",
+"genre": "Musikaali",
+"dur": 120,
+"inter": true,
+"lang": "ruotsi",
+"subs": "Ruotsi ja suomi",
+"page": "https://svenskateatern.fi/repertoar/ballader-och-oforskamdheter/",
+"desc": "Viisi suomalaista muusikkoa esittää ruotsalaisen runoilija-laulajan Cornelis Vreeswijn'in kappaleet sekä alkuperäiskielellä että uusissa suomalaisissa käännöksissä. Konsertin tavoitteena on tuoda tuntemattoman Vreeswijn'in tuotanto lähemmäksi suomalaista yleisöä.",
 "dv": 2
 },
 "svenska-teatern-onko-taalla-kuuma": {
@@ -213,20 +213,6 @@
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2
 },
-"kom-teatteri-mysterio-buffo": {
-"theatre": "KOM-teatteri",
-"city": "Helsinki",
-"stage": "KOM-teatteri",
-"title": "Mysterio Buffo",
-"genre": "Komedia",
-"dur": 100,
-"inter": true,
-"lang": "suomi",
-"subs": null,
-"page": "https://kom-teatteri.fi/ohjelmisto/mysteriobuffo/",
-"desc": "Yhden näyttelijän esittämä fyysisen komiikan ja säälimättömän satiirin näytös, jossa keskiaikaisen kiertuavan ilveilijän perinteen kautta käsitellään valtaa, populismia ja ihmisen ääntä yhteiskunnassa. Dario Fon klassikko palaa KOM-teatterin näyttämölle uudella tulkinnalla.",
-"dv": 2
-},
 "zodiak-uuden-tanssin-imperial-stage": {
 "theatre": "Zodiak – Uuden tanssin keskus",
 "city": "Helsinki",
@@ -237,22 +223,22 @@
 "inter": null,
 "lang": null,
 "subs": null,
-"page": "https://www.zodiak.fi/fi/ohjelmisto/imperial-stage",
+"page": "https://www.zodiak.fi/index%2ephp/fi/ohjelmisto/imperial-stage",
 "desc": "Marika Peuran koreografinen teos tutkii imperiumin ytimessä olevaa ruumista ja imperialistisen elämäntavan ristiriitoja. Esitys syventyy siihen, kuinka järjestelmät muovaavat ajatuksiamme ja halujamme sekä reflektoi taiteilijan sosiopoliittista asemaa.",
 "dv": 2
 },
-"teatteri-vantaa-saikkua-kiitos-osa-2": {
+"teatteri-vantaa-viirun-ja-pesosen-joulu": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
 "stage": "Silkkisali",
-"title": "Saikkua, kiitos! OSA 2",
-"genre": "Komedia",
-"dur": null,
-"inter": null,
+"title": "Viirun ja Pesosen joulu",
+"genre": "Lapsille",
+"dur": 30,
+"inter": false,
 "lang": "suomi",
 "subs": null,
-"page": "https://teatterivantaa.fi/portfolio/saikkua-kiitos-osa-2/",
-"desc": "Suosittua Saikkua, kiitos! -trilogian toinen osa, joka syvennytään terveyskeskusten käytäville uusilla, huumorilla höystätyillä käänteillä. Esitykseen kuuluu myös Ismo Leikolan tekemiä lauluja.",
+"page": "https://teatterivantaa.fi/portfolio/viirun-ja-pesosen-joulu/",
+"desc": "Viiru-kissa ja Pesonen valmistautuvat jouluun tekemällä jouluvalmisteluja ja hankkimalla kuusta ja lahjoja. Pesonen yrittää salaa valmistaa joulupukkia esitykseen, mutta matkan varrella sattuu monenlaisia kummallisia asioita.",
 "dv": 2
 },
 "teatteri-vantaa-grumpy-old-women-entisten-nuorten-kapina": {
@@ -261,8 +247,8 @@
 "stage": "Silkkisali",
 "title": "Grumpy Old Women – entisten nuorten kapina",
 "genre": "Komedia",
-"dur": null,
-"inter": null,
+"dur": 120,
+"inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/grumpy-old-women-entisten/",
@@ -282,111 +268,16 @@
 "page": "https://teatterivantaa.fi/portfolio/ikitahti-annikki-tahden-tarina/",
 "desc": "Musiikkinäytelmä legendaarisen laulaja Annikki Tähden elämästä, joka tuo näyttämölle muistojen kauneutta ja hänen rakastettuja iskelmäkappaleita. Esitys käsittelee tinkimätöntä taiteilijaaa, joka säilytti uskon musiikin voimaan läpi uransa.",
 "dv": 2
-},
-"teatteri-vantaa-viirun-ja-pesosen-joulu": {
-"theatre": "Teatteri Vantaa",
-"city": "Vantaa",
-"stage": "Teatteri Vantaa",
-"title": "Viirun ja Pesosen joulu",
-"genre": "Lapsille",
-"dur": 30,
-"inter": false,
-"lang": "suomi",
-"subs": null,
-"page": "https://teatterivantaa.fi/portfolio/viirun-ja-pesosen-joulu/",
-"desc": "Viiru-kissa ja Pesonen valmistautuvat jouluun tekemällä jouluvalmisteluja ja hankkimalla kuusta ja lahjoja. Pesonen yrittää salaa valmistaa joulupukkia esitykseen, mutta matkan varrella sattuu monenlaisia kummallisia asioita.",
-"dv": 2
 }
 },
 "showings": [
-{
-"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
-"date": "2026-11-27",
-"time": "14.00",
-"price": 24,
-"avail": "unknown",
-"url": "https://embed.netticket.fi/ikitahti-vantaa"
-},
-{
-"p": "kom-teatteri-mysterio-buffo",
-"date": "2026-11-27",
-"time": "18.30",
-"price": 38,
-"avail": "unknown",
-"url": "https://kom.lippu.fi/webshop/webticket/shop?production=72"
-},
-{
-"p": "ryhmateatteri-aitisi-klytaimestra",
-"date": "2026-11-27",
-"time": "18.30",
-"price": null,
-"avail": "many",
-"url": "https://www.tiketti.fi/tapahtuma/118110"
-},
-{
-"p": "suomen-kansallisteat-lopetus",
-"date": "2026-11-27",
-"time": "18.30",
-"price": 49,
-"avail": "few",
-"url": "https://www.lippu.fi/event/lopetus-suomen-kansallisteatteri-21645842/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-taru-hohtavasta-helmesta",
-"date": "2026-11-27",
-"time": "18.30",
-"price": 42,
-"avail": "sold",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-taru-hohtavasta-helmesta-suomen-kansallisteatteri-21650358/?affiliate=ADV&language=fi"
-},
-{
-"p": "suomen-kansallisteat-viides-askel",
-"date": "2026-11-27",
-"time": "18.30",
-"price": 42,
-"avail": "sold",
-"url": "https://www.kansallisteatteri.fi/esitys/viides-askel"
-},
-{
-"p": "teatteri-vantaa-saikkua-kiitos-osa-2",
-"date": "2026-11-27",
-"time": "18.30",
-"price": null,
-"avail": "unknown",
-"url": "https://teatterivantaa.fi/portfolio/saikkua-kiitos-osa-2/",
-"note": "K18-tilaisuus"
-},
-{
-"p": "svenska-teatern-blaue-frau-anstaller",
-"date": "2026-11-27",
-"time": "19.00",
-"price": null,
-"avail": "many",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12296/9557/"
-},
-{
-"p": "svenska-teatern-onko-taalla-kuuma",
-"date": "2026-11-27",
-"time": "19.00",
-"price": null,
-"avail": "many",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12280/9401/"
-},
-{
-"p": "zodiak-uuden-tanssin-imperial-stage",
-"date": "2026-11-27",
-"time": "19.00",
-"price": 16,
-"avail": "unknown",
-"url": "https://tix.zodiak.fi/fi/buyingflow/tickets/15876/"
-},
 {
 "p": "teatteri-vantaa-viirun-ja-pesosen-joulu",
 "date": "2026-11-28",
 "time": "11.00",
 "price": 15,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/viirun-ja-pesosen-joulu-vantaa"
+"url": "https://teatterivantaa.fi/portfolio/viirun-ja-pesosen-joulu/"
 },
 {
 "p": "kom-teatteri-poiskatsojat",
@@ -403,7 +294,7 @@
 "price": 49,
 "avail": "few",
 "url": "https://www.lippu.fi/event/suomen-kansallisteatteri-mirdja-suomen-kansallisteatteri-21645849/?affiliate=ADV&language=fi",
-"note": "Ensi-ilta"
+"note": "Kantaesitys 25.11.2026"
 },
 {
 "p": "suomen-kansallisteat-viidakon-villit-naiset",
@@ -420,14 +311,6 @@
 "price": 42,
 "avail": "many",
 "url": "https://www.lippu.fi/event/viides-askel-suomen-kansallisteatteri-21645830/?affiliate=ADV&language=fi"
-},
-{
-"p": "svenska-teatern-pelle-svanslos",
-"date": "2026-11-28",
-"time": "13.00",
-"price": null,
-"avail": "many",
-"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12274/9278/"
 },
 {
 "p": "ryhmateatteri-aitisi-klytaimestra",
@@ -486,21 +369,22 @@
 "url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21645864/?affiliate=ADV&language=fi"
 },
 {
-"p": "teatteri-vantaa-ikitahti-annikki-tahden-tarina",
-"date": "2026-11-29",
-"time": "18.30",
-"price": 24,
+"p": "zodiak-uuden-tanssin-imperial-stage",
+"date": "2026-11-28",
+"time": "19.00",
+"price": null,
 "avail": "unknown",
-"url": "https://embed.netticket.fi/ikitahti-vantaa",
-"note": "K18-tilaisuus"
+"url": "https://tix.zodiak.fi/fi/buyingflow/tickets/15876/",
+"note": "Ensi-ilta"
 },
 {
 "p": "teatteri-vantaa-grumpy-old-women-entisten-nuorten-kapina",
 "date": "2026-11-30",
 "time": "14.00",
 "price": 24,
-"avail": "unknown",
-"url": "https://embed.netticket.fi/grumpy-old-women-entisten-nuorten-kapina-vantaa"
+"avail": "few",
+"url": "https://teatterivantaa.fi/portfolio/grumpy-old-women-entisten/",
+"note": "K18-tilaisuus"
 },
 {
 "p": "suomen-kansallisteat-mirdja",
@@ -546,7 +430,7 @@
 "p": "teatteri-vantaa-grumpy-old-women-entisten-nuorten-kapina",
 "date": "2026-12-01",
 "time": "18.30",
-"price": null,
+"price": 24,
 "avail": "unknown",
 "url": "https://teatterivantaa.fi/portfolio/grumpy-old-women-entisten/",
 "note": "K18-tilaisuus"
@@ -677,7 +561,7 @@
 "time": "18.30",
 "price": 42,
 "avail": "few",
-"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-taru-hohtavasta-helmesta-suomen-kansallisteatteri-21650360/?affiliate=ADV&language=fi"
+"url": "https://www.lippu.fi/event/suomen-kansallisteatteri-taru-hohtavasta-helmesta-suomen-kansallisteatteri-21650358/?affiliate=ADV&language=fi"
 },
 {
 "p": "svenska-teatern-anglagard",
@@ -694,6 +578,62 @@
 "price": null,
 "avail": "unknown",
 "url": "https://tix.zodiak.fi/fi/buyingflow/tickets/15876/"
+},
+{
+"p": "svenska-teatern-pelle-svanslos",
+"date": "2026-12-04",
+"time": "18.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12274/9280/"
+},
+{
+"p": "kom-teatteri-poiskatsojat",
+"date": "2026-12-04",
+"time": "18.30",
+"price": 46,
+"avail": "unknown",
+"url": "https://kom.lippu.fi/webshop/webticket/shop?production=70"
+},
+{
+"p": "suomen-kansallisteat-lady-t",
+"date": "2026-12-04",
+"time": "18.30",
+"price": 49,
+"avail": "many",
+"url": "https://www.lippu.fi/event/lady-t-pieni-nayttamo-suomen-kansallisteatteri-22026001/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-toinen-tasavalta",
+"date": "2026-12-04",
+"time": "18.30",
+"price": 52,
+"avail": "few",
+"url": "https://www.lippu.fi/event/toinen-tasavalta-suomen-kansallisteatteri-21645926/?affiliate=ADV&language=fi"
+},
+{
+"p": "suomen-kansallisteat-viides-askel",
+"date": "2026-12-04",
+"time": "18.30",
+"price": 42,
+"avail": "many",
+"url": "https://www.lippu.fi/event/viides-askel-suomen-kansallisteatteri-21645832/?affiliate=ADV&language=fi"
+},
+{
+"p": "svenska-teatern-ballader-och-oforskamdheter",
+"date": "2026-12-04",
+"time": "19.00",
+"price": 30,
+"avail": "sold",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12297/9569/"
+},
+{
+"p": "svenska-teatern-blaue-frau-anstaller",
+"date": "2026-12-04",
+"time": "19.00",
+"price": null,
+"avail": "many",
+"url": "https://biljetter.svenskateatern.fi/sv/buyingflow/tickets/12296/9561/"
 }
 ],
 "theatres": [

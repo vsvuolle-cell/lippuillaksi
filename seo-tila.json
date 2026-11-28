@@ -53,11 +53,11 @@
 "dur": 165,
 "inter": true,
 "lang": "suomi",
-"subs": "Tekstitys saatavilla englanniksi ja suomeksi",
+"subs": "Tekstitys saatavilla englanniksi ja suomeksi (Subtitle Mobile -sovellus)",
 "page": "https://www.kansallisteatteri.fi/esitys/toinen-tasavalta",
 "desc": "Esitys käsittelee Suomen ponnisteluita säilyttää demokratia Neuvostoliiton painostuksen ja sisäisten poliittisten ristiriitojen keskellä sodanjälkeisestä ajasta 1980-luvulle ja Neuvostoliiton romahdukseen. Keskiössä on valtiomies Urho Kekkonen ja tarina kansakunnasta, joka kykeni torjumaan uhat ja rakentamaan hyvinvointiyhteiskunnan.",
 "dv": 2,
-"last": "2026-12-02"
+"last": "2026-12-04"
 },
 "/teatteri/suomen-kansallisteatteri/viidakon-villit-naiset/": {
 "theatre": "Suomen Kansallisteatteri",
@@ -311,7 +311,7 @@
 "page": "https://kom-teatteri.fi/ohjelmisto/poiskatsojat/",
 "desc": "Esitys käsittelee länsimaiden poliitikkojen ja median välinpitämättömyyttä Gazan kriisiä kohtaan. Dokumentaariseen faktoihin pohjautuva, mustan huumorin sävyttämä teoksi tuo näyttämölle faktaperustaista tietoa maailmanpolitiikan monimutkaisista kysymyksistä.",
 "dv": 2,
-"last": "2026-12-02"
+"last": "2026-12-04"
 },
 "/teatteri/kom-teatteri/mysterio-buffo/": {
 "theatre": "KOM-teatteri",
@@ -519,7 +519,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/lady-t-0",
 "desc": "Esityksessä käsitellään Britannian entisen pääministeri Margaret Thatcherin ja hotellityöläinen Linda Elliottin kohtaamista, kun muistisairauden kurittama Thatcher asuu Lontoon hotellissa. Näytelmä pohtii poliittisten päätösten vaikutusta yksittäisten ihmisten elämään.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-12-04"
 },
 "/teatteri/aleksanterin-teatteri/kreivitar-amalien-draamakierros/": {
 "theatre": "Aleksanterin teatteri",
@@ -1074,7 +1074,7 @@
 "page": "https://www.kansallisteatteri.fi/esitys/viides-askel",
 "desc": "Kahden miehen, toipuvien alkoholistien Lukan ja Jarmon, välinen kohtaaminen AA-ohjelmassa johtaa moraaliseen itsetutkiskeluun ja vertaistuen muuttumiseen ironian välineeksi. Näytelmä käsittelee yksinäisyyttä, epätoivoa ja ihmisen heikkouksia mustalla huumorilla.",
 "dv": 2,
-"last": "2026-12-02"
+"last": "2026-12-04"
 },
 "/teatteri/kom-teatteri/naytelmatehdas/": {
 "theatre": "KOM-teatteri",
@@ -1125,14 +1125,14 @@
 "theatre": "Suomen Kansallisteatteri",
 "city": "Helsinki",
 "stage": "Suuri näyttämö",
-"title": "Taru hohtavasta helmesta",
+"title": "Taru hohtavasta helmestä",
 "genre": "Lapsille",
 "dur": 135,
 "inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://www.kansallisteatteri.fi/esitys/taru-hohtavasta-helmesta",
-"desc": "Aili Somersalon Mestaritontun seikkailut -teokseen perustuva esitys, joka tuo teatteriin mielikuvituksen ja taikaansa. Suosittelemme esitystä yli 6-vuotiaille.",
+"desc": "Aili Somersalon teokseen perustuva esitys Mestaritontun seikkailuista, joka täyttää näyttämön mielikuvituksen ja teatterin taialla. Esitys sopii erityisesti yli 6-vuotiaille lapsille.",
 "dv": 2,
 "last": "2026-12-03"
 },
@@ -1224,7 +1224,7 @@
 "page": "https://svenskateatern.fi/repertoar/blaue-frau-anstaller/",
 "desc": "Spekulatiivinen dokumentaariteatteriesitys, joka tutkii työmarkkinajärjestelmää ja siihen liittyviä kysymyksiä palkkatyöstä ja sen merkityksestä. Esityksessä käytetään case-tutkimuksia ja haastatteluja tuodakseen esiin yli 340 000 työnhakijan päivittäisen todellisuuden.",
 "dv": 2,
-"last": "2026-12-02"
+"last": "2026-12-04"
 },
 "/teatteri/aleksanterin-teatteri/bella-italia/": {
 "theatre": "Aleksanterin teatteri",
@@ -1329,7 +1329,7 @@
 "page": "https://svenskateatern.fi/repertoar/pelle-svanslos/",
 "desc": "Pelle Svanslös ja hänen ystävänsä Bill ja Bull seikkaavat värikkäässä seikkailussa, joka täynnä laulua, toimintaa ja sydäntä. Esityksessä yhdistyvät huumori ja lämpö sekä tarinat ulkopuolisuudesta ja oman paikan löytämisestä maailmasta.",
 "dv": 2,
-"last": "2026-11-28"
+"last": "2026-12-04"
 },
 "/teatteri/zodiak-uuden-tanssin-keskus/imperial-stage/": {
 "theatre": "Zodiak – Uuden tanssin keskus",
@@ -1341,7 +1341,7 @@
 "inter": null,
 "lang": null,
 "subs": null,
-"page": "https://www.zodiak.fi/fi/ohjelmisto/imperial-stage",
+"page": "https://www.zodiak.fi/index%2ephp/fi/ohjelmisto/imperial-stage",
 "desc": "Marika Peuran koreografinen teos tutkii imperiumin ytimessä olevaa ruumista ja imperialistisen elämäntavan ristiriitoja. Esitys syventyy siihen, kuinka järjestelmät muovaavat ajatuksiamme ja halujamme sekä reflektoi taiteilijan sosiopoliittista asemaa.",
 "dv": 2,
 "last": "2026-12-03"
@@ -1349,7 +1349,7 @@
 "/teatteri/teatteri-vantaa/viirun-ja-pesosen-joulu/": {
 "theatre": "Teatteri Vantaa",
 "city": "Vantaa",
-"stage": "Teatteri Vantaa",
+"stage": "Silkkisali",
 "title": "Viirun ja Pesosen joulu",
 "genre": "Lapsille",
 "dur": 30,
@@ -1411,8 +1411,8 @@
 "stage": "Silkkisali",
 "title": "Grumpy Old Women – entisten nuorten kapina",
 "genre": "Komedia",
-"dur": null,
-"inter": null,
+"dur": 120,
+"inter": true,
 "lang": "suomi",
 "subs": null,
 "page": "https://teatterivantaa.fi/portfolio/grumpy-old-women-entisten/",
@@ -1494,5 +1494,20 @@
 "desc": "Tuukka Pietarisen runoihin perustuva musiikillinen runoesitys, joka käsittelee elämänpolkua, ihmisen suhdetta sukupolviin sekä iloa ja luopumista. Näyttelijä Leena Rapolan tulkitsemia runoja ja lauluja yhdistää pianisti Elina Saksalan musiikki.",
 "dv": 2,
 "last": "2026-12-02"
+},
+"/teatteri/svenska-teatern/ballader-och-oforskamdheter/": {
+"theatre": "Svenska Teatern",
+"city": "Helsinki",
+"stage": "AMOS-scenen",
+"title": "Ballader och oförskämdheter",
+"genre": "Musikaali",
+"dur": 120,
+"inter": true,
+"lang": "ruotsi",
+"subs": "Ruotsi ja suomi",
+"page": "https://svenskateatern.fi/repertoar/ballader-och-oforskamdheter/",
+"desc": "Viisi suomalaista muusikkoa esittää ruotsalaisen runoilija-laulajan Cornelis Vreeswijn'in kappaleet sekä alkuperäiskielellä että uusissa suomalaisissa käännöksissä. Konsertin tavoitteena on tuoda tuntemattoman Vreeswijn'in tuotanto lähemmäksi suomalaista yleisöä.",
+"dv": 2,
+"last": "2026-12-04"
 }
 }
